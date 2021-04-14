@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react'
 
-function App() {
+import './App.css'
+import { CardList } from './card-list'
+
+function App () {
+  const [deckCode, setDeckCode] = useState(null)
+  const handleChange = event => {
+    setDeckCode(event.target.value)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className='App'>
+      <header className='App-header'>
+        <label>
+          Enter Deck Code: <input type='textarea' value={deckCode} onChange={handleChange}></input>
+        </label>
+        <div>{deckCode && <CardList deckCode={deckCode} />}</div>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

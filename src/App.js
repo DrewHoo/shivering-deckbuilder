@@ -4,9 +4,11 @@ import './App.css'
 import { CardList } from './CardList'
 import { CurveDiagram } from './CurveDiagram'
 import { getCardsFromDeckCode } from './deck-analyzer'
+import { KeywordPieGraph } from './KeywordPieGraph'
+import { MechanicPieGraph } from './MechanicPieGraph'
 
 function App () {
-  const [deckCode, setDeckCode] = useState('')
+  const [deckCode, setDeckCode] = useState('SPASaskwmxnHwAyBjyymfhaAjXqhmUflxPkYirwqAPbOdhpVnwaNxScrxcvKdVefbKdEfvdYALhPqygsnMvDjHrCoedIrkmG')
   const handleChange = event => {
     setDeckCode(event.target.value)
   }
@@ -29,6 +31,8 @@ function App () {
       </header>
       <div className='App-analytics'>
         {deckCode && <CardList cardList={cardList} />}
+        {deckCode && <MechanicPieGraph cardList={cardList} />}
+        {deckCode && <KeywordPieGraph cardList={cardList} />}
         {deckCode && <CurveDiagram cardList={cardList} />}
       </div>
     </div>

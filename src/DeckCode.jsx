@@ -1,6 +1,6 @@
 import FileCopyIcon from '@material-ui/icons/FileCopy'
 import React from 'react'
-import { trackDeckCodePaste } from './tracker'
+import { trackDeckCodeCopy, trackDeckCodePaste } from './tracker'
 
 export function DeckCode ({ deckCode, setDeckCode }) {
   const handleChange = changeEvent => {

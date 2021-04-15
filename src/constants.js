@@ -7,5 +7,6 @@ export const KeywordNames = {
   Rally: 'Rally',
   Regenerate: 'Regenerate',
   Breakthrough: 'Breakthrough',
-  Lethal: 'Lethal'
+  Lethal: 'Lethal',
+  Mobilize: 'Mobilize'
 }

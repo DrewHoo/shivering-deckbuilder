@@ -65,7 +65,8 @@ export function addCardToDeckObject (deck, card) {
 
   let newCount = 1
   if (pair) {
-    const [count, cards] = pair
+    const [_count, cards] = pair
+    const count = parseInt(_count, 10)
     newCount = count + 1
     deck[count] = _.without(cards, card.code)
   }
@@ -83,6 +84,5 @@ function turnNumberIntoBase26 (number) {
     number %= 26
     i++
   }
-  console.log(i, number)
   return String.fromCharCode(65 + i) + String.fromCharCode(65 + number)
 }

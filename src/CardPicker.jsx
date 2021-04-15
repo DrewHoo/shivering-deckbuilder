@@ -18,7 +18,9 @@ export function CardPicker ({ addCard }) {
         <NativeSelect value={currentCard.Name} onChange={handleChange}>
           <option aria-label='None' value='' />
           {cards.map(card => (
-            <option value={card.Name}>{card.Name}</option>
+            <option key={card.Name} value={card.Name}>
+              {card.Name}
+            </option>
           ))}
         </NativeSelect>
       </label>

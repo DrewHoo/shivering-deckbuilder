@@ -8,7 +8,7 @@ export const CardList = ({ cardList }) => {
     <div className='CardList'>
       <ul>
         {Object.entries(counts).map(([cardName, cardCount]) => (
-          <li className="CardList.item" key={cardName}>
+          <li className="CardList-item" key={cardName}>
             {cardName} {cardCount}
           </li>
         ))}

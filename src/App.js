@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import './App.css'
+import { AttributePieGraph } from './AttributePieGraph'
 import { CardList } from './CardList'
 import { CardPicker } from './CardPicker'
 import { CurveDiagram } from './CurveDiagram'
@@ -38,10 +39,13 @@ function App () {
       </header>
       <div className='App-analytics'>
         {deckCode && <CardList cardList={cardList} />}
+        {deckCode && <AttributePieGraph cardList={cardList} />}
+        {deckCode && <CurveDiagram cardList={cardList} />}
+      </div>
+      <div className='App-analytics'>
+        {deckCode && <KeywordPieGraph cardList={cardList} />}
         {deckCode && <SetPieGraph cardList={cardList} />}
         {deckCode && <MechanicPieGraph cardList={cardList} />}
-        {deckCode && <KeywordPieGraph cardList={cardList} />}
-        {deckCode && <CurveDiagram cardList={cardList} />}
       </div>
     </div>
   )

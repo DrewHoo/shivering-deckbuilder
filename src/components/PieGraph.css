@@ -1,3 +1,7 @@
 .PieGraph .PieGraph-labeltext {
   font-size: 0.6rem;
 }
+
+.PieGraph {
+  height: unset;
+}

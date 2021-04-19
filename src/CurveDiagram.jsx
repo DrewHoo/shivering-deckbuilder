@@ -37,7 +37,7 @@ export const CurveDiagram = ({ cardList }) => {
       }
     })
   return (
-    <ResponsiveContainer width='100%' height='100%'>
+    <ResponsiveContainer width='100%' height={400}>
       <BarChart width={150} height={40} data={data}>
         <XAxis dataKey='name' />
         <YAxis />

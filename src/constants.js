@@ -10,3 +10,12 @@ export const KeywordNames = {
   Lethal: 'Lethal',
   Mobilize: 'Mobilize'
 }
+
+export const AttributeNames = {
+  Strength: 'Strength',
+  Willpower: 'Willpower',
+  Intelligence: 'Intelligence',
+  Agility: 'Agility',
+  Endurance: 'Endurance',
+  Neutral: 'Neutral'
+}

@@ -1,5 +1,6 @@
-import FileCopyIcon from '@material-ui/icons/FileCopy'
 import React from 'react'
+import TextareaAutosize from '@material-ui/core/TextareaAutosize'
+import FileCopyIcon from '@material-ui/icons/FileCopy'
 import { trackDeckCodeCopy, trackDeckCodePaste } from './tracker'
 
 export function DeckCode ({ deckCode, setDeckCode }) {
@@ -15,9 +16,15 @@ export function DeckCode ({ deckCode, setDeckCode }) {
     navigator.clipboard.writeText(deckCode)
   }
   return (
-    <label>
-      <textarea value={deckCode} onChange={handleChange}></textarea>
+    <div>
+      <TextareaAutosize
+        aria-label='minimum height'
+        rowsMin={3}
+        placeholder='Minimum 3 rows'
+        value={deckCode}
+        onChange={handleChange}
+      />
       <FileCopyIcon onClick={writeDeckCodeToClipboard} />
-    </label>
+    </div>
   )
 }

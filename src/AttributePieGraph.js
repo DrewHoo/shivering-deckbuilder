@@ -11,7 +11,8 @@ const AttributeToColorMap = {
   neutral: '#b5b3b3'
 }
 
-export function AttributePieGraph ({ cardList }) {
+export function AttributePieGraph (props) {
+  const cardList = props.cardList
   const nameKey = 'attribute'
   const keywordCountDictionary = _.countBy(
     cardList.flatMap(card =>

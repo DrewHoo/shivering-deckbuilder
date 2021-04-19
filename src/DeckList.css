@@ -1,8 +1,7 @@
-.CardList ul {
+.DeckList ul {
     list-style-type: none;
 }
 
-.CardList-item {
+.DeckList-item {
   font-size: 0.8rem;
-  width: 15vw;
 }

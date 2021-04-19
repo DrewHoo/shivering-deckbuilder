@@ -29,7 +29,8 @@ export function PieGraph ({ data, nameKey, dataKey }) {
     const x = cx + radius * Math.cos(-midAngle * RADIAN)
     const y = cy + radius * Math.sin(-midAngle * RADIAN)
     return (
-      <text className="PieGraph-labeltext"
+      <text
+        className='PieGraph-labeltext'
         x={x}
         y={y}
         fill='black'
@@ -41,7 +42,8 @@ export function PieGraph ({ data, nameKey, dataKey }) {
     )
   }
   return (
-    <ResponsiveContainer width='100%' height='100%' className='PieGraph'>
+    <ResponsiveContainer width='100%' height={400} className='PieGraph'>
+      {/* <ResponsiveContainer className='PieGraph'> */}
       <PieChart width={400} height={400}>
         <Pie
           data={data}
@@ -55,7 +57,10 @@ export function PieGraph ({ data, nameKey, dataKey }) {
           label={renderCustomizedLabel}
         >
           {data.map((entry, index) => (
-            <Cell key={`cell-${index}`} fill={entry.color ?? COLORS[index % COLORS.length]} />
+            <Cell
+              key={`cell-${index}`}
+              fill={entry.color ?? COLORS[index % COLORS.length]}
+            />
           ))}
         </Pie>
       </PieChart>

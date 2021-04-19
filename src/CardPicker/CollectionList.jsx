@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import { makeStyles } from '@material-ui/core/styles'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
@@ -19,20 +19,19 @@ export function CollectionList ({ cards, addCard }) {
 
   function renderRow (props) {
     const { index, style } = props
-    const { Name, ['Magicka Cost']: cost } = cards[index]
+    const card = cards[index]
 
     return (
       <ListItem
         button
         style={style}
-        key={Name}
+        key={card.Name}
         onClick={() => {
-          trackCardAdded(cards[index].Name)
-          addCard(cards[index])
-        }
-        }
+          trackCardAdded(card.Name)
+          addCard(card)
+        }}
       >
-        <ListItemText primary={Name} secondary={cost} />
+        <ListItemText primary={card.Name} secondary={card['Magicka Cost']} />
       </ListItem>
     )
   }

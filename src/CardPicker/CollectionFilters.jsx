@@ -1,15 +1,14 @@
 import React from 'react'
-import clsx from 'clsx'
+import _ from 'lodash'
 import { makeStyles, useTheme } from '@material-ui/core/styles'
 import Input from '@material-ui/core/Input'
 import InputLabel from '@material-ui/core/InputLabel'
 import MenuItem from '@material-ui/core/MenuItem'
 import FormControl from '@material-ui/core/FormControl'
-import ListItemText from '@material-ui/core/ListItemText'
 import Select from '@material-ui/core/Select'
-import Checkbox from '@material-ui/core/Checkbox'
 import Chip from '@material-ui/core/Chip'
 import { AttributeNames } from '../constants'
+import { trackFilterAdded, trackFilterRemoved } from '../tracker'
 
 const useStyles = makeStyles(theme => ({
   formControl: {
@@ -56,6 +55,16 @@ export function CollectionFilters ({ attributeFilter, setAttributeFilter }) {
   const theme = useTheme()
 
   const handleChange = event => {
+    const {
+      target: { value: newFilter }
+    } = event
+    if (newFilter.length > attributeFilter.length) {
+      const [filterValue] = _.difference(newFilter, attributeFilter)
+      trackFilterAdded(`Attribute: ${filterValue}`)
+    } else {
+      const [filterValue] = _.difference(attributeFilter, newFilter)
+      trackFilterRemoved(`Attribute: ${filterValue}`)
+    }
     setAttributeFilter(event.target.value)
   }
 

@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
 import { FixedSizeList } from 'react-window'
+import { trackCardAdded } from '../tracker'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -25,7 +26,11 @@ export function CollectionList ({ cards, addCard }) {
         button
         style={style}
         key={Name}
-        onClick={() => addCard(cards[index])}
+        onClick={() => {
+          trackCardAdded(cards[index].Name)
+          addCard(cards[index])
+        }
+        }
       >
         <ListItemText primary={Name} secondary={cost} />
       </ListItem>

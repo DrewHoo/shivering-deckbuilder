@@ -10,7 +10,7 @@ import IconButton from '@material-ui/core/IconButton'
 import MenuIcon from '@material-ui/icons/Menu'
 import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
-import { addCardToDeck } from './deck-analyzer'
+import { addCardToDeck, removeCardFromDeck } from './deck-analyzer'
 import { CardPicker } from './CardPicker/CardPicker'
 import { DeckCode } from './DeckCode'
 import { makeStyles } from '@material-ui/core/styles'
@@ -86,6 +86,9 @@ export default function DeckBuilder () {
   const addCard = card => {
     setDeckCode(addCardToDeck(deckCode, card))
   }
+  const removeCard = card => {
+    setDeckCode(removeCardFromDeck(deckCode, card))
+  }
 
   const classes = useStyles()
   const theme = useTheme()
@@ -148,7 +151,13 @@ export default function DeckBuilder () {
 
       <main className={classes.content}>
         <div className={classes.toolbar} />
-        {deckCode && <DeckDetail deckCode={deckCode} />}
+        {deckCode && (
+          <DeckDetail
+            deckCode={deckCode}
+            addCard={addCard}
+            removeCard={removeCard}
+          />
+        )}
       </main>
     </div>
   )

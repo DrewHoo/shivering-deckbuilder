@@ -1,7 +1,7 @@
 import React from 'react'
 import { makeStyles } from '@material-ui/core/styles'
 import { AttributePieGraph } from './AttributePieGraph'
-import { DeckList } from './DeckList'
+import { DeckList } from './DeckList/DeckList'
 import { CurveDiagram } from './CurveDiagram'
 import { KeywordPieGraph } from './KeywordPieGraph'
 import { MechanicPieGraph } from './MechanicPieGraph'
@@ -21,7 +21,7 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-export default function DeckDetail ({ deckCode }) {
+export default function DeckDetail ({ deckCode, addCard, removeCard }) {
   const classes = useStyles()
   const cardList = getCardsFromDeckCode(deckCode)
 
@@ -30,7 +30,11 @@ export default function DeckDetail ({ deckCode }) {
       <Grid container spacing={3}>
         <Grid item xs={12}>
           <SimpleCard title='Card List'>
-            <DeckList cardList={cardList} />
+            <DeckList
+              cardList={cardList}
+              addCard={addCard}
+              removeCard={removeCard}
+            />
           </SimpleCard>
         </Grid>
         <Grid item xs={12} sm={6}>

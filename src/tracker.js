@@ -9,15 +9,29 @@ const MixpanelEventNames = {
 }
 
 const MixpanelPropertyNames = {
-  DeckBuilderFilter: 'Deck Builder Filter'
+  DeckBuilderFilter: 'Deck Builder Filter',
+  ActionMethod: 'Action Method'
 }
 
 export function trackDeckCodePaste (deckCode) {
   mixpanel.track(MixpanelEventNames.DeckCodePasted, { deckCode })
 }
 
-export function trackCardAdded (cardName) {
-  mixpanel.track(MixpanelEventNames.CardAdded, { card: cardName })
+export function trackCardAdded (
+  cardName,
+  actionMethod = 'Deck Builder Slideout'
+) {
+  mixpanel.track(MixpanelEventNames.CardAdded, {
+    card: cardName,
+    [MixpanelPropertyNames.ActionMethod]: actionMethod
+  })
+}
+
+export function trackCardRemoved (cardName, actionMethod = 'Deck List View') {
+  mixpanel.track(MixpanelEventNames.CardRemoved, {
+    card: cardName,
+    [MixpanelPropertyNames.ActionMethod]: actionMethod
+  })
 }
 
 export function trackDeckCodeCopy (deckCode) {

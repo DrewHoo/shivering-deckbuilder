@@ -17,7 +17,7 @@ import { makeStyles } from '@material-ui/core/styles'
 import { useTheme } from '@material-ui/core/styles'
 import DeckDetail from './DeckDetail'
 
-const drawerWidth = 240
+const drawerWidth = 320
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -149,8 +149,12 @@ export default function DeckBuilder () {
         <CardPicker addCard={addCard} />
       </Drawer>
 
-      <main className={classes.content}>
-        <div className={classes.toolbar} />
+      <main
+        className={clsx(classes.content, {
+          [classes.contentShift]: open
+        })}
+      >
+        <div className={classes.drawerHeader} />
         {deckCode && (
           <DeckDetail
             deckCode={deckCode}

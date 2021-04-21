@@ -9,6 +9,7 @@ import { SetPieGraph } from './SetPieGraph'
 import Grid from '@material-ui/core/Grid'
 import SimpleCard from './Card'
 import { getCardsFromDeckCode } from './deck-analyzer'
+import { CardDetailView } from './DeckList/CardDetailView'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -25,6 +26,20 @@ export default function DeckDetail ({ deckCode, addCard, removeCard }) {
   const classes = useStyles()
   const cardList = getCardsFromDeckCode(deckCode)
 
+  const [open, setOpen] = React.useState(false)
+  const [card, setCard] = React.useState(false)
+
+
+  const handleClickOpen = (_card) => {
+    setCard(_card)
+    setOpen(true)
+  }
+
+  const handleClose = () => {
+    setCard(false)
+    setOpen(false)
+  }
+
   return (
     <div className={classes.root}>
       <Grid container spacing={3}>
@@ -34,6 +49,7 @@ export default function DeckDetail ({ deckCode, addCard, removeCard }) {
               cardList={cardList}
               addCard={addCard}
               removeCard={removeCard}
+              handleClickOpen={handleClickOpen}
             />
           </SimpleCard>
         </Grid>
@@ -63,6 +79,13 @@ export default function DeckDetail ({ deckCode, addCard, removeCard }) {
           </SimpleCard>
         </Grid>
       </Grid>
+      <CardDetailView
+        open={open}
+        handleClose={handleClose}
+        addCard={addCard}
+        removeCard={removeCard}
+        card={card}
+      />
     </div>
   )
 }

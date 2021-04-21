@@ -1,7 +1,6 @@
 import React from 'react'
 import _ from 'lodash'
 import clsx from 'clsx'
-import { useTheme } from '@material-ui/core/styles'
 import { makeStyles } from '@material-ui/core/styles'
 import { Divider, List } from '@material-ui/core'
 import { useWidth } from '../Utils/useWidthHook'
@@ -16,21 +15,6 @@ const useStyles = makeStyles(theme => ({
     backgroundColor: theme.palette.background.paper
   }
 }))
-
-const ThemeBreakpoints = {
-  xs: 'xs',
-  sm: 'sm',
-  md: 'md',
-  lg: 'lg',
-  xl: 'xl'
-}
-
-function isWidthGreaterThan (width, breakpoint) {
-  const breakpoints = Object.values(ThemeBreakpoints)
-  const widthIndex = breakpoints.indexOf(width)
-  const breakpointIndex = breakpoints.indexOf(breakpoint)
-  return widthIndex - breakpointIndex
-}
 
 function getNumberOfColumns (width) {
   switch (width) {
@@ -47,8 +31,7 @@ function getNumberOfColumns (width) {
   }
 }
 
-export const DeckList = ({ cardList, addCard, removeCard }) => {
-  const theme = useTheme()
+export const DeckList = ({ cardList, handleClickOpen }) => {
   const classes = useStyles()
   const width = useWidth()
   const maxNumColumns = getNumberOfColumns(width)
@@ -78,8 +61,7 @@ export const DeckList = ({ cardList, addCard, removeCard }) => {
               <DeckListCard
                 key={cardName}
                 card={card}
-                addCard={addCard}
-                removeCard={removeCard}
+                handleClickOpen={handleClickOpen}
               />
               {index !== cards.length - 1 ? (
                 <Divider variant='middle' component='li' />

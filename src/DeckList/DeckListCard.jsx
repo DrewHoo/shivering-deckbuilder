@@ -1,16 +1,9 @@
 import React from 'react'
 import { makeStyles } from '@material-ui/core/styles'
-import RemoveIcon from '@material-ui/icons/Remove'
-import AddIcon from '@material-ui/icons/Add'
-import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
-import Divider from '@material-ui/core/Divider'
 import ListItemText from '@material-ui/core/ListItemText'
-import ListItemAvatar from '@material-ui/core/ListItemAvatar'
-import Avatar from '@material-ui/core/Avatar'
 import Typography from '@material-ui/core/Typography'
-import { IconButton, ListItemSecondaryAction } from '@material-ui/core'
-import { trackCardAdded, trackCardRemoved } from '../tracker'
+
 
 const useStyles = makeStyles(theme => ({
   inline: {
@@ -24,11 +17,11 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-export function DeckListCard ({ card, addCard, removeCard }) {
+export function DeckListCard ({ card, handleClickOpen }) {
   const classes = useStyles()
 
   return (
-    <ListItem alignItems='flex-start'>
+    <ListItem alignItems='flex-start' onClick={() => handleClickOpen(card)}>
       <ListItemText
         primary={
           <Typography
@@ -51,26 +44,6 @@ export function DeckListCard ({ card, addCard, removeCard }) {
           </Typography>
         }
       />
-      <ListItemSecondaryAction className={classes.SecondaryAction}>
-        <IconButton
-          color='primary'
-          onClick={() => {
-            trackCardAdded(card.Name, 'Deck List View')
-            addCard(card)
-          }}
-        >
-          <AddIcon />
-        </IconButton>
-        <IconButton
-          color='secondary'
-          onClick={() => {
-            trackCardRemoved(card.Name, 'Deck List View')
-            removeCard(card)
-          }}
-        >
-          <RemoveIcon />
-        </IconButton>
-      </ListItemSecondaryAction>
     </ListItem>
   )
 }

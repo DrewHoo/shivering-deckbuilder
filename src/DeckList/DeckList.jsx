@@ -35,9 +35,8 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
   const classes = useStyles()
   const width = useWidth()
   const maxNumColumns = getNumberOfColumns(width)
-  // const cardsByCount = Object.entries(_.countBy(cardList, 'Name'))
   const cardsByCount = Object.entries(
-    cardList.reduce((acc, next) => {
+    cardList.sort(decklistCardSort).reduce((acc, next) => {
       if (acc[next.Name]) {
         return {
           ...acc,
@@ -72,4 +71,36 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
       ))}
     </div>
   )
+}
+
+const AttributeOrdering = {
+  strength: 1,
+  willpower: 2,
+  intelligence: 3,
+  agility: 4,
+  endurance: 5,
+  neutral: 6
+}
+
+export function decklistCardSort (a, b) {
+  if (a.Attributes[0] === 'neutral' || b.Attributes[0] === 'neutral') {
+    if (a.Attributes[0] === 'neutral' && b.Attributes[0] === 'neutral') {
+      return sortByCost(a, b)
+    }
+    return a.Attributes[0] === 'neutral' ? 1 : -1
+  }
+  if (a.Attributes.length > 1 && b.Attributes.length > 1) {
+    return sortByCost(a, b)
+  }
+  if (a.Attributes.length > 1 || b.Attributes.length > 1) {
+    return a.Attributes.length > 1 ? 1 : -1
+  }
+  if (a.Attributes[0] === b.Attributes[0]) {
+    return sortByCost(a, b)
+  }
+  return  AttributeOrdering[a.Attributes[0]] - AttributeOrdering[b.Attributes[0]]
+}
+
+function sortByCost (a, b) {
+  return parseInt(a['Magicka Cost'], 10) - parseInt(b['Magicka Cost'], 10)
 }

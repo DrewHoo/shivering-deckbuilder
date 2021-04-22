@@ -96,30 +96,31 @@ export function CollectionFilters ({
           values={CostFilters}
         />
       </FormControl>
-      <Divider />
-      <Typography id='demo-mutiple-chip-label'>Active Filters</Typography>
-      <div className={classes.chips}>
-        {[
-          ...attributeFilter.map(value => (
-            <Chip
-              key={value}
-              label={value}
-              className={classes.chip}
-              onDelete={() =>
-                setAttributeFilter(_.without(attributeFilter, value))
-              }
-            />
-          )),
-          ...costFilter.map(value => (
-            <Chip
-              key={value}
-              label={value}
-              className={classes.chip}
-              onDelete={() => setCostFilter(_.without(costFilter, value))}
-            />
-          ))
-        ]}
-      </div>
+      <FormControl className={classes.formControl}>
+        <Typography id='demo-mutiple-chip-label'>Active Filters</Typography>
+        <div className={classes.chips}>
+          {[
+            ...attributeFilter.map(value => (
+              <Chip
+                key={value}
+                label={value}
+                className={classes.chip}
+                onDelete={() =>
+                  setAttributeFilter(_.without(attributeFilter, value))
+                }
+              />
+            )),
+            ...costFilter.map(value => (
+              <Chip
+                key={value}
+                label={value}
+                className={classes.chip}
+                onDelete={() => setCostFilter(_.without(costFilter, value))}
+              />
+            ))
+          ]}
+        </div>
+      </FormControl>
       <Divider />
     </div>
   )

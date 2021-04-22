@@ -7,7 +7,8 @@ import CssBaseline from '@material-ui/core/CssBaseline'
 import Divider from '@material-ui/core/Divider'
 import Drawer from '@material-ui/core/Drawer'
 import IconButton from '@material-ui/core/IconButton'
-import MenuIcon from '@material-ui/icons/Menu'
+// import MenuIcon from '@material-ui/icons/Menu'
+import LibraryBooksIcon from '@material-ui/icons/LibraryBooks'
 import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
 import { addCardToDeck, removeCardFromDeck } from './deck-analyzer'
@@ -119,7 +120,7 @@ export default function DeckBuilder () {
             edge='start'
             className={clsx(classes.menuButton, open && classes.hide)}
           >
-            <MenuIcon />
+            <LibraryBooksIcon />
           </IconButton>
           <Typography variant='h6' noWrap>
             The Shivering Deck Builder

@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import { Toolbar } from '@material-ui/core'
+// import { Toolbar } from '@material-ui/core'
 import { CollectionFilters } from './CollectionFilters'
 import { cards } from '../collection'
 import { CollectionList } from './CollectionList'
+import { decklistCardSort } from '../DeckList/DeckList'
 
 export function CardPicker ({ addCard }) {
   const [attributeFilter, setAttributeFilter] = useState([])
@@ -11,7 +12,7 @@ export function CardPicker ({ addCard }) {
   const [activeSearchFilter, setActiveSearchFilter] = useState('')
 
   useEffect(() => {
-    let filteredList = cards
+    let filteredList = cards.sort(decklistCardSort)
 
     if (attributeFilter.length) {
       filteredList = cards.filter(({ Attributes }) =>
@@ -37,7 +38,7 @@ export function CardPicker ({ addCard }) {
 
   return (
     <>
-      <Toolbar>
+      {/* <Toolbar> */}
         <CollectionFilters
           attributeFilter={attributeFilter}
           setAttributeFilter={setAttributeFilter}
@@ -46,7 +47,7 @@ export function CardPicker ({ addCard }) {
           activeSearchFilter={activeSearchFilter}
           setActiveSearchFilter={setActiveSearchFilter}
         />
-      </Toolbar>
+      {/* </Toolbar> */}
       {filteredCards && (
         <CollectionList cards={filteredCards} addCard={addCard} />
       )}

@@ -10,6 +10,7 @@ import Grid from '@material-ui/core/Grid'
 import SimpleCard from './Card'
 import { getCardsFromDeckCode } from './deck-analyzer'
 import { CardDetailView } from './DeckList/CardDetailView'
+import { QuickStats } from './QuickStats'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -29,8 +30,7 @@ export default function DeckDetail ({ deckCode, addCard, removeCard }) {
   const [open, setOpen] = React.useState(false)
   const [card, setCard] = React.useState(false)
 
-
-  const handleClickOpen = (_card) => {
+  const handleClickOpen = _card => {
     setCard(_card)
     setOpen(true)
   }
@@ -43,6 +43,11 @@ export default function DeckDetail ({ deckCode, addCard, removeCard }) {
   return (
     <div className={classes.root}>
       <Grid container spacing={3}>
+        <Grid item xs={12}>
+          <SimpleCard title='Quick Stats'>
+            <QuickStats cardList={cardList} />
+          </SimpleCard>
+        </Grid>
         <Grid item xs={12}>
           <SimpleCard title='Card List'>
             <DeckList

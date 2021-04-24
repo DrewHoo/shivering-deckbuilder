@@ -89,16 +89,20 @@ export function decklistCardSort (a, b) {
     }
     return a.Attributes[0] === 'neutral' ? 1 : -1
   }
+
   if (a.Attributes.length > 1 && b.Attributes.length > 1) {
     return sortByCost(a, b)
   }
+
   if (a.Attributes.length > 1 || b.Attributes.length > 1) {
     return a.Attributes.length > 1 ? 1 : -1
   }
+
   if (a.Attributes[0] === b.Attributes[0]) {
     return sortByCost(a, b)
   }
-  return  AttributeOrdering[a.Attributes[0]] - AttributeOrdering[b.Attributes[0]]
+
+  return AttributeOrdering[a.Attributes[0]] - AttributeOrdering[b.Attributes[0]]
 }
 
 function sortByCost (a, b) {

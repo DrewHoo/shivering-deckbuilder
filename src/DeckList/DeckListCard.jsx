@@ -4,7 +4,6 @@ import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
 import Typography from '@material-ui/core/Typography'
 
-
 const useStyles = makeStyles(theme => ({
   inline: {
     display: 'inline'
@@ -22,6 +21,9 @@ export function DeckListCard ({ card, handleClickOpen }) {
 
   return (
     <ListItem alignItems='flex-start' onClick={() => handleClickOpen(card)}>
+      <ListItemText>
+        <Typography>{card.count}</Typography>
+      </ListItemText>
       <ListItemText
         primary={
           <Typography
@@ -40,7 +42,7 @@ export function DeckListCard ({ card, handleClickOpen }) {
             className={classes.inline}
             color='textPrimary'
           >
-            {card.Type}
+            {`${card.Type}, ${card['Magicka Cost']}-cost`}
           </Typography>
         }
       />

@@ -84,6 +84,83 @@ export function addCardToDeckObject (deck, card) {
   }
 }
 
+export function isDeckCodeValid (
+  deckCode,
+  {
+    maxNumCopies,
+    minDeckSize,
+    minTriColorDeckSize,
+    allowedSets,
+    allowedRarities
+  }
+) {
+  console.log('isDeckCodeValid')
+  const deck = turnDeckCodeToObject(deckCode)
+  if (!hasNoMoreThanMaxCopies(deck, maxNumCopies)) {
+    return false
+  }
+  if (!hasNoDuplicateUniques(deck)) {
+    return false
+  }
+  if (!doesNotExceedMaxDeckSize(deck)) {
+    return false
+  }
+  
+  if (!isAboveMinDeckThreshold(deck, minDeckSize, minTriColorDeckSize)) {
+
+  }
+  if (!hasMaxThreeColors(deck)) {
+    return false
+  }
+
+  if (!includesTriColorCardIfThreeColors(deck)) {
+  }
+  return true
+}
+
+function isAboveMinDeckThreshold (deck, minDeckSize, minTriColorDeckSize) {
+  return true
+}
+
+function hasMaxThreeColors (deck) {
+  return true
+}
+
+function includesTriColorCardIfThreeColors (deck) {
+  return true
+}
+
+function hasNoDuplicateUniques (deck) {
+  return Object.entries(deck)
+    .filter(([count]) => count > 1)
+    .every(([, cardCodes]) =>
+      cardCodes.every(
+        cardCode =>
+          collection.find(({ code }) => cardCode === code).Rarity !==
+          'Legendary - Unique'
+      )
+    )
+}
+
+function doesNotExceedMaxDeckSize (deck) {
+  return (
+    Object.entries(deck)
+      .map(([count, cards]) => parseInt(count, 10) * cards.length)
+      .reduce((sum, next) => sum + next) <= 100
+  )
+}
+
+function hasNoMoreThanMaxCopies (deck, maxCopies) {
+  if (
+    Math.max(
+      ...Object.keys(deck).map(count => parseInt(count, 10)),
+      maxCopies
+    ) <= maxCopies
+  ) {
+    return true
+  }
+}
+
 export function removeCardFromDeckObject (deck, card) {
   const pair = Object.entries(deck).find(([, cards]) =>
     cards.find(c => c === card.code)

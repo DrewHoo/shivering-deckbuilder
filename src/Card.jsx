@@ -2,7 +2,7 @@ import React from 'react'
 import { makeStyles } from '@material-ui/core/styles'
 import Card from '@material-ui/core/Card'
 import CardContent from '@material-ui/core/CardContent'
-import Typography from '@material-ui/core/Typography'
+import { CardHeader } from '@material-ui/core'
 
 const useStyles = makeStyles({
   root: {
@@ -31,9 +31,7 @@ export default function SimpleCard ({ children, title }) {
 
   return (
     <Card className={classes.root}>
-      <Typography className={classes.title} color='textSecondary' gutterBottom>
-        {title}
-      </Typography>
+      <CardHeader title={title}/>
       <CardContent className={classes.cardContent}>{children}</CardContent>
     </Card>
   )

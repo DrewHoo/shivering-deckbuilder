@@ -11,7 +11,7 @@ import { KeywordNames } from './constants'
 
 const useStyles = makeStyles({
   table: {
-    minWidth: 650
+    minWidth: '10vw'
   }
 })
 

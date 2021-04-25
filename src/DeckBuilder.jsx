@@ -13,7 +13,6 @@ import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
 import { addCardToDeck, removeCardFromDeck } from './deck-analyzer'
 import { CardPicker } from './CardPicker/CardPicker'
-import { DeckCode } from './DeckCode'
 import { makeStyles } from '@material-ui/core/styles'
 import { useTheme } from '@material-ui/core/styles'
 import DeckDetail from './DeckDetail'
@@ -125,7 +124,6 @@ export default function DeckBuilder () {
           <Typography variant='h6' noWrap>
             The Shivering Deck Builder
           </Typography>
-          <DeckCode deckCode={deckCode} setDeckCode={setDeckCode} />
         </Toolbar>
       </AppBar>
       <Drawer
@@ -158,6 +156,7 @@ export default function DeckBuilder () {
         <div className={classes.drawerHeader} />
         {deckCode && (
           <DeckDetail
+            setDeckCode={setDeckCode}
             deckCode={deckCode}
             addCard={addCard}
             removeCard={removeCard}

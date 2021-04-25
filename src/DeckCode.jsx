@@ -1,88 +1,134 @@
-import React, { useState, useEffect } from 'react'
-import CheckCircleIcon from '@material-ui/icons/CheckCircle'
-import WarningIcon from '@material-ui/icons/Warning';
-import TextareaAutosize from '@material-ui/core/TextareaAutosize'
+import React, { useState } from 'react'
+import Button from '@material-ui/core/Button'
+import Tooltip from '@material-ui/core/Tooltip'
+import { makeStyles } from '@material-ui/core/styles'
+import Card from '@material-ui/core/Card'
+import CardContent from '@material-ui/core/CardContent'
+import CardHeader from '@material-ui/core/CardHeader'
+import IconButton from '@material-ui/core/IconButton'
+import Dialog from '@material-ui/core/Dialog'
+import DialogActions from '@material-ui/core/DialogActions'
+import DialogContent from '@material-ui/core/DialogContent'
+import DialogContentText from '@material-ui/core/DialogContentText'
+import DialogTitle from '@material-ui/core/DialogTitle'
+import Typography from '@material-ui/core/Typography'
+import PlaylistAddIcon from '@material-ui/icons/PlaylistAdd'
+import ClearIcon from '@material-ui/icons/Clear'
 import FileCopyIcon from '@material-ui/icons/FileCopy'
 import { trackDeckCodeCopy, trackDeckCodePaste } from './tracker'
-import { isDeckCodeValid } from './deck-analyzer'
+import TextareaAutosize from '@material-ui/core/TextareaAutosize'
 
-const ExpansionSets = {
-  CoreSet: 'Core Set',
-  ForgottenHeroCollection: 'Forgotten Hero Collection',
-  FallOfTheDarkBrotherhood: 'The Fall of the Dark Brotherhood',
-  ReturnToClockworkCity: 'Return to Clockwork City',
-  HeroesOfSkyrim: 'Heroes of Skyrim',
-  MadhouseCollection: 'Madhouse Collection',
-  HousesOfMorrowind: 'Houses of Morrowind',
-  IsleOfMadness: 'Isle of Madness',
-  AllianceWar: 'Alliance War',
-  MoonsOfElsweyr: 'Moons of Elsweyr',
-  JawsOfOblivion: 'Jaws of Oblivion',
-  MonthlyReward: 'Monthly Reward',
-  FrostSparkCollection: 'FrostSpark Collection'
-}
-
-const Rarities = {
-  Common: 'Common',
-  Rare: 'Rare',
-  Epic: 'Epic',
-  Legendary: 'Legendary',
-  LegendaryUnique: 'Legendary - Unique'
-}
+const useStyles = makeStyles({
+  root: {
+    minHeight: '20vh',
+    padding: '16px'
+  },
+  bullet: {
+    display: 'inline-block',
+    margin: '0 2px',
+    transform: 'scale(0.8)'
+  },
+  cardContent: {
+    height: '100%'
+  },
+  title: {
+    fontSize: 14
+  },
+  pos: {
+    marginBottom: 12
+  },
+  deckCodeSubheader: {
+    'word-break': 'break-all',
+    width: '100%'
+  }
+})
 
 export function DeckCode ({ deckCode, setDeckCode }) {
-  const handleChange = changeEvent => {
-    if (changeEvent?.target?.value) {
-      trackDeckCodePaste(changeEvent.target.value)
-      setDeckCode(changeEvent.target.value)
-    }
-  }
-
-  const [valid, setValid] = useState(false)
-  /* eslint-disable no-unused-vars */
-  const [maxNumCopies, setMaxNumCopies] = useState(3)
-  const [minDeckSize, setMinDeckSize] = useState(50)
-  const [minTriColorDeckSize, setMinTriColorDeckSize] = useState(75)
-  const [allowedSets, setAllowedSets] = useState(Object.values(ExpansionSets))
-  const [allowedRarities, setAllowedRarities] = useState(
-    Object.values(Rarities)
-  )
-
-  useEffect(() => {
-    const rules = {
-      maxNumCopies,
-      minDeckSize,
-      minTriColorDeckSize,
-      allowedSets,
-      allowedRarities
-    }
-    setValid(isDeckCodeValid(deckCode, rules))
-  }, [
-    deckCode,
-    maxNumCopies,
-    minDeckSize,
-    minTriColorDeckSize,
-    allowedSets,
-    allowedRarities
-  ])
+  const classes = useStyles()
+  const [isDialogOpen, setDialogOpen] = useState(false)
 
   const writeDeckCodeToClipboard = () => {
-    // this is a promise that we'll need to await and catch etc
     trackDeckCodeCopy(deckCode)
     navigator.clipboard.writeText(deckCode)
   }
+
   return (
-    <div>
-      {valid && <CheckCircleIcon />}
-      {!valid && <WarningIcon />}
-      <TextareaAutosize
-        aria-label='minimum height'
-        rowsMin={3}
-        placeholder='Minimum 3 rows'
-        value={deckCode}
-        onChange={handleChange}
+    <Card className={classes.root}>
+      <CardHeader
+        title='Deck Code'
+        action={
+          <>
+            <Tooltip title='Copy Deck Code' aria-label='copy deck code'>
+              <IconButton onClick={writeDeckCodeToClipboard}>
+                <FileCopyIcon />
+              </IconButton>
+            </Tooltip>
+            <Tooltip title='Paste Deck Code' aria-label='paste deck code'>
+              <IconButton onClick={() => setDialogOpen(true)}>
+                <PlaylistAddIcon />
+              </IconButton>
+            </Tooltip>
+            <Tooltip title='Clear Deck Code' aria-label='clear deck code'>
+              <IconButton onClick={() => setDeckCode('SPAAAAAA')}>
+                <ClearIcon />
+              </IconButton>
+            </Tooltip>
+          </>
+        }
       />
-      <FileCopyIcon onClick={writeDeckCodeToClipboard} />
-    </div>
+      <CardContent>
+        <Typography className={classes.deckCodeSubheader}>
+          {deckCode}
+        </Typography>
+        <PasteDeckCodeDialog
+          setDeckCode={setDeckCode}
+          closeDialog={() => setDialogOpen(false)}
+          isDialogOpen={isDialogOpen}
+        />
+      </CardContent>
+    </Card>
+  )
+}
+
+function PasteDeckCodeDialog ({ setDeckCode, closeDialog, isDialogOpen }) {
+  const [deckCode, updateDeckCode] = useState('')
+  return (
+    <Dialog
+      open={isDialogOpen}
+      onClose={closeDialog}
+      aria-labelledby='form-dialog-title'
+    >
+      <DialogTitle id='form-dialog-title'>Paste Deck Code</DialogTitle>
+      <DialogContent>
+        <DialogContentText>Paste a deck code =)</DialogContentText>
+        <TextareaAutosize
+          aria-label='Deck Code'
+          rowsMin={3}
+          placeholder='SPAAAAAA'
+          autoFocus
+          onChange={event => updateDeckCode(event.target.value)}
+          margin='dense'
+          id='deck-code-paste'
+          label='Deck Code'
+          type='text'
+          fullWidth
+        />
+      </DialogContent>
+      <DialogActions>
+        <Button
+          onClick={() => {
+            setDeckCode(deckCode)
+            trackDeckCodePaste(deckCode)
+            closeDialog()
+          }}
+          color='primary'
+        >
+          Import
+        </Button>
+        <Button onClick={closeDialog} color='secondary'>
+          Cancel
+        </Button>
+      </DialogActions>
+    </Dialog>
   )
 }

@@ -84,5 +84,5 @@ function decklistCardComparator(a, b) {
 }
 
 export function cardCostComparator(a, b) {
-  return parseInt(a["Magicka Cost"]) - parseInt(b["Magicka Cost"])
+  return parseInt(a['Magicka Cost']) - parseInt(b['Magicka Cost'])
 }

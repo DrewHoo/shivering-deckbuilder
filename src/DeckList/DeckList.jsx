@@ -73,12 +73,16 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
   )
 }
 
-export function decklistCardComparator(a, b) {
-  const costComparison = parseInt(a["Magicka Cost"]) - parseInt(b["Magicka Cost"])
+function decklistCardComparator(a, b) {
+  const costComparison = cardCostComparator(a, b)
 
   if (costComparison !== 0) {
     return costComparison
   }
 
   return a.Name.localeCompare(b.Name)
+}
+
+export function cardCostComparator(a, b) {
+  return parseInt(a["Magicka Cost"]) - parseInt(b["Magicka Cost"])
 }

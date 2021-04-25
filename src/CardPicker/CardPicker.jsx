@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react'
 import { CollectionFilters } from './CollectionFilters'
 import { cards } from '../collection'
 import { CollectionList } from './CollectionList'
-import { decklistCardSort } from '../DeckList/DeckList'
+import { decklistCardComparator } from '../DeckList/DeckList'
 
 export function CardPicker ({ addCard }) {
   const [attributeFilter, setAttributeFilter] = useState([])
@@ -12,7 +12,7 @@ export function CardPicker ({ addCard }) {
   const [activeSearchFilter, setActiveSearchFilter] = useState('')
 
   useEffect(() => {
-    let filteredList = cards.sort(decklistCardSort)
+    let filteredList = cards.sort(decklistCardComparator)
 
     if (attributeFilter.length) {
       filteredList = cards.filter(({ Attributes }) =>

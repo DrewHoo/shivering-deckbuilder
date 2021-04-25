@@ -36,7 +36,7 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
   const width = useWidth()
   const maxNumColumns = getNumberOfColumns(width)
   const cardsByCount = Object.entries(
-    cardList.sort(decklistCardSort).reduce((acc, next) => {
+    cardList.sort(decklistCardComparator).reduce((acc, next) => {
       if (acc[next.Name]) {
         return {
           ...acc,
@@ -73,38 +73,16 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
   )
 }
 
-const AttributeOrdering = {
-  strength: 1,
-  willpower: 2,
-  intelligence: 3,
-  agility: 4,
-  endurance: 5,
-  neutral: 6
+function decklistCardComparator(a, b) {
+  const costComparison = cardCostComparator(a, b)
+
+  if (costComparison !== 0) {
+    return costComparison
+  }
+
+  return a.Name.localeCompare(b.Name)
 }
 
-export function decklistCardSort (a, b) {
-  if (a.Attributes[0] === 'neutral' || b.Attributes[0] === 'neutral') {
-    if (a.Attributes[0] === 'neutral' && b.Attributes[0] === 'neutral') {
-      return sortByCost(a, b)
-    }
-    return a.Attributes[0] === 'neutral' ? 1 : -1
-  }
-
-  if (a.Attributes.length > 1 && b.Attributes.length > 1) {
-    return sortByCost(a, b)
-  }
-
-  if (a.Attributes.length > 1 || b.Attributes.length > 1) {
-    return a.Attributes.length > 1 ? 1 : -1
-  }
-
-  if (a.Attributes[0] === b.Attributes[0]) {
-    return sortByCost(a, b)
-  }
-
-  return AttributeOrdering[a.Attributes[0]] - AttributeOrdering[b.Attributes[0]]
-}
-
-function sortByCost (a, b) {
-  return parseInt(a['Magicka Cost'], 10) - parseInt(b['Magicka Cost'], 10)
+export function cardCostComparator(a, b) {
+  return parseInt(a['Magicka Cost']) - parseInt(b['Magicka Cost'])
 }

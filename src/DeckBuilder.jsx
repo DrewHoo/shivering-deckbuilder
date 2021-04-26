@@ -82,14 +82,17 @@ const useStyles = makeStyles(theme => ({
 
 export default function DeckBuilder () {
   const [queryParams, setQueryParams] = useQueryParams()
-  const setDeckCode = useCallback(dc => {
-    setQueryParams({ ...queryParams, deckCode: dc })
-  })
+  const setDeckCode = useCallback(
+    dc => {
+      setQueryParams({ ...queryParams, deckCode: dc })
+    },
+    [setQueryParams, queryParams]
+  )
   useEffect(() => {
     if (!queryParams.deckCode) {
       setDeckCode('SPAAAAAA')
     }
-  }, [])
+  }, [queryParams.deckCode, setDeckCode])
 
   const addCard = card => {
     setDeckCode(addCardToDeck(queryParams.deckCode, card))

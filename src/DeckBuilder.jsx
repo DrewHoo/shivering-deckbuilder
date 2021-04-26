@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+import React, { useCallback, useEffect } from 'react'
+import { useQueryParams } from 'hookrouter'
 import clsx from 'clsx'
 import AppBar from '@material-ui/core/AppBar'
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft'
@@ -80,14 +81,21 @@ const useStyles = makeStyles(theme => ({
 }))
 
 export default function DeckBuilder () {
-  const [deckCode, setDeckCode] = useState(
-    'SPAUaskwmxnHwAyBjyymfhaAxSjXqhmUflxPkYirwqeaAPbOdhpVnwaNvDcrxcvKdVefbKdEfvdYAKhPqygsnMjHrCoedIrkmG'
-  )
+  const [queryParams, setQueryParams] = useQueryParams()
+  const setDeckCode = useCallback(dc => {
+    setQueryParams({ ...queryParams, deckCode: dc })
+  })
+  useEffect(() => {
+    if (!queryParams.deckCode) {
+      setDeckCode('SPAAAAAA')
+    }
+  }, [])
+
   const addCard = card => {
-    setDeckCode(addCardToDeck(deckCode, card))
+    setDeckCode(addCardToDeck(queryParams.deckCode, card))
   }
   const removeCard = card => {
-    setDeckCode(removeCardFromDeck(deckCode, card))
+    setDeckCode(removeCardFromDeck(queryParams.deckCode, card))
   }
 
   const classes = useStyles()
@@ -154,10 +162,10 @@ export default function DeckBuilder () {
         })}
       >
         <div className={classes.drawerHeader} />
-        {deckCode && (
+        {queryParams.deckCode && (
           <DeckDetail
             setDeckCode={setDeckCode}
-            deckCode={deckCode}
+            deckCode={queryParams.deckCode}
             addCard={addCard}
             removeCard={removeCard}
           />

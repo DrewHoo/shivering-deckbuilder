@@ -20,6 +20,9 @@ export function QuickStats ({ cardList }) {
 
   const rows = [
     {
+      name: 'Total Cards', value: cardList.length
+    },
+    {
       name: 'Creatures',
       value: cardList.filter(({ Type }) => Type === 'Creature').length
     },

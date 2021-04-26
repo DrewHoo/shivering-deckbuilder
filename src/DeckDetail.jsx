@@ -50,13 +50,10 @@ export default function DeckDetail ({
   return (
     <div className={classes.root}>
       <Grid container spacing={3}>
-        <Grid item xs={6} sm={4}>
+        <Grid item xs={12} sm={6}>
           <DeckCode deckCode={deckCode} setDeckCode={setDeckCode} />
         </Grid>
-        <Grid item xs={6} sm={4}>
-          <DeckBuilderRules deckCode={deckCode} />
-        </Grid>
-        <Grid item xs={6} sm={4}>
+        <Grid item xs={12} sm={6}>
           <SimpleCard title='Quick Stats'>
             <QuickStats cardList={cardList} />
           </SimpleCard>
@@ -70,6 +67,9 @@ export default function DeckDetail ({
               handleClickOpen={handleClickOpen}
             />
           </SimpleCard>
+        </Grid>
+        <Grid item xs={12} sm={6}>
+          <DeckBuilderRules deckCode={deckCode} />
         </Grid>
         <Grid item xs={12} sm={6}>
           <SimpleCard title='Curve'>

@@ -1517,6 +1517,24 @@ module.exports = { cards: [
     "code": "bp"
   },
   {
+    "Name": "Ayleid Guardian",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": [
+      "endurance", "agility"
+    ],
+    "Race": "Defense",
+    "Magicka Cost": "11",
+    "Attack": "8",
+    "Health": "8",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Guard Immune to Lethal. Summon: Summon an Ayleid Guardian in the other lane.",
+    "Keywords": "Guard",
+    "code": "yW"
+  },
+  {
     "Name": "Ayrenn's Chosen",
     "Rarity": "Epic",
     "Type": "Action",
@@ -5336,6 +5354,22 @@ module.exports = { cards: [
     "code": "ee"
   },
   {
+    "Name": "Dark Mane",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["willpower", "agility"],
+    "Race": "",
+    "Magicka Cost": "2",
+    "Attack": "2",
+    "Health": "3",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "When you summon a creature in this lane, if it's full, Dark Mane moves. When Dark Mane moves, it gains +2/+0 and Drain this turn.",
+    "Keywords": "Drain,Move",
+    "code": "yY"
+  },
+  {
     "Name": "Dark Rebirth",
     "Rarity": "Common",
     "Type": "Action",
@@ -6095,6 +6129,22 @@ module.exports = { cards: [
     "code": "eI"
   },
   {
+    "Name": "Dragonfire Wizard",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["willpower", "intelligence"],
+    "Race": "Imperial",
+    "Magicka Cost": "3",
+    "Attack": "2",
+    "Health": "3",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "At the end of your turn, add a flame to Dragonfire Wizard. Last Gasp: Put a Flame Lash into your hand that deals damage and gains health equal to the number of flames on Dagonfire Wizard.",
+    "Keywords": "Last Gasp",
+    "code": "yR"
+  },
+  {
     "Name": "Dragon Aspect",
     "Rarity": "Rare",
     "Type": "Action",
@@ -6579,6 +6629,22 @@ module.exports = { cards: [
     "BBCode": "[card]Duke Vedam Dren[/card]",
     "Played in": "402/861 of  Eligible  decks (47 %)",
     "code": "ff"
+  },
+  {
+    "Name": "Duneripper",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["strength", "agility"],
+    "Race": "Beast",
+    "Attack": "4",
+    "Health": "3",
+    "Magicka Cost": "5",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "When Duneripper enters a lane, it deals 2 damage to an enemy creature in the lane. Pilfer: Move.",
+    "Keywords": "Pilfer,Move",
+    "code": "yK"
   },
   {
     "Name": "Dune Smuggler",
@@ -9150,6 +9216,20 @@ module.exports = { cards: [
     "code": "hd"
   },
   {
+    "Name": "Giant's Camp",
+    "Rarity": "Epic",
+    "Type": "Support",
+    "Attributes": ["strength"],
+    "Race": "",
+    "Magicka Cost": "4",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "At the start of your turn, set each friendly creature's power equal to the power of your most powerful creature.",
+    "Keywords": "",
+    "code": "yU"
+  },
+  {
     "Name": "Glacial Dragon",
     "Rarity": "Legendary",
     "Type": "Creature",
@@ -10238,6 +10318,22 @@ module.exports = { cards: [
     "BBCode": "[card]Haunting Spirit[/card]",
     "Played in": "2399/13644 of  Eligible  decks (18 %)",
     "code": "hU"
+  },
+  {
+    "Name": "Headless Zombie",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["endurance", "intelligence"],
+    "Race": "Skeleton",
+    "Attack": "3",
+    "Health": "4",
+    "Magicka Cost": "4",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Summon: Consume a card. Last Gasp: Draw a copy of the consumed card.",
+    "Keywords": "Last Gasp,Consume",
+    "code": "yP"
   },
   {
     "Name": "Healing Hands",
@@ -13765,6 +13861,20 @@ module.exports = { cards: [
     "code": "wC"
   },
   {
+    "Name": "Monster Perfection Lab",
+    "Rarity": "Epic",
+    "Type": "Support",
+    "Attributes": ["strength", "intelligence"],
+    "Race": "",
+    "Magicka Cost": "1",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "At the end of your turn, you may choose a friendly creature wielding three or more items. If you do, sacrifice Monster Perfection Lab and choose an item from your deck to equip to the creature.",
+    "Keywords": "",
+    "code": "yQ"
+  },
+  {
     "Name": "Monk's Strike",
     "Rarity": "Rare",
     "Type": "Action",
@@ -15955,6 +16065,22 @@ module.exports = { cards: [
     "code": "mn"
   },
   {
+    "Name": "Priest of Mara",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["willpower"],
+    "Race": "Imperial",
+    "Attack": "2",
+    "Health": "5",
+    "Magicka Cost": "3",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Summon: Equip an Amulet of Mara to an enemy creature and another friendly creature without Guard.",
+    "Keywords": "",
+    "code": "yL"
+  },
+  {
     "Name": "Priest of the Eight",
     "Rarity": "Common",
     "Type": "Creature",
@@ -17069,7 +17195,7 @@ module.exports = { cards: [
     "Soul Summon": "400",
     "Soul Trap": "100",
     "Text": "Summon: Consume a creature. Reduce the cost of each creature in your deck that shares a type with that creature by 1.",
-    "Keywords": "",
+    "Keywords": "Consume",
     "BBCode": "[card]Rimmen Purveyor[/card]",
     "Played in": "28/13695 of  Eligible  decks (0 %)",
     "code": "yS"
@@ -18612,6 +18738,20 @@ module.exports = { cards: [
     "code": "ow"
   },
   {
+    "Name": "Skooma Cat's Whimsy",
+    "Rarity": "Epic",
+    "Type": "Support",
+    "Attributes": ["neutral"],
+    "Race": "",
+    "Magicka Cost": "1",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Your cards that didn't start in your deck cost 1 less.",
+    "Keywords": "",
+    "code": "yN"
+  },
+  {
     "Name": "Skooma Racketeer",
     "Rarity": "Rare",
     "Type": "Creature",
@@ -18689,6 +18829,20 @@ module.exports = { cards: [
     "BBCode": "[card]Skyforge[/card]",
     "Played in": "241/12759 of  Eligible  decks (2 %)",
     "code": "oA"
+  },
+  {
+    "Name": "Skyshard",
+    "Rarity": "Epic",
+    "Type": "Support",
+    "Attributes": ["endurance"],
+    "Race": "",
+    "Magicka Cost": "3",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Summon: Draw a random creature from your deck. When you draw a creature on your turn, increase its cost by 2 and give it +2/+2.",
+    "Keywords": "",
+    "code": "yT"
   },
   {
     "Name": "Skywatch Vindicator",
@@ -20208,6 +20362,22 @@ module.exports = { cards: [
     "code": "pS"
   },
   {
+    "Name": "Supreme Dragon",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["strength", "willpower"],
+    "Race": "Dragon",
+    "Attack": "7",
+    "Health": "7",
+    "Magicka Cost": "6",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "At the start of each turn, for each enemy creature in this lane with power greater than 3, set its power to 3.",
+    "Keywords": "",
+    "code": "yO"
+  },
+  {
     "Name": "Suran Pawnbroker",
     "Rarity": "Rare",
     "Type": "Creature",
@@ -21642,7 +21812,7 @@ module.exports = { cards: [
     "Attributes": [
       "endurance"
     ],
-    "Race": "Ayled",
+    "Race": "Ayleid",
     "Magicka Cost": "6",
     "Attack": "6",
     "Health": "3",
@@ -23223,6 +23393,20 @@ module.exports = { cards: [
     "code": "sj"
   },
   {
+    "Name": "Yagrum's Workshop",
+    "Rarity": "Epic",
+    "Type": "Support",
+    "Attributes": ["neutral"],
+    "Race": "",
+    "Magicka Cost": "3",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Uses: 3. Activate: Your Neutral Summon and Assemble abilities trigger an additional time this turn.",
+    "Keywords": "Assemble",
+    "code": "yM"
+  },
+  {
     "Name": "Yew Shield",
     "Rarity": "Rare",
     "Type": "Item",
@@ -23239,6 +23423,22 @@ module.exports = { cards: [
     "BBCode": "[card]Yew Shield[/card]",
     "Played in": "248/13644 of  Eligible  decks (2 %)",
     "code": "sk"
+  },
+  {
+    "Name": "Yokudan Nightblade",
+    "Rarity": "Epic",
+    "Type": "Creature",
+    "Attributes": ["intelligence"],
+    "Race": "Redguard",
+    "Magicka Cost": "1",
+    "Attack": "1",
+    "Health": "4",
+    "Expansion set": "Monthly Reward",
+    "Soul Summon": "400",
+    "Soul Trap": "100",
+    "Text": "Friendly equipped creatures are Immune to Silence.",
+    "Keywords": "",
+    "code": "zD"
   },
   {
     "Name": "Young Dragonborn",

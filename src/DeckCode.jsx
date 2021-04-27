@@ -21,7 +21,8 @@ import TextareaAutosize from '@material-ui/core/TextareaAutosize'
 const useStyles = makeStyles({
   root: {
     minHeight: '20vh',
-    padding: '16px'
+    padding: '16px',
+    height: '100%'
   },
   bullet: {
     display: 'inline-block',

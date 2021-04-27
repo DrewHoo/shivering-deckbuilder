@@ -41,7 +41,8 @@ const Rarities = {
 const useStyles = makeStyles({
   root: {
     minHeight: '20vh',
-    padding: '16px'
+    padding: '16px',
+    height: '100%'
   },
   bullet: {
     display: 'inline-block',
@@ -132,7 +133,7 @@ export function DeckBuilderRules ({ deckCode }) {
     setValid
   ])
   return (
-    <Card>
+    <Card className={classes.root}>
       <CardHeader title='Deckbuilding Rules'>
         {valid && <CheckCircleIcon />}
         {valid && <Typography>Deck is Valid</Typography>}

@@ -49,7 +49,12 @@ export default function DeckDetail ({
 
   return (
     <div className={classes.root}>
-      <Grid container spacing={3}>
+      <Grid
+        container
+        spacing={3}
+        direction='row'
+        justify='center'
+      >
         <Grid item xs={12} sm={6}>
           <DeckCode deckCode={deckCode} setDeckCode={setDeckCode} />
         </Grid>

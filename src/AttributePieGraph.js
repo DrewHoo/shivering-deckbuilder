@@ -2,7 +2,7 @@ import React from 'react'
 import _ from 'lodash'
 import { PieGraph } from './components/PieGraph'
 
-const AttributeToColorMap = {
+export const AttributeToColorMap = {
   strength: '#e32222',
   willpower: '#e8db23',
   intelligence: '#154aeb',

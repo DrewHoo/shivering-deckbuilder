@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import _ from 'lodash'
 import clsx from 'clsx'
 import { makeStyles } from '@material-ui/core/styles'
-import { Divider, List } from '@material-ui/core'
+import { List } from '@material-ui/core'
 import { useWidth } from '../Utils/useWidthHook'
 import './DeckList.css'
 import { DeckListCard } from './DeckListCard'
@@ -10,46 +10,64 @@ import { DeckListCard } from './DeckListCard'
 const useStyles = makeStyles(theme => ({
   cardColumns: { display: 'flex' },
   root: {
-    width: '100%',
-    maxWidth: '36ch',
-    backgroundColor: theme.palette.background.paper
+    margin: '0 0.5rem',
   }
 }))
 
 function getNumberOfColumns (width) {
   switch (width) {
     case 'xl':
-    case 'lg':
       return 5
-    case 'md':
+    case 'lg':
       return 4
-    case 'sm':
+    case 'md':
       return 3
+    case 'sm':
+      return 2
     case 'xs':
     default:
-      return 2
+      return 1
   }
 }
 
 export const DeckList = ({ cardList, handleClickOpen }) => {
   const classes = useStyles()
   const width = useWidth()
-  const maxNumColumns = getNumberOfColumns(width)
-  const cardsByCount = Object.entries(
-    cardList.sort(decklistCardComparator).reduce((acc, next) => {
-      if (acc[next.Name]) {
-        return {
-          ...acc,
-          [next.Name]: { ...acc[next.Name], count: acc[next.Name].count + 1 }
-        }
-      }
-      return { ...acc, [next.Name]: { ...next, count: 1 } }
-    }, {})
-  )
-  const numRowsLastColumn = cardsByCount.length % maxNumColumns
-  const numRowsPerColumn =
-    (cardsByCount.length - numRowsLastColumn) / maxNumColumns
-  const columns = _.chunk(cardsByCount, numRowsPerColumn)
+  const numColumns = getNumberOfColumns(width)
+  const [cardsByCount, setCardsByCount] = useState([])
+  const [columns, setColumns] = useState([])
+  useEffect(() => {
+    setCardsByCount(
+      Object.entries(
+        cardList.sort(decklistCardComparator).reduce((acc, next) => {
+          if (acc[next.Name]) {
+            return {
+              ...acc,
+              [next.Name]: {
+                ...acc[next.Name],
+                count: acc[next.Name].count + 1
+              }
+            }
+          }
+          return { ...acc, [next.Name]: { ...next, count: 1 } }
+        }, {})
+      )
+    )
+  }, [cardList])
+
+  useEffect(() => {
+    const minNumRows = Math.floor(cardsByCount.length / numColumns)
+    const maxNumRows = Math.ceil(cardsByCount.length / numColumns)
+    const numColumnsWithRemainder = cardsByCount.length % numColumns
+    const mutableCopyOfCardsByCount = cardsByCount.slice(0)
+    setColumns(
+      _.range(1, numColumns + 1).map(columnIndex => {
+        return columnIndex <= numColumnsWithRemainder
+          ? mutableCopyOfCardsByCount.splice(0, maxNumRows)
+          : mutableCopyOfCardsByCount.splice(0, minNumRows)
+      })
+    )
+  }, [cardsByCount, numColumns])
 
   return (
     <div className={clsx('DeckList', classes.cardColumns)}>
@@ -62,9 +80,6 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
                 card={card}
                 handleClickOpen={handleClickOpen}
               />
-              {index !== cards.length - 1 ? (
-                <Divider variant='middle' component='li' />
-              ) : null}
             </>
           ))}
         </List>
@@ -73,7 +88,7 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
   )
 }
 
-function decklistCardComparator(a, b) {
+function decklistCardComparator (a, b) {
   const costComparison = cardCostComparator(a, b)
 
   if (costComparison !== 0) {
@@ -83,6 +98,6 @@ function decklistCardComparator(a, b) {
   return a.Name.localeCompare(b.Name)
 }
 
-export function cardCostComparator(a, b) {
+export function cardCostComparator (a, b) {
   return parseInt(a['Magicka Cost']) - parseInt(b['Magicka Cost'])
 }

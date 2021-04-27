@@ -13,7 +13,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Fill the left lane with Stormcloak Skirmishers or the right lane with Colovian Troopers.",
     "Keywords": "",
-    "BBCode": "[card]A Land Divided[/card]",
     "Played in": "84/12907 of  Eligible  decks (1 %)",
     "code": "aa"
   },
@@ -33,7 +32,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Shuffle all creatures into your deck.",
     "Keywords": "",
-    "BBCode": "[card]A New Era[/card]",
     "Played in": "11/356 of  Eligible  decks (3 %)",
     "code": "Be"
   },
@@ -51,7 +49,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "A friendly creature disappears to who knows where, then returns in the other lane Shackled.",
     "Keywords": "",
-    "BBCode": "[card]A Night to Remember[/card]",
     "Played in": "1500/30861 of  Eligible  decks (5 %)",
     "code": "ab"
   },
@@ -70,7 +67,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ongoing: Treasure Hunt - Three [neutral] cards: Sacrifice Abandoned Imperfect to summon an 8/8 Awakened Imperfect with Breakthrough and Guard to the lane of your choice.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Abandoned Imperfect[/card]",
     "Played in": "139/30861 of  Eligible  decks (0 %)",
     "code": "ac"
   },
@@ -90,7 +86,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If the top card of your deck is an action, draw it. Otherwise, put it on the bottom.",
     "Keywords": "",
-    "BBCode": "[card]Abecean Navigator[/card]",
     "Played in": "228/14266 of  Eligible  decks (2 %)",
     "code": "ad"
   },
@@ -110,7 +105,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Abnur Tharn uses the summon ability of a creature.",
     "Keywords": "",
-    "BBCode": "[card]Abnur Tharn[/card]",
     "Played in": "760/14266 of  Eligible  decks (5 %)",
     "code": "uG"
   },
@@ -130,7 +124,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Prophecy, Guard. Last Gasp: Adoring Fan will return. Adoring Fan is immune to Silence.",
     "Keywords": "Guard,Last Gasp,Prophecy",
-    "BBCode": "[card]Adoring Fan[/card]",
     "Played in": "414/30861 of  Eligible  decks (1 %)",
     "code": "ae"
   },
@@ -150,7 +143,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Deal 1 damage. Beast Form: +2/+2 and destroy a Wounded creature.",
     "Keywords": "",
-    "BBCode": "[card]Aela the Huntress[/card]",
     "Played in": "610/12757 of  Eligible  decks (5 %)",
     "code": "af"
   },
@@ -170,7 +162,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Beast Form: +1/+1 and draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Aela's Huntmate[/card]",
     "Played in": "739/12757 of  Eligible  decks (6 %)",
     "code": "ag"
   },
@@ -190,7 +181,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Deal 2 damage to each player.",
     "Keywords": "",
-    "BBCode": "[card]Afflicted Alit[/card]",
     "Played in": "1073/12757 of  Eligible  decks (8 %)",
     "code": "ah"
   },
@@ -210,7 +200,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Ageless Automaton attacks a Guard, it gains +3/+0 and Breakthrough until end of turn.",
     "Keywords": "Breakthrough,Guard",
-    "BBCode": "[card]Ageless Automaton[/card]",
     "Played in": "135/30861 of  Eligible  decks (0 %)",
     "code": "ai"
   },
@@ -230,7 +219,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "At the end of your turn, if you Invaded, Agent of Mehrunes Dagon gains +1/+1.",
     "Keywords": "Invade",
-    "BBCode": "[card]Agent of Mehrunes Dagon[/card]",
     "Played in": "44/12757 of  Eligible  decks (0 %)",
     "code": "zB"
   },
@@ -251,7 +239,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Ahnassi steals all keywords from enemy creatures.",
     "Keywords": "",
-    "BBCode": "[card]Ahnassi[/card]",
     "Played in": "1911/3723 of  Eligible  decks (51 %)",
     "code": "aj"
   },
@@ -269,7 +256,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Give your Activated supports 1 extra use. Empower: +1 use.",
     "Keywords": "Empower",
-    "BBCode": "[card]Alchemy[/card]",
     "Played in": "46/12916 of  Eligible  decks (0 %)",
     "code": "sv"
   },
@@ -289,7 +275,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Lethal, Rally.",
     "Keywords": "Lethal,Rally",
-    "BBCode": "[card]Ald Velothi Assassin[/card]",
     "Played in": "1956/13644 of  Eligible  decks (14 %)",
     "code": "ak"
   },
@@ -309,7 +294,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge, Rally",
     "Keywords": "Charge,Rally",
-    "BBCode": "[card]Ald'ruhn Arms Master[/card]",
     "Played in": "321/12757 of  Eligible  decks (3 %)",
     "code": "al"
   },
@@ -329,7 +313,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: +1/+1 if you have an action in your hand.",
     "Keywords": "",
-    "BBCode": "[card]Aldmeri Patriot[/card]",
     "Played in": "260/12907 of  Eligible  decks (2 %)",
     "code": "am"
   },
@@ -351,7 +334,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When your opponent takes damage, you gain 1 magicka this turn.",
     "Keywords": "",
-    "BBCode": "[card]Aldmeri Spellwright[/card]",
     "Played in": "7/307 of  Eligible  decks (2 %)",
     "code": "Bm"
   },
@@ -372,7 +354,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Treasure Hunt - Action, Creature, Item, Support: +6/+6. When a friendly treasure hunter finds something, summon Skywag or give Skywag +1/+1.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Aldora the Daring[/card]",
     "Played in": "430/12757 of  Eligible  decks (3 %)",
     "code": "an"
   },
@@ -392,7 +373,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Costs 2 less for each Dragon in your discard pile. Summon: Destroy all other creatures. At the start of your turn, summon a random Dragon from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Alduin[/card]",
     "Played in": "1348/30872 of  Eligible  decks (4 %)",
     "code": "ao"
   },
@@ -412,7 +392,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Summon: Consume a creature to summon a Flame Atronach. If you consumed an Atronach, instead summon a Storm Atronach.",
     "Keywords": "Guard,Consume",
-    "BBCode": "[card]Alfiq Conjurer[/card]",
     "Played in": "475/14266 of  Eligible  decks (3 %)",
     "code": "vD"
   },
@@ -431,8 +410,7 @@ module.exports = { cards: [
     "Soul Summon": "100",
     "Soul Trap": "20",
     "Text": "Wax: Summon a copy of Alfiq Illusionist in the other lane. Wane: +1/+2 and Guard.",
-    "Keywords": "Wax,Wane,Guard",
-    "BBCode": "[card]Alfiq Illusionist[/card]",
+    "Keywords": "Wax/Wane,Guard",
     "Played in": "103/12907 of  Eligible  decks (1 %)",
     "code": "wR"
   },
@@ -452,7 +430,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Put a Steel Dagger into your hand. When Alik'r Survivalist equips an item, he gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Alik'r Survivalist[/card]",
     "Played in": "337/12757 of  Eligible  decks (3 %)",
     "Evolves from:": "Alik'r Bandit",
     "code": "ar"
@@ -474,7 +451,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Lethal. Summon: Deal 1 damage.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Allena Benoch[/card]",
     "Played in": "1343/4477 of  Eligible  decks (30 %)",
     "code": "as"
   },
@@ -494,7 +470,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Exalt 2: Heal all friendly creatures.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Almalexia's Disciple[/card]",
     "Played in": "177/13644 of  Eligible  decks (1 %)",
     "code": "au"
   },
@@ -514,7 +489,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Exalt 3: +6/+6. Friendly Exalted creatures are immune to damage.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Almalexia[/card]",
     "Played in": "253/13644 of  Eligible  decks (2 %)",
     "code": "at"
   },
@@ -534,7 +508,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Other friendly Wolves have +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Alpha Wolf[/card]",
     "Played in": "92/12907 of  Eligible  decks (1 %)",
     "code": "av"
   },
@@ -552,7 +525,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Uses: 12. Activate: Sacrifice a creature to summon a creature from your deck that costs 1, then increase the cost of creatures this summons by 1.",
     "Keywords": "",
-    "BBCode": "[card]Altar of Despair[/card]",
     "Played in": "1088/30872 of  Eligible  decks (4 %)",
     "code": "aw"
   },
@@ -572,7 +544,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. At the end of each turn, if you played a creature, action, item, and support, play the top card of your deck.",
     "Keywords": "",
-    "BBCode": "[card]Altar of Spellmaking[/card]",
     "Played in": "7/407 of  Eligible  decks (2 %)",
     "code": "AY"
   },
@@ -593,7 +564,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of your turn, if you played an action, Altmer Dragonknight gains +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Altmer Dragonknight[/card]",
     "Played in": "244/4500 of  Eligible  decks (5 %)",
     "code": "ax"
   },
@@ -613,7 +583,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward. At the start of your turn, Altmer Flameslinger deals 1 damage to your opponent.",
     "Keywords": "Ward",
-    "BBCode": "[card]Altmer Flameslinger[/card]",
     "Played in": "312/14266 of  Eligible  decks (2 %)",
     "code": "sw"
   },
@@ -633,7 +602,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give another friendly creature power and health equal to Ambitious Hireling's power.",
     "Keywords": "",
-    "BBCode": "[card]Ambitious Hireling[/card]",
     "Played in": "304/12907 of  Eligible  decks (2 %)",
     "code": "ay"
   },
@@ -653,7 +621,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]An-Xileel Invader[/card]",
     "Played in": "0/13695 of  Eligible  decks (0 %)",
     "code": "az"
   },
@@ -673,7 +640,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough| Summon: Deal 5 damage. Your actions have Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Ancano[/card]",
     "Played in": "7052/14271 of  Eligible  decks (49 %)",
     "code": "aA"
   },
@@ -691,7 +657,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+4/+4. Summon: Give the top creature of your deck +4/+4.",
     "Keywords": "",
-    "BBCode": "[card]Ancestor's Battleaxe[/card]",
     "Played in": "291/12757 of  Eligible  decks (2 %)",
     "code": "aB"
   },
@@ -711,7 +676,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Slay: Summon a Risen Dead.",
     "Keywords": "Slay",
-    "BBCode": "[card]Ancestral Dead[/card]",
     "Played in": "198/13644 of  Eligible  decks (1 %)",
     "code": "aC"
   },
@@ -731,7 +695,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon a Dragon, summon a 1/1 Draugr Sentry with Guard.",
     "Keywords": "",
-    "BBCode": "[card]Ancient Lookout[/card]",
     "Played in": "495/13644 of  Eligible  decks (4 %)",
     "code": "aD"
   },
@@ -751,7 +714,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Regenerate. Summon: +2/+2 if your opponent has more cards in hands.",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Angry Grahl[/card]",
     "Played in": "20/13644 of  Eligible  decks (0 %)",
     "code": "aE"
   },
@@ -771,7 +733,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Apex Predator moves, deal 2 damage to your opponent and you gain 2 health. At the end of your turn, if there are no enemy creatures in this lane, move Apex Predator.",
     "Keywords": "",
-    "BBCode": "[card]Apex Predator[/card]",
     "Played in": "86/13695 of  Eligible  decks (1 %)",
     "code": "wz"
   },
@@ -791,7 +752,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Drain. Last Gasp: Draw the top creature of your deck and give it Breakthrough and Drain.",
     "Keywords": "Breakthrough,Drain,Last Gasp",
-    "BBCode": "[card]Apex Wolf[/card]",
     "Played in": "372/12907 of  Eligible  decks (3 %)",
     "code": "aF"
   },
@@ -812,7 +772,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a 1-cost creature from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Apprentice Necromancer[/card]",
     "Played in": "179/4355 of  Eligible  decks (4 %)",
     "code": "xb"
   },
@@ -833,7 +792,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Gains +1/+0 when you draw a card during your turn.",
     "Keywords": "",
-    "BBCode": "[card]Arcanaeum Librarian[/card]",
     "Played in": "11/14266 of  Eligible  decks (0 %)",
     "code": "aI"
   },
@@ -851,7 +809,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you draw an item, give it a random Keyword.",
     "Keywords": "",
-    "BBCode": "[card]Arcane Enchanter[/card]",
     "Played in": "314/14266 of  Eligible  decks (2 %)",
     "code": "aH"
   },
@@ -873,7 +830,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose a blessing from one of the Tribunal gods. Exalt 3: Gain all three blessings instead.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Archcanon Saryoni[/card]",
     "Played in": "939/1015 of  Eligible  decks (93 %)",
     "code": "aJ"
   },
@@ -893,7 +849,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Lethal",
     "Keywords": "Lethal",
-    "BBCode": "[card]Archein Elite[/card]",
     "Played in": "155/13644 of  Eligible  decks (1 %)",
     "Evolves from:": "Archein Guerrilla",
     "code": "aK"
@@ -914,7 +869,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Lethal. Slay: gain +1 max magicka.",
     "Keywords": "Lethal,Slay",
-    "BBCode": "[card]Archein Venomtongue[/card]",
     "Played in": "843/13644 of  Eligible  decks (6 %)",
     "Evolves from:": "Archein Guerrilla",
     "code": "aM"
@@ -934,7 +888,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move a friendly creature. Then, it deals 1 damage.",
     "Keywords": "",
-    "BBCode": "[card]Archer's Gambit[/card]",
     "Played in": "1862/4477 of  Eligible  decks (42 %)",
     "code": "aN"
   },
@@ -954,7 +907,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal on your opponent's turn.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Arenthia Guerrilla[/card]",
     "Played in": "3/13695 of  Eligible  decks (0 %)",
     "code": "xk"
   },
@@ -974,7 +926,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Steal all items from an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Arenthia Swindler[/card]",
     "Played in": "2/13695 of  Eligible  decks (0 %)",
     "code": "aO"
   },
@@ -992,7 +943,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon a 1/1 Risen Dead with Guard in each lane.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Arise[/card]",
     "Played in": "56/13651 of  Eligible  decks (0 %)",
     "code": "wP"
   },
@@ -1010,7 +960,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Steal an enemy creature. It loses Guard, and is permanently Shackled.",
     "Keywords": "",
-    "BBCode": "[card]Arrest[/card]",
     "Played in": "594/12916 of  Eligible  decks (5 %)",
     "code": "aP"
   },
@@ -1028,7 +977,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Destroy all creatures with 2 power or less in one lane.",
     "Keywords": "",
-    "BBCode": "[card]Arrow Storm[/card]",
     "Played in": "607/12907 of  Eligible  decks (5 %)",
     "code": "aR"
   },
@@ -1046,7 +994,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Shackle a creature and deal 1 damage to it.",
     "Keywords": "",
-    "BBCode": "[card]Arrow in the Knee[/card]",
     "Played in": "24/13695 of  Eligible  decks (0 %)",
     "code": "aQ"
   },
@@ -1066,7 +1013,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "After you play an action, a random friendly creature gets +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Artaeum Savant[/card]",
     "Played in": "186/12907 of  Eligible  decks (1 %)",
     "code": "aS"
   },
@@ -1088,7 +1034,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. At the end of your turn, if you have a creature with 5 power or more, reduce the cost of all creatures in your hand by 1.",
     "Keywords": "Guard",
-    "BBCode": "[card]Ascended Sleeper[/card]",
     "Played in": "235/937 of  Eligible  decks (25 %)",
     "code": "aT"
   },
@@ -1108,7 +1053,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the end of your turn, if you have a creature with 5 power or more, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Ash Berserker[/card]",
     "Played in": "1578/12757 of  Eligible  decks (12 %)",
     "code": "aU"
   },
@@ -1128,7 +1072,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a creature with 5 power or more, Shackle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Ash Oppressor[/card]",
     "Played in": "138/13695 of  Eligible  decks (1 %)",
     "code": "aV"
   },
@@ -1148,7 +1091,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Deal 3 damage to a creature if you have a creature with 5 power or more.",
     "Keywords": "",
-    "BBCode": "[card]Ash Piercer[/card]",
     "Played in": "64/14266 of  Eligible  decks (0 %)",
     "code": "aW"
   },
@@ -1168,7 +1110,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Deal 2 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Ash Servant[/card]",
     "Played in": "196/14266 of  Eligible  decks (1 %)",
     "code": "aX"
   },
@@ -1189,7 +1130,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Pilfer and Slay: +1/+0.",
     "Keywords": "Breakthrough,Pilfer,Slay",
-    "BBCode": "[card]Ashlander Punisher[/card]",
     "Played in": "218/4477 of  Eligible  decks (5 %)",
     "code": "aZ"
   },
@@ -1209,7 +1149,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Battle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Ashlander Zealot[/card]",
     "Played in": "229/12757 of  Eligible  decks (2 %)",
     "code": "bc"
   },
@@ -1229,7 +1168,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose one: Strength: +6/+6 and Guard. Speed: Gains Charge.",
     "Keywords": "Guard,Charge",
-    "BBCode": "[card]Aspect of Hircine[/card]",
     "Played in": "629/12757 of  Eligible  decks (5 %)",
     "code": "bd"
   },
@@ -1249,7 +1187,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Play a Prophecy from your hand.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Assassin Beetle[/card]",
     "Played in": "76/13695 of  Eligible  decks (1 %)",
     "code": "tv"
   },
@@ -1267,7 +1204,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+3/+0. Summon: Give the wielder Cover at the end of turn.",
     "Keywords": "",
-    "BBCode": "[card]Assassin's Bow[/card]",
     "Played in": "379/12757 of  Eligible  decks (3 %)",
     "code": "be"
   },
@@ -1286,7 +1222,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a creature Lethal and Ward.",
     "Keywords": "Lethal,Ward",
-    "BBCode": "[card]Assassin's Ritual[/card]",
     "Played in": "539/4940 of  Eligible  decks (11 %)",
     "code": "bf"
   },
@@ -1307,7 +1242,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Assemble: +1/+0 and Breakthrough or +0/+1 and Regenerate.",
     "Keywords": "Assemble,Breakthrough,Regenerate",
-    "BBCode": "[card]Assembled Conduit[/card]",
     "Played in": "405/30861 of  Eligible  decks (1 %)",
     "code": "bg"
   },
@@ -1328,7 +1262,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Assemble: +2/+0 or Lethal.",
     "Keywords": "Assemble,Lethal",
-    "BBCode": "[card]Assembled Sanitizer[/card]",
     "Played in": "477/30861 of  Eligible  decks (2 %)",
     "code": "bh"
   },
@@ -1349,7 +1282,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Assemble: +0/+2 or Guard.",
     "Keywords": "Assemble,Guard",
-    "BBCode": "[card]Assembled Sentry[/card]",
     "Played in": "458/30861 of  Eligible  decks (1 %)",
     "code": "bi"
   },
@@ -1370,7 +1302,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Assemble: Choose two: +2/+0, +0/+2, deal 2 damage to your opponent, or you gain 2 health.",
     "Keywords": "Assemble",
-    "BBCode": "[card]Assembled Titan[/card]",
     "Played in": "469/30861 of  Eligible  decks (2 %)",
     "code": "bj"
   },
@@ -1391,7 +1322,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Lethal. When a friendly Lethal creature Slays, put a Completed Contract into your hand.",
     "Keywords": "Lethal,Slay",
-    "BBCode": "[card]Astrid[/card]",
     "Played in": "2844/13703 of  Eligible  decks (21 %)",
     "code": "bk"
   },
@@ -1411,7 +1341,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Gain all Keywords friendly creatures have.",
     "Keywords": "",
-    "BBCode": "[card]Attuned Dremora[/card]",
     "Played in": "50/14266 of  Eligible  decks (0 %)",
     "code": "yD"
   },
@@ -1431,7 +1360,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the end of your turn, if three or more creatures died this turn, put a random Blood Magic Spell into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Aundae Clan Sorcerer[/card]",
     "Played in": "724/13644 of  Eligible  decks (5 %)",
     "code": "bl"
   },
@@ -1451,7 +1379,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you play an action, give Auridon Paladin Drain this turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Auridon Paladin[/card]",
     "Played in": "358/12907 of  Eligible  decks (3 %)",
     "code": "bm"
   },
@@ -1471,7 +1398,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. When Auroran Sentry is dealt damage, you gain that much health.",
     "Keywords": "Guard",
-    "BBCode": "[card]Auroran Sentry[/card]",
     "Played in": "255/12907 of  Eligible  decks (2 %)",
     "code": "bn"
   },
@@ -1491,7 +1417,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the end of your turn, if you have a creature with 5 power or more, Awakened Dreamer gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Awakened Dreamer[/card]",
     "Played in": "503/13695 of  Eligible  decks (4 %)",
     "code": "bo"
   },
@@ -1512,7 +1437,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough, Guard",
     "Keywords": "Breakthrough,Guard",
-    "BBCode": "[card]Awakened Imperfect[/card]",
     "Played in": "99/30861 of  Eligible  decks (0 %)",
     "code": "bp"
   },
@@ -1550,7 +1474,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon a 1/1 Recruit in each lane and give them Guard. Empower: +1/+1.",
     "Keywords": "Empower,Guard",
-    "BBCode": "[card]Ayrenn's Chosen[/card]",
     "Played in": "30/307 of  Eligible  decks (10 %)",
     "code": "tb"
   },
@@ -1572,7 +1495,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. Summon: Draw a random action from your discard pile. When you draw an action on your turn, deal 1 damage to your opponent.",
     "Keywords": "Drain",
-    "BBCode": "[card]Ayrenn, Dominion Queen[/card]",
     "Played in": "175/307 of  Eligible  decks (57 %)",
     "code": "sx"
   },
@@ -1593,7 +1515,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw a random action from your discard pile. Your actions cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Ayrenn[/card]",
     "Played in": "2848/4505 of  Eligible  decks (63 %)",
     "code": "bq"
   },
@@ -1613,7 +1534,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: +3/+0.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Baandari Bruiser[/card]",
     "Played in": "99/13695 of  Eligible  decks (1 %)",
     "code": "br"
   },
@@ -1633,7 +1553,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. Pilfer: Shuffle a Baandari Opportunist with \"Summon: Draw a card\" into your deck.",
     "Keywords": "Charge,Pilfer",
-    "BBCode": "[card]Baandari Opportunist[/card]",
     "Played in": "558/13695 of  Eligible  decks (4 %)",
     "code": "sA"
   },
@@ -1653,7 +1572,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature Cover.",
     "Keywords": "",
-    "BBCode": "[card]Back-Alley Footpad[/card]",
     "Played in": "31/13695 of  Eligible  decks (0 %)",
     "code": "ta"
   },
@@ -1674,7 +1592,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Steal Cover from another creature.",
     "Keywords": "",
-    "BBCode": "[card]Back-Alley Rogue[/card]",
     "Played in": "57/13695 of  Eligible  decks (0 %)",
     "code": "bs"
   },
@@ -1694,7 +1611,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Rally",
     "Keywords": "Rally",
-    "BBCode": "[card]Bal Isra Warrider[/card]",
     "Played in": "133/13644 of  Eligible  decks (1 %)",
     "code": "bt"
   },
@@ -1714,7 +1630,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Baliwog Tidecrawlers/Smoked Baliwog Leg[/card]",
     "Played in": "118/13644 of  Eligible  decks (1 %)",
     "code": "po"
   },
@@ -1734,7 +1649,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Rally 2. Your other Rallies give an extra +1/+1.",
     "Keywords": "Rally",
-    "BBCode": "[card]Balmora Captain[/card]",
     "Played in": "178/12907 of  Eligible  decks (1 %)",
     "code": "bu"
   },
@@ -1756,7 +1670,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Plot: +1/+1 for each other card you've played this turn.",
     "Keywords": "Plot",
-    "BBCode": "[card]Balmora Puppeteer[/card]",
     "Played in": "475/861 of  Eligible  decks (55 %)",
     "code": "bv"
   },
@@ -1776,7 +1689,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Summon a random creature with cost less than or equal to your max magicka.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Balmora Spymaster[/card]",
     "Played in": "916/14266 of  Eligible  decks (6 %)",
     "code": "bw"
   },
@@ -1796,7 +1708,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Other friendly creatures in this lane gain \"Pilfer: Draw a card\" this turn.",
     "Keywords": "",
-    "BBCode": "[card]Bandit Ringleader[/card]",
     "Played in": "360/12907 of  Eligible  decks (3 %)",
     "code": "bx"
   },
@@ -1816,7 +1727,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +2/+2 if you another friendly Orc.",
     "Keywords": "",
-    "BBCode": "[card]Bangkorai Butcher[/card]",
     "Played in": "607/12757 of  Eligible  decks (5 %)",
     "code": "by"
   },
@@ -1836,7 +1746,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose one: -Stay: Gains +1/+1 and Guard. Fetch: Put a random Daedra into your hand. Roll Over: Gains Charge.",
     "Keywords": "",
-    "BBCode": "[card]Barbas[/card]",
     "Played in": "426/30872 of  Eligible  decks (1 %)",
     "code": "bz"
   },
@@ -1856,7 +1765,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Barded Guar[/card]",
     "Played in": "328/30861 of  Eligible  decks (1 %)",
     "code": "bA"
   },
@@ -1874,7 +1782,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Betray. Transform a creature into a random creature that costs 1 more.",
     "Keywords": "Betray",
-    "BBCode": "[card]Barilzar's Tinkering[/card]",
     "Played in": "497/14266 of  Eligible  decks (3 %)",
     "code": "bB"
   },
@@ -1894,7 +1801,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give other friendly (Intelligence) creatures +1/+0 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Baron of Tear[/card]",
     "Played in": "192/14266 of  Eligible  decks (1 %)",
     "code": "bC"
   },
@@ -1915,7 +1821,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Drain, Guard",
     "Keywords": "Drain,Guard",
-    "BBCode": "[card]Barrow Stalker[/card]",
     "Played in": "4369/13644 of  Eligible  decks (32 %)",
     "code": "bD"
   },
@@ -1933,7 +1838,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Trade a card in your hand for a random card in your opponent's hand.",
     "Keywords": "",
-    "BBCode": "[card]Barter[/card]",
     "Played in": "86/13703 of  Eligible  decks (1 %)",
     "code": "bE"
   },
@@ -1951,7 +1855,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Each player fills both lanes with 1/1 Recruits. Give all creatures Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Battle of Chalman Keep[/card]",
     "Played in": "51/30861 of  Eligible  decks (0 %)",
     "code": "sB"
   },
@@ -1971,7 +1874,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge. Slay: Put a random item into your hand.",
     "Keywords": "Charge,Slay",
-    "BBCode": "[card]Battlefield Scrounger[/card]",
     "Played in": "501/12757 of  Eligible  decks (4 %)",
     "code": "bF"
   },
@@ -1990,7 +1892,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Put a random action, item, and creature into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Battlemage's Onslaught[/card]",
     "Played in": "301/3939 of  Eligible  decks (8 %)",
     "code": "bG"
   },
@@ -2010,7 +1911,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge",
     "Keywords": "Charge",
-    "BBCode": "[card]Battlerage Orc[/card]",
     "Played in": "1707/12757 of  Eligible  decks (13 %)",
     "code": "bH"
   },
@@ -2030,7 +1930,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Friendly creatures get +1/+1 for each keyword they have.",
     "Keywords": "",
-    "BBCode": "[card]Battlereeve of Dusk[/card]",
     "Played in": "97/14266 of  Eligible  decks (1 %)",
     "code": "bI"
   },
@@ -2048,7 +1947,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Set a creature's power to 1.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Be at Peace[/card]",
     "Played in": "16/12907 of  Eligible  decks (0 %)",
     "code": "wt"
   },
@@ -2068,7 +1966,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "All cards cost a minimum of 3.",
     "Keywords": "",
-    "BBCode": "[card]Bedeviling Scamp[/card]",
     "Played in": "57/12757 of  Eligible  decks (0 %)",
     "code": "bJ"
   },
@@ -2086,7 +1983,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Put two 1/1 Scamps into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Bedlam[/card]",
     "Played in": "22/12907 of  Eligible  decks (0 %)",
     "code": "xx"
   },
@@ -2106,7 +2002,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough. Summon: Unsummon a creature in this lane, or destroy an enemy support.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Belligerent Giant[/card]",
     "Played in": "2498/12757 of  Eligible  decks (20 %)",
     "code": "bK"
   },
@@ -2126,7 +2021,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Summon: Secretly choose an enemy creature. Last Gasp: Destroy the chosen creature.",
     "Keywords": "Guard,Lasp Gasp",
-    "BBCode": "[card]Berne Clan Nightstalker[/card]",
     "Played in": "294/13695 of  Eligible  decks (2 %)",
     "code": "bL"
   },
@@ -2146,7 +2040,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon another creature with 5 power or more, give it +1/+1 and Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Berserker of the Pale[/card]",
     "Played in": "167/12757 of  Eligible  decks (1 %)",
     "code": "bM"
   },
@@ -2166,7 +2059,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "While Betty Netch is in play, your max magicka is increased by 2.",
     "Keywords": "",
-    "BBCode": "[card]Betty Netch[/card]",
     "Played in": "54/13644 of  Eligible  decks (0 %)",
     "code": "bN"
   },
@@ -2184,7 +2076,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move a friendly creature in each lane and give them +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Bewildering Speed[/card]",
     "Played in": "127/13695 of  Eligible  decks (1 %)",
     "code": "sJ"
   },
@@ -2204,7 +2095,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: If you have another creature in each lane, give the top creature of your deck +5/+5.",
     "Keywords": "",
-    "BBCode": "[card]Bishop of the Hour[/card]",
     "Played in": "51/13644 of  Eligible  decks (0 %)",
     "code": "sD"
   },
@@ -2224,7 +2114,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Give a creature -1/-1.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Bitterfish Witch[/card]",
     "Played in": "74/13695 of  Eligible  decks (1 %)",
     "code": "xI"
   },
@@ -2245,7 +2134,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain. Summon: Deal 2 damage to a creature. Last Gasp: Deal 2 damage to your opponent.",
     "Keywords": "Drain,Last Gasp",
-    "BBCode": "[card]Black Hand Messenger[/card]",
     "Played in": "1439/4940 of  Eligible  decks (29 %)",
     "code": "bO"
   },
@@ -2265,7 +2153,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Veteran: Guard",
     "Keywords": "Veteran,Guard",
-    "BBCode": "[card]Black Marsh Centurion[/card]",
     "Played in": "40/13644 of  Eligible  decks (0 %)",
     "code": "sE"
   },
@@ -2285,7 +2172,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Veteran: +4/+4.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Black Marsh Prodigy[/card]",
     "Played in": "44/13651 of  Eligible  decks (0 %)",
     "code": "sF"
   },
@@ -2305,7 +2191,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the end of your turn, summon a 1/1 Argonian Recruit. If you have 7 or more max magicka, summon a 3/3 Argonian Veteran instead.",
     "Keywords": "",
-    "BBCode": "[card]Black Marsh Warden[/card]",
     "Played in": "250/13644 of  Eligible  decks (2 %)",
     "code": "bP"
   },
@@ -2323,7 +2208,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. When a friendly creature dies, give a random creature in your hand +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Black Soul Gem[/card]",
     "Played in": "78/13644 of  Eligible  decks (1 %)",
     "code": "Am"
   },
@@ -2343,7 +2227,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If you have more health than your opponent, summon a random creature card from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Black Worm Necromancer[/card]",
     "Played in": "347/13644 of  Eligible  decks (3 %)",
     "code": "bQ"
   },
@@ -2363,7 +2246,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Consume a creature. Summon a 1/1 Skeleton with its Keywords.",
     "Keywords": "",
-    "BBCode": "[card]Black Worm Neophyte[/card]",
     "Played in": "54/14266 of  Eligible  decks (0 %)",
     "code": "vP"
   },
@@ -2381,7 +2263,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Draw a copy of a random creature from your opponent's deck.",
     "Keywords": "",
-    "BBCode": "[card]Blackmail[/card]",
     "Played in": "326/12907 of  Eligible  decks (3 %)",
     "code": "bR"
   },
@@ -2401,7 +2282,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: Gain 2 health.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Blackreach Rebuilder[/card]",
     "Played in": "368/30861 of  Eligible  decks (1 %)",
     "code": "bS"
   },
@@ -2421,7 +2301,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, heal another random friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Blackrose Herbalist[/card]",
     "Played in": "49/13644 of  Eligible  decks (0 %)",
     "code": "bT"
   },
@@ -2441,7 +2320,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Blacksap Protector[/card]",
     "Played in": "251/13695 of  Eligible  decks (2 %)",
     "code": "bU"
   },
@@ -2461,7 +2339,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Gains +2/+0 when your max magicka increases.",
     "Keywords": "",
-    "BBCode": "[card]Blackwood Alchemist[/card]",
     "Played in": "22/13644 of  Eligible  decks (0 %)",
     "code": "yu"
   },
@@ -2482,7 +2359,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Gain 3 magicka this turn. Slay: Gain +1 max magicka.",
     "Keywords": "Pilfer,Slay",
-    "BBCode": "[card]Blackwood Distiller[/card]",
     "Played in": "438/4386 of  Eligible  decks (10 %)",
     "code": "bW"
   },
@@ -2502,7 +2378,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature in the other lane +0/+2.",
     "Keywords": "",
-    "BBCode": "[card]Blades Defender[/card]",
     "Played in": "5/13644 of  Eligible  decks (0 %)",
     "code": "yf"
   },
@@ -2522,7 +2397,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature in the other lane +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Blades Flanker[/card]",
     "Played in": "11/13695 of  Eligible  decks (0 %)",
     "code": "yg"
   },
@@ -2542,7 +2416,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: Give a creature in the other lane +1/+1 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Blades Guardian[/card]",
     "Played in": "11/12907 of  Eligible  decks (0 %)",
     "code": "yh"
   },
@@ -2562,7 +2435,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon a Dragon, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Blades Lookout[/card]",
     "Played in": "484/12757 of  Eligible  decks (4 %)",
     "code": "bX"
   },
@@ -2582,7 +2454,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Slay: Blades Stalwart gains power equal to her health.",
     "Keywords": "Slay",
-    "BBCode": "[card]Blades Stalwart[/card]",
     "Played in": "12/13695 of  Eligible  decks (0 %)",
     "code": "ya"
   },
@@ -2600,7 +2471,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Invade, then deal damage equal to your Oblivion Gate's level to a creature.",
     "Keywords": "Prophecy,Invade",
-    "BBCode": "[card]Blast from Oblivion[/card]",
     "Played in": "100/14266 of  Eligible  decks (1 %)",
     "code": "xp"
   },
@@ -2620,7 +2490,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. Last Gasp: Deal 1 damage to all creatures in this lane.",
     "Keywords": "Charge",
-    "BBCode": "[card]Blastbones[/card]",
     "Played in": "21/12759 of  Eligible  decks (0 %)",
     "code": "vR"
   },
@@ -2640,7 +2509,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Slay: +1/+1",
     "Keywords": "Slay",
-    "BBCode": "[card]Bleakcoast Troll[/card]",
     "Played in": "1567/13644 of  Eligible  decks (11 %)",
     "code": "bY"
   },
@@ -2658,7 +2526,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Gain 2 health for each friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Blessing of the Grove[/card]",
     "Played in": "35/12907 of  Eligible  decks (0 %)",
     "code": "bZ"
   },
@@ -2678,7 +2545,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, Blighted Alit deals 2 damage to you.",
     "Keywords": "",
-    "BBCode": "[card]Blighted Alit[/card]",
     "Played in": "264/12757 of  Eligible  decks (2 %)",
     "code": "ca"
   },
@@ -2698,7 +2564,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain. At the end of your turn, if you have a creature with 5 or more power, deal 2 damage to your opponent.",
     "Keywords": "Drain",
-    "BBCode": "[card]Blighted Werebat[/card]",
     "Played in": "312/13695 of  Eligible  decks (2 %)",
     "code": "cb"
   },
@@ -2718,7 +2583,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "On your turn, Blind Moth Priest glows while your opponent has a Prophecy on top of their deck.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Blind Moth Priest[/card]",
     "Played in": "6/12907 of  Eligible  decks (0 %)",
     "code": "xU"
   },
@@ -2738,7 +2602,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Blood Dragon ignores Guards and can attack creatures in any lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Blood Dragon[/card]",
     "Played in": "1550/12757 of  Eligible  decks (12 %)",
     "code": "cc"
   },
@@ -2758,7 +2621,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon and Slay: Put a Blood Magic Spell into your hand.",
     "Keywords": "Slay",
-    "BBCode": "[card]Blood Magic Lord[/card]",
     "Played in": "1526/13644 of  Eligible  decks (11 %)",
     "Evolves from:": "Volkihar Lord",
     "code": "cd"
@@ -2780,7 +2642,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Pilfer: Draw two cards. Sacrifice Blood Pact Messenger at the end of the turn.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Blood Pact Messenger[/card]",
     "Played in": "646/12907 of  Eligible  decks (5 %)",
     "code": "ce"
   },
@@ -2798,7 +2659,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Betray. Deal 2 damage to your opponent and gain 2 health.",
     "Keywords": "Betray",
-    "BBCode": "[card]Blood Sacrament[/card]",
     "Played in": "305/13695 of  Eligible  decks (2 %)",
     "code": "cf"
   },
@@ -2819,7 +2679,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of the your turn, if you have 7 or more max magicka, deal 5 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Blood Sorceress[/card]",
     "Played in": "525/14266 of  Eligible  decks (4 %)",
     "code": "cg"
   },
@@ -2839,7 +2698,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Draw a card if there is a Wounded creature in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Blood-Crazed Daedroth[/card]",
     "Played in": "108/12757 of  Eligible  decks (1 %)",
     "code": "xP"
   },
@@ -2859,7 +2717,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When a creature dies, Bloodline Outcast gains Drain this turn.",
     "Keywords": "",
-    "BBCode": "[card]Bloodline Outcast[/card]",
     "Played in": "139/13644 of  Eligible  decks (1 %)",
     "code": "ch"
   },
@@ -2879,7 +2736,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you reduce an enemy creature's power or health with an effect, Bloody Hand Chef gains that much power or health.",
     "Keywords": "",
-    "BBCode": "[card]Bloody Hand Chef[/card]",
     "Played in": "68/13695 of  Eligible  decks (0 %)",
     "code": "yl"
   },
@@ -2899,7 +2755,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Blueclaw Matron[/card]",
     "Played in": "32/30861 of  Eligible  decks (0 %)",
     "code": "ci"
   },
@@ -2919,7 +2774,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Bog Lurcher[/card]",
     "Played in": "272/12757 of  Eligible  decks (2 %)",
     "code": "cj"
   },
@@ -2941,7 +2795,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Rally. When you Rally with no creatures in your hand, first draw Bolvyn Venim from your deck.",
     "Keywords": "Rally",
-    "BBCode": "[card]Bolvyn Venim[/card]",
     "Played in": "265/806 of  Eligible  decks (33 %)",
     "code": "ck"
   },
@@ -2959,7 +2812,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: The wielder Consumes a creature and gains its health.",
     "Keywords": "Consume",
-    "BBCode": "[card]Bone Armor[/card]",
     "Played in": "57/13644 of  Eligible  decks (0 %)",
     "code": "vQ"
   },
@@ -2977,7 +2829,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+0. Summon: Silence another creature.",
     "Keywords": "",
-    "BBCode": "[card]Bone Bow[/card]",
     "Played in": "1041/12757 of  Eligible  decks (8 %)",
     "code": "cl"
   },
@@ -2997,7 +2848,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon 1/1 Skeletons to fill this lane. Other friendly Undead have +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Bone Colossus[/card]",
     "Played in": "478/13644 of  Eligible  decks (4 %)",
     "code": "cm"
   },
@@ -3017,7 +2867,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: +1/+1 for each enemy creature in this lane.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Bonewalker[/card]",
     "Played in": "250/13651 of  Eligible  decks (2 %)",
     "code": "cn"
   },
@@ -3037,7 +2886,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Consume a creature. Draw creature with the same name from your discard pile.",
     "Keywords": "Guard,Consume",
-    "BBCode": "[card]Boneweaver[/card]",
     "Played in": "103/13651 of  Eligible  decks (1 %)",
     "code": "vV"
   },
@@ -3058,7 +2906,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Draw three different random 1-cost creatures from your deck.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Brass Arquebus[/card]",
     "Played in": "130/30861 of  Eligible  decks (0 %)",
     "code": "co"
   },
@@ -3079,7 +2926,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Brassilisk takes damage and survives, summon a copy of it in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Brassilisk[/card]",
     "Played in": "63/13644 of  Eligible  decks (0 %)",
     "code": "cp"
   },
@@ -3099,7 +2945,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon and Pilfer: Summon a random creature with cost 3 or less.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Brellach Commander[/card]",
     "Played in": "122/12907 of  Eligible  decks (1 %)",
     "code": "cq"
   },
@@ -3119,7 +2964,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. When Breton Conjurer's Ward is broken, summon a 5/5 Frost Atronach with Guard.",
     "Keywords": "Guard,Ward",
-    "BBCode": "[card]Breton Conjurer[/card]",
     "Played in": "1010/14266 of  Eligible  decks (7 %)",
     "code": "cr"
   },
@@ -3137,7 +2981,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Draw a copy of a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Brilliant Experiment[/card]",
     "Played in": "302/14266 of  Eligible  decks (2 %)",
     "code": "cs"
   },
@@ -3157,7 +3000,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: See a vision of a random creature, then you must choose a creature to transform into it.",
     "Keywords": "",
-    "BBCode": "[card]Bringer of Nightmares[/card]",
     "Played in": "241/14266 of  Eligible  decks (2 %)",
     "code": "ct"
   },
@@ -3176,7 +3018,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ongoing. When a friendly creature Slays, it receives its reward an extra time.",
     "Keywords": "Slay",
-    "BBCode": "[card]Brotherhood Sanctuary[/card]",
     "Played in": "886/13695 of  Eligible  decks (6 %)",
     "code": "cu"
   },
@@ -3197,7 +3038,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Slay: Put a Completed Contract into your hand.",
     "Keywords": "Prophecy,Slay",
-    "BBCode": "[card]Brotherhood Slayer[/card]",
     "Played in": "2856/13695 of  Eligible  decks (21 %)",
     "code": "cv"
   },
@@ -3217,7 +3057,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Your opponent draws a Competed Contract.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Brotherhood Suspect[/card]",
     "Played in": "27/13695 of  Eligible  decks (0 %)",
     "code": "xy"
   },
@@ -3237,7 +3076,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon; +1/+1 for each creature that died this turn.",
     "Keywords": "",
-    "BBCode": "[card]Brotherhood Vampire[/card]",
     "Played in": "3/13644 of  Eligible  decks (0 %)",
     "code": "yG"
   },
@@ -3257,7 +3095,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When you summon another, give it +0/+2.",
     "Keywords": "",
-    "BBCode": "[card]Bruma Armorer[/card]",
     "Played in": "416/13644 of  Eligible  decks (3 %)",
     "code": "cw"
   },
@@ -3277,7 +3114,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If you have another creature in each lane, set a creature's power to 1.",
     "Keywords": "",
-    "BBCode": "[card]Bruma Oppressor[/card]",
     "Played in": "20/12907 of  Eligible  decks (0 %)",
     "code": "tt"
   },
@@ -3297,7 +3133,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When you summon another creature gain 1 health.",
     "Keywords": "",
-    "BBCode": "[card]Bruma Profiteer[/card]",
     "Played in": "4325/12907 of  Eligible  decks (34 %)",
     "code": "cx"
   },
@@ -3317,7 +3152,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Deal 3 damage to a random enemy.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Brutal Ashlander[/card]",
     "Played in": "1429/14266 of  Eligible  decks (10 %)",
     "code": "cy"
   },
@@ -3337,7 +3171,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain, When a friendly creature Pilfers or Drain, gain +1 magicka this turn.",
     "Keywords": "Drain,Pilfer",
-    "BBCode": "[card]Brynjolf[/card]",
     "Played in": "3075/13703 of  Eligible  decks (22 %)",
     "code": "cz"
   },
@@ -3355,7 +3188,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Deal 1 damage to all enemy creatures in a lane for each destroyed enemy rune.",
     "Keywords": "",
-    "BBCode": "[card]Burn and Pillage[/card]",
     "Played in": "439/12757 of  Eligible  decks (3 %)",
     "code": "cA"
   },
@@ -3373,7 +3205,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Deal 2 damage to a creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Burning Touch[/card]",
     "Played in": "124/14266 of  Eligible  decks (1 %)",
     "code": "cB"
   },
@@ -3391,7 +3222,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "A friendly creature ignores Guards and can attack creatures in any lane this turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]Bushwhack[/card]",
     "Played in": "172/12757 of  Eligible  decks (1 %)",
     "code": "cC"
   },
@@ -3411,7 +3241,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Immune to Shackle. When a rune is destroyed, Cadwell the Soul Shriven gains +1/+0.\n-\nCadwell the Betrayer can attack you.",
     "Keywords": "",
-    "BBCode": "[card]Cadwell the Soul Shriven/Cadwell the Betrayer[/card]",
     "Played in": "21/30861 of  Eligible  decks (0 %)",
     "code": "wY"
   },
@@ -3431,7 +3260,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Look at two of your opponent's cards. Guess the one in their hand. If you're right, give all creatures in your hand +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Caius Cosades[/card]",
     "Played in": "99/13644 of  Eligible  decks (1 %)",
     "code": "cD"
   },
@@ -3449,7 +3277,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Betray. Give the top three creatures of your deck +1/+1.",
     "Keywords": "Betray",
-    "BBCode": "[card]Caius' Machinations[/card]",
     "Played in": "239/13644 of  Eligible  decks (2 %)",
     "code": "cE"
   },
@@ -3467,7 +3294,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Upgrade all your Shouts. Summon a random 6-8 cost Dragon.\nLevel 2: Summon a random 8-10 cost Dragon.\nLevel 3: Summon a random 12 cost Dragon.",
     "Keywords": "",
-    "BBCode": "[card]Call Dragon[/card]",
     "Played in": "29/30861 of  Eligible  decks (0 %)",
     "code": "Bj"
   },
@@ -3485,7 +3311,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Level 1: Summon a 3/3 Sovngarde Hero.\nLevel 2: Summon two 3/3 Sovngarde Heroes.\nLevel 3: Fill a lane with 3/3 Sovngarde Heroes.",
     "Keywords": "",
-    "BBCode": "[card]Call of Valor[/card]",
     "Played in": "655/12907 of  Eligible  decks (5 %)",
     "code": "cF"
   },
@@ -3503,7 +3328,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Give a creature -4/-0 this turn.",
     "Keywords": "",
-    "BBCode": "[card]Calm[/card]",
     "Played in": "329/12907 of  Eligible  decks (3 %)",
     "code": "cG"
   },
@@ -3523,7 +3347,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 2 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Camlorn Hero[/card]",
     "Played in": "762/14266 of  Eligible  decks (5 %)",
     "Evolves from:": "Camlorn Adventurer",
     "code": "cI"
@@ -3544,7 +3367,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Camlorn Sentinel[/card]",
     "Played in": "966/14266 of  Eligible  decks (7 %)",
     "Evolves from:": "Camlorn Adventurer",
     "code": "cJ"
@@ -3565,7 +3387,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Plot: Unsummon a creature in this lane with less power than Camonna Tong Heavy.",
     "Keywords": "Plot",
-    "BBCode": "[card]Camonna Tong Heavy[/card]",
     "Played in": "88/12757 of  Eligible  decks (1 %)",
     "code": "cK"
   },
@@ -3585,7 +3406,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a 2/2 Wood Elf Scout with Charge in each lane with a wounded enemy creature.",
     "Keywords": "Charge",
-    "BBCode": "[card]Camoran Scout Leader[/card]",
     "Played in": "30/13695 of  Eligible  decks (0 %)",
     "code": "cL"
   },
@@ -3605,7 +3425,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge, Guard",
     "Keywords": "Charge,Guard",
-    "BBCode": "[card]Candlehearth Brawler[/card]",
     "Played in": "1375/12757 of  Eligible  decks (11 %)",
     "code": "cM"
   },
@@ -3625,7 +3444,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When Caravan Enforcer moves, he gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Caravan Enforcer[/card]",
     "Played in": "351/13695 of  Eligible  decks (3 %)",
     "code": "cN"
   },
@@ -3644,8 +3462,7 @@ module.exports = { cards: [
     "Soul Summon": "100",
     "Soul Trap": "20",
     "Text": "Wax: +2/+0. Wane: Shackle an enemy creature.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Cartel Arcanist[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "63/14266 of  Eligible  decks (0 %)",
     "code": "wI"
   },
@@ -3665,7 +3482,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: +2/+2.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Cartel Bruiser[/card]",
     "Played in": "41/13695 of  Eligible  decks (0 %)",
     "code": "vC"
   },
@@ -3683,7 +3499,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Banish a creature.",
     "Keywords": "",
-    "BBCode": "[card]Cast Into Time[/card]",
     "Played in": "2103/12907 of  Eligible  decks (16 %)",
     "code": "cO"
   },
@@ -3701,7 +3516,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Unsummon a creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Cast Out[/card]",
     "Played in": "1112/12757 of  Eligible  decks (9 %)",
     "code": "cP"
   },
@@ -3721,7 +3535,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Cathay-raht Veteran[/card]",
     "Played in": "69/12907 of  Eligible  decks (1 %)",
     "code": "cQ"
   },
@@ -3741,7 +3554,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Give your Activated supports an extra use. You may Activate your supports an extra time each turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]Cauldron Keeper[/card]",
     "Played in": "536/12907 of  Eligible  decks (4 %)",
     "code": "cR"
   },
@@ -3759,7 +3571,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 2 damage to a Wounded creature.",
     "Keywords": "",
-    "BBCode": "[card]Cauterize[/card]",
     "Played in": "34/12759 of  Eligible  decks (0 %)",
     "code": "sG"
   },
@@ -3779,7 +3590,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Cave Bear[/card]",
     "Played in": "86/13644 of  Eligible  decks (1 %)",
     "code": "cS"
   },
@@ -3800,7 +3610,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough. Summon: Battle an enemy creature.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Champion of the Arena[/card]",
     "Played in": "20/3890 of  Eligible  decks (1 %)",
     "code": "yJ"
   },
@@ -3818,7 +3627,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 3 damage to a creature. Empower: +1 damage.",
     "Keywords": "Empower",
-    "BBCode": "[card]Channeled Storm[/card]",
     "Played in": "494/14266 of  Eligible  decks (3 %)",
     "code": "sH"
   },
@@ -3839,7 +3647,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "After you play an action, summon a random creature from your deck with the same cost.",
     "Keywords": "",
-    "BBCode": "[card]Chanter of Akatosh[/card]",
     "Played in": "442/12907 of  Eligible  decks (3 %)",
     "code": "cU"
   },
@@ -3857,7 +3664,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon a Chaurus Reaper in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Chaurus Breeding Pit[/card]",
     "Played in": "95/13695 of  Eligible  decks (1 %)",
     "code": "cW"
   },
@@ -3877,7 +3683,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give all enemy creatures in this lane -1/-1.",
     "Keywords": "",
-    "BBCode": "[card]Chaurus Reaper[/card]",
     "Played in": "288/13695 of  Eligible  decks (2 %)",
     "code": "cX"
   },
@@ -3897,7 +3702,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Chaurus[/card]",
     "Played in": "31/13703 of  Eligible  decks (0 %)",
     "code": "cV"
   },
@@ -3918,7 +3722,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of the game, Cheesemancer gains the abilities of a random creature from Isle of Madness.",
     "Keywords": "",
-    "BBCode": "[card]Cheesemancer[/card]",
     "Played in": "23/30872 of  Eligible  decks (0 %)",
     "code": "cY"
   },
@@ -3938,7 +3741,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain",
     "Keywords": "Drain",
-    "BBCode": "[card]Cheydinhal Sapper[/card]",
     "Played in": "540/12907 of  Eligible  decks (4 %)",
     "code": "cZ"
   },
@@ -3956,7 +3758,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Friendly Orcs have +0/+2.",
     "Keywords": "",
-    "BBCode": "[card]Chieftain's Banner[/card]",
     "Played in": "50/13644 of  Eligible  decks (0 %)",
     "code": "da"
   },
@@ -3976,7 +3777,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Slay: May attack again this turn.",
     "Keywords": "Slay",
-    "BBCode": "[card]Child of Hircine[/card]",
     "Played in": "859/12757 of  Eligible  decks (7 %)",
     "Evolves from:": "Initiate of Hircine",
     "code": "db"
@@ -3995,7 +3795,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Destroy a creature. Plot: Steal the creature instead.",
     "Keywords": "Plot",
-    "BBCode": "[card]Chodala's Treachery[/card]",
     "Played in": "283/12907 of  Eligible  decks (2 %)",
     "code": "dc"
   },
@@ -4016,7 +3815,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Lethal. Slay: Draw two cards. Cicero can attack friendly creatures.",
     "Keywords": "Lethal,Slay",
-    "BBCode": "[card]Cicero the Betrayer[/card]",
     "Played in": "1483/13644 of  Eligible  decks (11 %)",
     "code": "dd"
   },
@@ -4036,7 +3834,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Beast Form: +2/+1",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Circle Initiate[/card]",
     "Played in": "2421/12757 of  Eligible  decks (19 %)",
     "code": "de"
   },
@@ -4056,7 +3853,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]City Guard[/card]",
     "Played in": "40/13644 of  Eligible  decks (0 %)",
     "code": "xu"
   },
@@ -4076,7 +3872,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Clannfear Runt[/card]",
     "Played in": "11/12907 of  Eligible  decks (0 %)",
     "code": "xQ"
   },
@@ -4096,7 +3891,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Give a creature +0/+2.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Cleric of Kyne[/card]",
     "Played in": "913/12907 of  Eligible  decks (7 %)",
     "code": "df"
   },
@@ -4116,7 +3910,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Battle an enemy creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Cliff Hunter[/card]",
     "Played in": "81/12757 of  Eligible  decks (1 %)",
     "code": "dg"
   },
@@ -4134,7 +3927,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon a 4/4 Cliff Racer with Charge in each lane. Your opponent summons a 0/1 Target with Guard in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Cliff Racer Onslaught[/card]",
     "Played in": "61/13695 of  Eligible  decks (0 %)",
     "code": "di"
   },
@@ -4154,7 +3946,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge",
     "Keywords": "Charge",
-    "BBCode": "[card]Cliff Racer[/card]",
     "Played in": "797/13695 of  Eligible  decks (6 %)",
     "code": "dh"
   },
@@ -4174,7 +3965,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. Can't attack your opponent. At the end of your turn, if there are no enemy creatures in this lane, move Cliff Strider.",
     "Keywords": "Charge",
-    "BBCode": "[card]Cliff Strider[/card]",
     "Played in": "54/13695 of  Eligible  decks (0 %)",
     "code": "dj"
   },
@@ -4194,7 +3984,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon a Dragon, Cliffside Lookout gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Cliffside Lookout[/card]",
     "Played in": "410/12907 of  Eligible  decks (3 %)",
     "code": "dk"
   },
@@ -4216,7 +4005,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Other friendly creatures in this lane have Guard. At the end of your turn, summon a 1/1 Recruit in each lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Clivia Tharn[/card]",
     "Played in": "249/356 of  Eligible  decks (70 %)",
     "code": "sI"
   },
@@ -4234,7 +4022,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Cloak/Dagger[/card]",
     "Played in": "373/12757 of  Eligible  decks (3 %)",
     "code": "dl"
   },
@@ -4255,7 +4042,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give another friendly creature +4/+4. It becomes [neutral].",
     "Keywords": "",
-    "BBCode": "[card]Clockwork Apostle[/card]",
     "Played in": "341/12907 of  Eligible  decks (3 %)",
     "code": "dm"
   },
@@ -4275,7 +4061,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Exalt 3: +2/+2.",
     "Keywords": "Guard,Exalt",
-    "BBCode": "[card]Clockwork City Pilgrim[/card]",
     "Played in": "180/14266 of  Eligible  decks (1 %)",
     "code": "dn"
   },
@@ -4296,7 +4081,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: If Clockwork Dragon is in the left lane, +2/+0 and Dran. Otherwise, +0/+2 and Guard.",
     "Keywords": "Drain,Guard",
-    "BBCode": "[card]Clockwork Dragon[/card]",
     "Played in": "1012/30861 of  Eligible  decks (3 %)",
     "code": "do"
   },
@@ -4317,7 +4101,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain, Lethal",
     "Keywords": "Drain,Lethal",
-    "BBCode": "[card]Clockwork Scorpion[/card]",
     "Played in": "619/13695 of  Eligible  decks (5 %)",
     "code": "dp"
   },
@@ -4335,7 +4118,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Unsummon a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Close Call[/card]",
     "Played in": "858/30861 of  Eligible  decks (3 %)",
     "code": "dq"
   },
@@ -4355,7 +4137,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy. Summon: Give a creature -4/-0 this turn.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Cloudrest Illusionist[/card]",
     "Played in": "3777/12907 of  Eligible  decks (29 %)",
     "code": "dr"
   },
@@ -4376,7 +4157,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Add a gear to Cog Collector. Last Gasp: Summon a random [neutral] creature with cost equal to the number of gears on Cog Collector.",
     "Keywords": "Pilfer,Last Gasp",
-    "BBCode": "[card]Cog Collector[/card]",
     "Played in": "118/13695 of  Eligible  decks (1 %)",
     "code": "ds"
   },
@@ -4394,7 +4174,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: 3. Activate: Reveal three random 1-cost actions and draw one. Then, increase the cost of cards this reveals by 1.",
     "Keywords": "",
-    "BBCode": "[card]College of Winterhold[/card]",
     "Played in": "681/14266 of  Eligible  decks (5 %)",
     "code": "dt"
   },
@@ -4414,7 +4193,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Beast Form: Give friendly Werwolves +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Companion Harbinger[/card]",
     "Played in": "287/13644 of  Eligible  decks (2 %)",
     "code": "du"
   },
@@ -4434,7 +4212,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Summon a 5/5 Frost Atronach with Guard.",
     "Keywords": "",
-    "BBCode": "[card]Conjuration Scholar[/card]",
     "Played in": "964/14266 of  Eligible  decks (7 %)",
     "code": "dv"
   },
@@ -4454,7 +4231,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Shuffle three Lava Atronachs into your deck. When you summon an Atronach, summon a copy of it in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Conjuration Tutor[/card]",
     "Played in": "586/14266 of  Eligible  decks (4 %)",
     "code": "dw"
   },
@@ -4472,7 +4248,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. At the end of your turn, if you gained health, summon a 2/2 Familiar.",
     "Keywords": "",
-    "BBCode": "[card]Conjurer's Spirit[/card]",
     "Played in": "216/12907 of  Eligible  decks (2 %)",
     "code": "dx"
   },
@@ -4491,8 +4266,7 @@ module.exports = { cards: [
     "Soul Summon": "100",
     "Soul Trap": "20",
     "Text": "Wax: +1/+1 and your opponent can't target Corinthe Brawler with actions. Wane: Gain 1 magicka this turn for each enemy creature in this lane.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Corinthe Brawler[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "58/13695 of  Eligible  decks (0 %)",
     "code": "wX"
   },
@@ -4512,7 +4286,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: You must discard a card. At the start of your turn, draw two cards and Cornerclub Gambler loses this ability.",
     "Keywords": "",
-    "BBCode": "[card]Cornerclub Gambler[/card]",
     "Played in": "1956/13695 of  Eligible  decks (14 %)",
     "code": "dy"
   },
@@ -4530,7 +4303,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Silence a creature, then give it +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Corprus Disease[/card]",
     "Played in": "172/12757 of  Eligible  decks (1 %)",
     "code": "dz"
   },
@@ -4550,7 +4322,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. At the end of your turn, if Corrupted Shade doesn't have a Ward, sacrifice it.",
     "Keywords": "Ward",
-    "BBCode": "[card]Corrupted Shade[/card]",
     "Played in": "625/13644 of  Eligible  decks (5 %)",
     "code": "dA"
   },
@@ -4569,7 +4340,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Summon a 1/1 Corsair. When you summon a creature, equip it with a Steel Dagger.",
     "Keywords": "",
-    "BBCode": "[card]Corsair Ship[/card]",
     "Played in": "753/14266 of  Eligible  decks (5 %)",
     "code": "dB"
   },
@@ -4589,7 +4359,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card if you have two other  creatures.",
     "Keywords": "",
-    "BBCode": "[card]Court Wizard[/card]",
     "Played in": "58/14266 of  Eligible  decks (0 %)",
     "code": "dC"
   },
@@ -4607,7 +4376,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Mobilize, Guard.\n+1/+3",
     "Keywords": "Prophecy,Mobilize,Guard",
-    "BBCode": "[card]Covenant Mail[/card]",
     "Played in": "130/13644 of  Eligible  decks (1 %)",
     "code": "sL"
   },
@@ -4627,7 +4395,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+2/+0 while you have no cards in hand.",
     "Keywords": "",
-    "BBCode": "[card]Covenant Marauder[/card]",
     "Played in": "195/12757 of  Eligible  decks (2 %)",
     "code": "dD"
   },
@@ -4647,7 +4414,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Mobilize, Breajthrough, Regenerate, Guard, Ward. +3/+3.",
     "Keywords": "Mobilize,Breajthrough,Regenerate,Guard,Ward",
-    "BBCode": "[card]Covenant Masterpiece[/card]",
     "Played in": "76/303 of  Eligible  decks (25 %)",
     "code": "sM"
   },
@@ -4667,7 +4433,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a ... \n[strength] cad in play, draw a random item from your deck.\n[endurance] card in play, give an item in your hand +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Covenant Oathman[/card]",
     "Played in": "96/14266 of  Eligible  decks (1 %)",
     "code": "sN"
   },
@@ -4685,7 +4450,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Mobilize, Guard, +3/+1.",
     "Keywords": "Prophecy,Mobilize,Guard",
-    "BBCode": "[card]Covenant Plate[/card]",
     "Played in": "251/12757 of  Eligible  decks (2 %)",
     "code": "tE"
   },
@@ -4705,7 +4469,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Deal 2 damage to all other creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Cradlecrush Giant[/card]",
     "Played in": "1249/12757 of  Eligible  decks (10 %)",
     "code": "dE"
   },
@@ -4725,7 +4488,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When you play or activate a support, give Craglorn Scavenger +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Craglorn Scavenger[/card]",
     "Played in": "35/14266 of  Eligible  decks (0 %)",
     "code": "dF"
   },
@@ -4743,7 +4505,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon two 1/1 Imperial Grunts to a lane. Plot: Gain 1 health for each friendly creature in that lane.",
     "Keywords": "Plot",
-    "BBCode": "[card]Crassius' Favor[/card]",
     "Played in": "450/12907 of  Eligible  decks (3 %)",
     "code": "dG"
   },
@@ -4763,7 +4524,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Craven Conscript is permanently Shackled unless equipped with an item.",
     "Keywords": "",
-    "BBCode": "[card]Craven Conscript[/card]",
     "Played in": "135/12757 of  Eligible  decks (1 %)",
     "code": "sO"
   },
@@ -4783,7 +4543,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge. Crazed Hunger has +2/+0 on your turn.",
     "Keywords": "Charge",
-    "BBCode": "[card]Crazed Hunger[/card]",
     "Played in": "70/13695 of  Eligible  decks (1 %)",
     "code": "dH"
   },
@@ -4803,7 +4562,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. When Crocodile Brute is Consumed, draw a card.",
     "Keywords": "Prophecy,Consume",
-    "BBCode": "[card]Crocodile Brute[/card]",
     "Played in": "146/30861 of  Eligible  decks (0 %)",
     "code": "vW"
   },
@@ -4823,7 +4581,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Put a Steel Dagger into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Crown Quartermaster[/card]",
     "Played in": "2147/14266 of  Eligible  decks (15 %)",
     "code": "dI"
   },
@@ -4843,7 +4600,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw an item of your choice from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Crucible Blacksmith[/card]",
     "Played in": "266/14266 of  Eligible  decks (2 %)",
     "code": "dJ"
   },
@@ -4861,7 +4617,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Mobilize. Summon: +1/+1 for each enemy creature in this lane.",
     "Keywords": "Mobilize",
-    "BBCode": "[card]Cruel Axe[/card]",
     "Played in": "57/13644 of  Eligible  decks (0 %)",
     "code": "tH"
   },
@@ -4879,7 +4634,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Sacrifice a creature to deal 5 damage to a random enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Cruel Firebloom[/card]",
     "Played in": "1881/14266 of  Eligible  decks (13 %)",
     "code": "dK"
   },
@@ -4898,7 +4652,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a creature +2/+0, Breakthrough and “Slay and Pilfer: Draw a card” this turn.",
     "Keywords": "",
-    "BBCode": "[card]Crusader's Assault[/card]",
     "Played in": "2742/3994 of  Eligible  decks (69 %)",
     "code": "dL"
   },
@@ -4916,7 +4669,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 3 damage.",
     "Keywords": "",
-    "BBCode": "[card]Crushing Blow[/card]",
     "Played in": "4018/30861 of  Eligible  decks (13 %)",
     "code": "dM"
   },
@@ -4936,7 +4688,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "After you play an action, Crystal Tower Crafter gets +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Crystal Tower Crafter[/card]",
     "Played in": "694/14266 of  Eligible  decks (5 %)",
     "code": "dO"
   },
@@ -4956,7 +4707,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Put a Firebolt into your hand if the top card of your deck is (Intelligence).",
     "Keywords": "",
-    "BBCode": "[card]Cunning Ally[/card]",
     "Played in": "2210/14266 of  Eligible  decks (15 %)",
     "code": "dP"
   },
@@ -4974,7 +4724,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a creature -1/-1.",
     "Keywords": "",
-    "BBCode": "[card]Curse[/card]",
     "Played in": "1114/13695 of  Eligible  decks (8 %)",
     "code": "dQ"
   },
@@ -4994,7 +4743,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Silence another creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Cursed Spectre[/card]",
     "Played in": "520/13644 of  Eligible  decks (4 %)",
     "code": "dR"
   },
@@ -5014,7 +4762,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a 2/2 Imperial Solider for each friendly support. When you summon a support, summon a 2/2 Imperial Soldier.",
     "Keywords": "",
-    "BBCode": "[card]Cygnus Standard Bearer[/card]",
     "Played in": "83/12907 of  Eligible  decks (1 %)",
     "code": "wZ"
   },
@@ -5034,7 +4781,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Pilfer: Reduce the cost of the top card of your deck by 3.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Cyriel[/card]",
     "Played in": "512/13703 of  Eligible  decks (4 %)",
     "code": "dS"
   },
@@ -5052,7 +4798,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+2. Slay: +1/+1.",
     "Keywords": "Slay",
-    "BBCode": "[card]Daedric Crescent[/card]",
     "Played in": "273/13644 of  Eligible  decks (2 %)",
     "code": "dT"
   },
@@ -5070,7 +4815,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal. +1/+1",
     "Keywords": "Lethal",
-    "BBCode": "[card]Daedric Dagger[/card]",
     "Played in": "687/13644 of  Eligible  decks (5 %)",
     "code": "dU"
   },
@@ -5088,7 +4832,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Draw a random Daedra from your deck. Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Daedric Incursion[/card]",
     "Played in": "80/12757 of  Eligible  decks (1 %)",
     "code": "xr"
   },
@@ -5108,7 +4851,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "While you have another creature in each lane, Daedric Titan has Drain and your opponent can't target it with actions.",
     "Keywords": "Drain",
-    "BBCode": "[card]Daedric Titan[/card]",
     "Played in": "56/13695 of  Eligible  decks (0 %)",
     "code": "sR"
   },
@@ -5128,7 +4870,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ward. When Daggerfall Mage's Ward is broken, put a Tome of Alteration into your hand.",
     "Keywords": "Ward",
-    "BBCode": "[card]Daggerfall Mage[/card]",
     "Played in": "5787/14266 of  Eligible  decks (41 %)",
     "code": "dV"
   },
@@ -5150,7 +4891,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Return all items equipped to Daggerfall Phantom to your hand.",
     "Keywords": "",
-    "BBCode": "[card]Daggerfall Phantom[/card]",
     "Played in": "138/303 of  Eligible  decks (46 %)",
     "code": "ul"
   },
@@ -5169,7 +4909,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Equip a +1/+0 Steel Dagger to a random friendly creature in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Daggers in the Dark[/card]",
     "Played in": "168/14266 of  Eligible  decks (1 %)",
     "code": "dW"
   },
@@ -5189,7 +4928,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Draw a random support from your deck.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Dagi-raht Mystic[/card]",
     "Played in": "709/12907 of  Eligible  decks (5 %)",
     "code": "dX"
   },
@@ -5207,7 +4945,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Breakthrough. +2/+1.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Dagoth Dagger[/card]",
     "Played in": "615/12757 of  Eligible  decks (5 %)",
     "code": "dY"
   },
@@ -5227,7 +4964,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: if you have a ... (agility) card in play, +1/+1. (intelligence) card in play, +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Dagoth Oathman[/card]",
     "Played in": "262/12757 of  Eligible  decks (2 %)",
     "code": "dZ"
   },
@@ -5249,7 +4985,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough, Charge, Drain, Guard, Lethal, Ward",
     "Keywords": "Breakthrough,Charge,Drain,Guard,Lethal,Ward",
-    "BBCode": "[card]Dagoth Ur[/card]",
     "Played in": "540/937 of  Eligible  decks (58 %)",
     "code": "ea"
   },
@@ -5269,7 +5004,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Pilfer: +1/+1",
     "Keywords": "Pilfer,Prophecy",
-    "BBCode": "[card]Daring Cutpurse[/card]",
     "Played in": "1769/13695 of  Eligible  decks (13 %)",
     "code": "eb"
   },
@@ -5288,7 +5022,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Draw two cards. Daring Heist can't be played unless a creature in each lane damage your opponent this turn.",
     "Keywords": "",
-    "BBCode": "[card]Daring Heist[/card]",
     "Played in": "56/13695 of  Eligible  decks (0 %)",
     "code": "ec"
   },
@@ -5308,7 +5041,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Your Daedra cost 1 less. When you draw a creature, transform it into a random Daedra.",
     "Keywords": "",
-    "BBCode": "[card]Dark Anchor[/card]",
     "Played in": "21/13644 of  Eligible  decks (0 %)",
     "code": "sS"
   },
@@ -5329,7 +5061,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard, When your opponent draws a Prophecy from a rune being destroyed, draw a card.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dark Guardian[/card]",
     "Played in": "3305/13644 of  Eligible  decks (24 %)",
     "code": "ed"
   },
@@ -5349,7 +5080,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: Gain 4 health.",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Dark Harvester[/card]",
     "Played in": "712/30861 of  Eligible  decks (2 %)",
     "code": "ee"
   },
@@ -5383,7 +5113,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Sacrifice a creature to summon a copy of it.",
     "Keywords": "",
-    "BBCode": "[card]Dark Rebirth[/card]",
     "Played in": "1964/14266 of  Eligible  decks (14 %)",
     "code": "ef"
   },
@@ -5401,7 +5130,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 5. Activate: Deal 1 damage to your opponent. If Dark Rift has dealt 5 damage, sacrifice it to summon a Storm Atronach.",
     "Keywords": "",
-    "BBCode": "[card]Dark Rift[/card]",
     "Played in": "313/14266 of  Eligible  decks (2 %)",
     "code": "eg"
   },
@@ -5421,7 +5149,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain, Guard. Dark Seducer Drains on both turns.",
     "Keywords": "Drain,Guard",
-    "BBCode": "[card]Dark Seducer[/card]",
     "Played in": "660/13644 of  Eligible  decks (5 %)",
     "code": "eh"
   },
@@ -5439,7 +5166,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Destroy all creatures in a lane.",
     "Keywords": "",
-    "BBCode": "[card]Dawn's Wrath[/card]",
     "Played in": "2541/12907 of  Eligible  decks (20 %)",
     "code": "ei"
   },
@@ -5457,7 +5183,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+4/+4. Slay: Banish the slain creature if it's Undead.",
     "Keywords": "",
-    "BBCode": "[card]Dawnbreaker[/card]",
     "Played in": "2930/12916 of  Eligible  decks (23 %)",
     "code": "ej"
   },
@@ -5475,7 +5200,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+0/+3. At the end of your turn, if Dawnfang is in your hand, change it into Duskfang. Slay: You gain 5 health.",
     "Keywords": "Slay",
-    "BBCode": "[card]Dawnfang[/card]",
     "Played in": "384/30872 of  Eligible  decks (1 %)",
     "code": "ek"
   },
@@ -5495,7 +5219,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "After an enemy rune is destroyed, gain 3 health.",
     "Keywords": "",
-    "BBCode": "[card]Dawnstar Healer[/card]",
     "Played in": "906/12907 of  Eligible  decks (7 %)",
     "code": "el"
   },
@@ -5513,7 +5236,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a friendly creature \"Slay: Put a Completed Contract into your hand\" this turn. It may move to attack creatures in the other lane this turn.",
     "Keywords": "",
-    "BBCode": "[card]Dead Drop[/card]",
     "Played in": "20/13695 of  Eligible  decks (0 %)",
     "code": "yw"
   },
@@ -5533,7 +5255,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal",
     "Keywords": "Lethal",
-    "BBCode": "[card]Deadly Draugr[/card]",
     "Played in": "839/13644 of  Eligible  decks (6 %)",
     "Evolves from:": "Rotting Draugr",
     "code": "em"
@@ -5554,7 +5275,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Death Hound's power is equal to its health.",
     "Keywords": "Guard",
-    "BBCode": "[card]Death Hound[/card]",
     "Played in": "67/13644 of  Eligible  decks (0 %)",
     "code": "en"
   },
@@ -5574,7 +5294,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain. Deal damage to a creature equal to the number of creatures that died this turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Death Scythe[/card]",
     "Played in": "3/1118 of  Eligible  decks (0 %)",
     "code": "Bk"
   },
@@ -5594,7 +5313,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp; Summon a 1/1 Skeleton.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Deathless Draugr[/card]",
     "Played in": "421/13644 of  Eligible  decks (3 %)",
     "Evolves from:": "Rotting Draugr",
     "code": "eo"
@@ -5613,7 +5331,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Give all crateures -2/-2. Empower: Costs 1 less.",
     "Keywords": "Empower",
-    "BBCode": "[card]Debilitate[/card]",
     "Played in": "410/13695 of  Eligible  decks (3 %)",
     "code": "uz"
   },
@@ -5633,7 +5350,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Shackle creatures damaged by Deepwood Trapper.",
     "Keywords": "Guard",
-    "BBCode": "[card]Deepwood Trapper[/card]",
     "Played in": "743/13695 of  Eligible  decks (5 %)",
     "code": "ep"
   },
@@ -5651,7 +5367,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Costs 2 less for each friendly creature with 5 or more health. Give friendly creatures +1/+1 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Defense of Bruma[/card]",
     "Played in": "50/12907 of  Eligible  decks (0 %)",
     "code": "yj"
   },
@@ -5671,7 +5386,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deranged Corprus has +5/+0 on your turn.",
     "Keywords": "",
-    "BBCode": "[card]Deranged Corprus[/card]",
     "Played in": "132/13695 of  Eligible  decks (1 %)",
     "code": "eq"
   },
@@ -5691,7 +5405,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Pilfer: Descendant of Alkosh gains +1/+1 and a random keyword.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Descendant of Alkosh[/card]",
     "Played in": "784/12907 of  Eligible  decks (6 %)",
     "code": "er"
   },
@@ -5711,7 +5424,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Summon a 3/3 Deshaan Sneak.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Deshaan Avenger[/card]",
     "Played in": "586/13695 of  Eligible  decks (4 %)",
     "Evolves from:": "Deshaan Sneak",
     "code": "es"
@@ -5730,7 +5442,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Sacrifice a creature to summon a random creature that costs 2 more.",
     "Keywords": "",
-    "BBCode": "[card]Desperate Conjuring[/card]",
     "Played in": "694/14266 of  Eligible  decks (5 %)",
     "code": "eu"
   },
@@ -5750,7 +5461,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Your actions that deal damage costs 2 less.",
     "Keywords": "",
-    "BBCode": "[card]Destruction Tutor[/card]",
     "Played in": "77/14266 of  Eligible  decks (1 %)",
     "code": "ev"
   },
@@ -5770,7 +5480,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Last Gasp: Gain max magicka equal to Determined Supplier's power.",
     "Keywords": "Guard",
-    "BBCode": "[card]Determined Supplier[/card]",
     "Played in": "82/13644 of  Eligible  decks (1 %)",
     "code": "yt"
   },
@@ -5790,7 +5499,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Deal 3 damage to your opponent and you gain 3 health. Devious Bandit has the Pilfer abilities of all your creatures.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Devious Bandit[/card]",
     "Played in": "71/13695 of  Eligible  decks (1 %)",
     "code": "wj"
   },
@@ -5808,7 +5516,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Destroy a creature with 4 power or less and give its Keywords to a random Dragon in your hand.",
     "Keywords": "",
-    "BBCode": "[card]Devour[/card]",
     "Played in": "846/12916 of  Eligible  decks (7 %)",
     "code": "ex"
   },
@@ -5826,7 +5533,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Deal 2 damage to a creature. If this would kill it, instead Banish it.",
     "Keywords": "",
-    "BBCode": "[card]Devouring Flame[/card]",
     "Played in": "32/12757 of  Eligible  decks (0 %)",
     "code": "wS"
   },
@@ -5846,7 +5552,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: Draw a card, then discard a card.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Discerning Thief[/card]",
     "Played in": "286/14266 of  Eligible  decks (2 %)",
     "code": "vK"
   },
@@ -5866,7 +5571,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of each turn, draw a card for each friendly creature that died in Disciple of Namira's lane.",
     "Keywords": "",
-    "BBCode": "[card]Disciple of Namira[/card]",
     "Played in": "565/13644 of  Eligible  decks (4 %)",
     "code": "ey"
   },
@@ -5884,7 +5588,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Destroy an enemy support or (neutral) creature.",
     "Keywords": "",
-    "BBCode": "[card]Dismantle[/card]",
     "Played in": "248/30872 of  Eligible  decks (1 %)",
     "code": "ez"
   },
@@ -5904,7 +5607,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Deal 6 damage to a random enemy. At the start of your turn, Divayth Fyr summons a Daughter of Fyr.",
     "Keywords": "",
-    "BBCode": "[card]Divayth Fyr[/card]",
     "Played in": "535/14266 of  Eligible  decks (4 %)",
     "code": "eA"
   },
@@ -5924,7 +5626,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Betray. Summon a copy of a friendly creature.",
     "Keywords": "Betray",
-    "BBCode": "[card]Divayth's Experiments[/card]",
     "Played in": "458/1118 of  Eligible  decks (41 %)",
     "code": "eB"
   },
@@ -5942,7 +5643,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Banish a creature with 0 power.",
     "Keywords": "",
-    "BBCode": "[card]Dive Rock Fall[/card]",
     "Played in": "5/12907 of  Eligible  decks (0 %)",
     "code": "xH"
   },
@@ -5960,7 +5660,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Friendly creatures have +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Divine Fervor[/card]",
     "Played in": "4195/12907 of  Eligible  decks (33 %)",
     "Evolves from:": "Divine Conviction",
     "code": "eD"
@@ -5983,7 +5682,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Drain. Summon, Last Gasp and Slay: Deal 1 damage to your opponent.",
     "Keywords": "Drain,Last Gasp,Slay",
-    "BBCode": "[card]Dominion Battlereeve[/card]",
     "Played in": "270/307 of  Eligible  decks (88 %)",
     "code": "sy"
   },
@@ -6003,7 +5701,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a... \n[willpower] card in play, Drain.\n[intelligence] card in play, deal 2 damage to your opponent",
     "Keywords": "Drain",
-    "BBCode": "[card]Dominion Oathman[/card]",
     "Played in": "224/13695 of  Eligible  decks (2 %)",
     "code": "sU"
   },
@@ -6023,7 +5720,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Friendly creatures in this lane have Lethal.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Doomcrag Vampire[/card]",
     "Played in": "609/13644 of  Eligible  decks (4 %)",
     "code": "eE"
   },
@@ -6043,7 +5739,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Give a random creature in your hand +2/+2.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Doomed Adventurer[/card]",
     "Played in": "112/13644 of  Eligible  decks (1 %)",
     "code": "ys"
   },
@@ -6063,7 +5758,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If the top card of your deck is... [strength]: +2/+0, [intelligence]: Ward, [willpower]: Drain, [agility]: Lethal, [endurance]: +0/+2.",
     "Keywords": "",
-    "BBCode": "[card]Doomfang Ally[/card]",
     "Played in": "308/30861 of  Eligible  decks (1 %)",
     "code": "eF"
   },
@@ -6083,7 +5777,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Transform Doppelganger into a copy of another friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Doppelganger[/card]",
     "Played in": "953/14271 of  Eligible  decks (7 %)",
     "code": "eG"
   },
@@ -6104,7 +5797,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Dormant Centurion can't attack unless you've played an action this turn.",
     "Keywords": "",
-    "BBCode": "[card]Dormant Centurion[/card]",
     "Played in": "40/30861 of  Eligible  decks (0 %)",
     "code": "eH"
   },
@@ -6124,7 +5816,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Put a random Shout into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Dovah of the Voice[/card]",
     "Played in": "362/13695 of  Eligible  decks (3 %)",
     "code": "eI"
   },
@@ -6159,7 +5850,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Level 1: You gain 3 health and Battle an enemy creature as if you had 3 power. \nLevel 2: You gain 5 health and Battle an enemy creature as if you had 5 power.\nLevel 3: You gain 7 health and Battle an enemy creature as if you had 7 power.",
     "Keywords": "",
-    "BBCode": "[card]Dragon Aspect[/card]",
     "Played in": "458/30861 of  Eligible  decks (1 %)",
     "code": "eJ"
   },
@@ -6179,7 +5869,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Spend all your available magicka to play Dragon Cult Ghost. Its power and health are equal to the magicka spent.",
     "Keywords": "",
-    "BBCode": "[card]Dragon Cult Ghost[/card]",
     "Played in": "415/13644 of  Eligible  decks (3 %)",
     "code": "eK"
   },
@@ -6197,7 +5886,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. Summon: Transform all cards in your deck into random Dragons. Your Dragons cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Dragon Mound[/card]",
     "Played in": "253/30861 of  Eligible  decks (1 %)",
     "code": "eL"
   },
@@ -6215,7 +5903,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+2/+2 Summon: Trigger the wielder's summon ability.",
     "Keywords": "",
-    "BBCode": "[card]Dragon Priest Mask[/card]",
     "Played in": "511/14266 of  Eligible  decks (4 %)",
     "code": "eM"
   },
@@ -6233,7 +5920,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 3 damage to a creature, and 3 extra damage for each friendly Dragon.",
     "Keywords": "",
-    "BBCode": "[card]Dragon's Fury[/card]",
     "Played in": "138/14266 of  Eligible  decks (1 %)",
     "code": "eN"
   },
@@ -6253,7 +5939,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Dragonguard Outcast gains Cover until she attacks.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Dragonguard Outcast[/card]",
     "Played in": "50/13695 of  Eligible  decks (0 %)",
     "code": "sV"
   },
@@ -6271,7 +5956,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+2. Summon: +2/+2 if you have a Dragon in your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Dragonplate Armor[/card]",
     "Played in": "223/13644 of  Eligible  decks (2 %)",
     "code": "eO"
   },
@@ -6291,7 +5975,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Dragonstar Rider equips an item, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Dragonstar Rider[/card]",
     "Played in": "329/14266 of  Eligible  decks (2 %)",
     "code": "eP"
   },
@@ -6311,7 +5994,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +1/+0 for each enemy creature in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Dragontail Savior[/card]",
     "Played in": "1087/13644 of  Eligible  decks (8 %)",
     "code": "eQ"
   },
@@ -6329,7 +6011,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Betray. Give a creature -2/-2.",
     "Keywords": "Betray",
-    "BBCode": "[card]Drain Blood[/card]",
     "Played in": "201/13695 of  Eligible  decks (1 %)",
     "code": "eR"
   },
@@ -6347,7 +6028,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Level 1: Give an enemy creature -1/-1.\nLevel 2: Give an enemy creature -2/-2. \nLevel 3: Give all enemy creatures in a lane -2/-2.",
     "Keywords": "",
-    "BBCode": "[card]Drain Vitality[/card]",
     "Played in": "2124/13695 of  Eligible  decks (16 %)",
     "code": "eS"
   },
@@ -6367,7 +6047,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: All enemy creatures lose Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dread Clannfear[/card]",
     "Played in": "72/12757 of  Eligible  decks (1 %)",
     "code": "eT"
   },
@@ -6387,7 +6066,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When Dremora Adept gains a Keyword, Invade.",
     "Keywords": "",
-    "BBCode": "[card]Dremora Adept[/card]",
     "Played in": "62/14266 of  Eligible  decks (0 %)",
     "code": "xF"
   },
@@ -6407,7 +6085,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Deal damage to a creature equal to Dremora Archer's power.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Dremora Archer[/card]",
     "Played in": "27/12757 of  Eligible  decks (0 %)",
     "code": "xw"
   },
@@ -6427,7 +6104,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: You gain health equal to Dremora Channeler's power plus health.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Dremora Channeler[/card]",
     "Played in": "96/12907 of  Eligible  decks (1 %)",
     "code": ""
   },
@@ -6447,7 +6123,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Summon: Double a creature's power and health.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dremora Markynaz[/card]",
     "Played in": "251/12757 of  Eligible  decks (2 %)",
     "code": "eU"
   },
@@ -6467,7 +6142,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Dren Bodyguard[/card]",
     "Played in": "108/12907 of  Eligible  decks (1 %)",
     "code": "eV"
   },
@@ -6487,7 +6161,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Other friendly creatures can't be Shackled.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dres Renegade[/card]",
     "Played in": "671/14266 of  Eligible  decks (5 %)",
     "Evolves from:": "Dres Guard",
     "code": "eX"
@@ -6508,7 +6181,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Look at the top card of your deck. You may discard it.",
     "Keywords": "",
-    "BBCode": "[card]Dres Spy[/card]",
     "Played in": "246/13695 of  Eligible  decks (2 %)",
     "code": "eY"
   },
@@ -6528,7 +6200,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When an enemy becomes Shackled, deal 3 damage to it.",
     "Keywords": "",
-    "BBCode": "[card]Dres Tormentor[/card]",
     "Played in": "471/14266 of  Eligible  decks (3 %)",
     "Evolves from:": "Dres Guard",
     "code": "eZ"
@@ -6547,7 +6218,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+3/+3",
     "Keywords": "",
-    "BBCode": "[card]Dreugh Shell Armor[/card]",
     "Played in": "226/30861 of  Eligible  decks (1 %)",
     "Evolves from:": "Snapping Dreugh",
     "code": "fa"
@@ -6566,7 +6236,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "A creature Battles itself.",
     "Keywords": "",
-    "BBCode": "[card]Drive Mad[/card]",
     "Played in": "234/12757 of  Eligible  decks (2 %)",
     "code": "fb"
   },
@@ -6586,7 +6255,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Consume a creature. When a creature leaves your discard pile, Dro-m'Athra Reaper gains +0/+1 and you gain 1 health.",
     "Keywords": "Consume",
-    "BBCode": "[card]Dro-m'Athra Reaper[/card]",
     "Played in": "106/13644 of  Eligible  decks (1 %)",
     "code": "wy"
   },
@@ -6604,7 +6272,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Give a friendly creature +3/+3. It Battles your opponent's most powerful creature.",
     "Keywords": "",
-    "BBCode": "[card]Duel Atop the World[/card]",
     "Played in": "129/12757 of  Eligible  decks (1 %)",
     "code": "fd"
   },
@@ -6626,7 +6293,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "The first time you play a card each turn, draw a random card from your deck with cost equal to your remaining magicka.",
     "Keywords": "",
-    "BBCode": "[card]Duke Vedam Dren[/card]",
     "Played in": "402/861 of  Eligible  decks (47 %)",
     "code": "ff"
   },
@@ -6662,7 +6328,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Move another friendly creature in this lane. When a friendly creature moves, give it +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Dune Smuggler[/card]",
     "Played in": "1102/13695 of  Eligible  decks (8 %)",
     "Evolves from:": "Dune Rogue",
     "code": "fh"
@@ -6683,7 +6348,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Move another friendly creature in this lane.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Dune Stalker[/card]",
     "Played in": "628/13695 of  Eligible  decks (5 %)",
     "Evolves from:": "Dune Rogue",
     "code": "fi"
@@ -6704,7 +6368,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Put an Iron Sword into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Dunmer Nightblade[/card]",
     "Played in": "485/14266 of  Eligible  decks (3 %)",
     "code": "fk"
   },
@@ -6724,7 +6387,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge. Veteran: +2/+0.",
     "Keywords": "Charge,Veteran",
-    "BBCode": "[card]Dunmer Tyro[/card]",
     "Played in": "95/13695 of  Eligible  decks (1 %)",
     "code": "sW"
   },
@@ -6744,7 +6406,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Deal 1 damage or destroy an enemy support.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dushnikh Yal Archer[/card]",
     "Played in": "2680/12757 of  Eligible  decks (21 %)",
     "code": "fl"
   },
@@ -6764,7 +6425,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Dust Eater Skirmisher takes damage from a creature, give that creature -1/-1.",
     "Keywords": "",
-    "BBCode": "[card]Dust Eater Skirmisher[/card]",
     "Played in": "85/13695 of  Eligible  decks (1 %)",
     "code": "xz"
   },
@@ -6782,7 +6442,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+5/+5",
     "Keywords": "",
-    "BBCode": "[card]Dwarven Armaments[/card]",
     "Played in": "196/30861 of  Eligible  decks (1 %)",
     "code": "fm"
   },
@@ -6802,7 +6461,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Breakthrough",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Dwarven Ballista[/card]",
     "Played in": "151/30861 of  Eligible  decks (0 %)",
     "code": "fn"
   },
@@ -6822,7 +6480,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Brekathrough. When Dwarven Centurion is dealt damage, draw a 0/3 Dwarven Spider with Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Dwarven Centurion[/card]",
     "Played in": "393/30861 of  Eligible  decks (1 %)",
     "code": "fo"
   },
@@ -6843,7 +6500,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a Power Sphere in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Dwarven Colossus[/card]",
     "Played in": "333/30861 of  Eligible  decks (1 %)",
     "code": "fp"
   },
@@ -6863,7 +6519,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give another (Neutral) creature +3/+3 and Guard.",
     "Keywords": "",
-    "BBCode": "[card]Dwarven Dynamo[/card]",
     "Played in": "621/30861 of  Eligible  decks (2 %)",
     "code": "fq"
   },
@@ -6883,7 +6538,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Shackle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Dwarven Sphere[/card]",
     "Played in": "708/30861 of  Eligible  decks (2 %)",
     "code": "fr"
   },
@@ -6903,7 +6557,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Dwarven Spider[/card]",
     "Played in": "392/30861 of  Eligible  decks (1 %)",
     "code": "fs"
   },
@@ -6921,7 +6574,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Discard the top card of your deck. Last Gasp: Draw a card.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Dwemer Puzzle Box[/card]",
     "Played in": "100/30861 of  Eligible  decks (0 %)",
     "code": "ft"
   },
@@ -6941,7 +6593,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you sacrifice a creature, Eager Torturer gains +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Eager Torturer[/card]",
     "Played in": "40/13695 of  Eligible  decks (0 %)",
     "code": "fu"
   },
@@ -6961,7 +6612,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Silence another creature, then deal 1 damage to it.",
     "Keywords": "",
-    "BBCode": "[card]Earthbone Spinner[/card]",
     "Played in": "4566/12757 of  Eligible  decks (36 %)",
     "code": "fv"
   },
@@ -6981,7 +6631,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon another creature with 5 health or more, give it +1/+1 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]East Empire Crafter[/card]",
     "Played in": "464/13644 of  Eligible  decks (3 %)",
     "code": "fw"
   },
@@ -7001,7 +6650,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Draw a card if an enemy rune has been destroyed this game.",
     "Keywords": "",
-    "BBCode": "[card]Eastmarch Crusader[/card]",
     "Played in": "3612/12907 of  Eligible  decks (28 %)",
     "code": "fx"
   },
@@ -7021,7 +6669,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. Double the amount of health you gain.",
     "Keywords": "Drain",
-    "BBCode": "[card]Ebonheart Oracle[/card]",
     "Played in": "526/12907 of  Eligible  decks (4 %)",
     "code": "fy"
   },
@@ -7039,7 +6686,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Mobilize. +1/+2. Summon: Your opponent can't target the wielder with actions until your next turn.",
     "Keywords": "Mobilize",
-    "BBCode": "[card]Ebonthread Cloak[/card]",
     "Played in": "166/12757 of  Eligible  decks (1 %)",
     "code": "sK"
   },
@@ -7059,7 +6705,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you draw a creature, give it a random Keyword.",
     "Keywords": "",
-    "BBCode": "[card]Echo of Akatosh[/card]",
     "Played in": "260/14266 of  Eligible  decks (2 %)",
     "code": "fz"
   },
@@ -7080,7 +6725,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon and Last Gasp: Draw a card and reduce its cost by 2.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Eclipse Baroness[/card]",
     "Played in": "2997/13695 of  Eligible  decks (22 %)",
     "code": "fA"
   },
@@ -7099,7 +6743,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Destroy an enemy creature or support card.",
     "Keywords": "",
-    "BBCode": "[card]Edict of Azura[/card]",
     "Played in": "3283/4355 of  Eligible  decks (75 %)",
     "code": "fB"
   },
@@ -7119,7 +6762,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "After Elder Centaur attacks, give it Cover.",
     "Keywords": "",
-    "BBCode": "[card]Elder Centaur[/card]",
     "Played in": "38/13695 of  Eligible  decks (0 %)",
     "code": "fC"
   },
@@ -7139,7 +6781,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Put a random Animal into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Eldergleam Matron[/card]",
     "Played in": "809/13695 of  Eligible  decks (6 %)",
     "code": "fD"
   },
@@ -7157,7 +6798,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a creature +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Elixir of Conflict[/card]",
     "Played in": "123/30861 of  Eligible  decks (0 %)",
     "code": "fE"
   },
@@ -7175,7 +6815,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a creature Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Elixir of Deflection[/card]",
     "Played in": "357/14266 of  Eligible  decks (3 %)",
     "code": "fF"
   },
@@ -7193,7 +6832,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a creature Cover.",
     "Keywords": "",
-    "BBCode": "[card]Elixir of Light Feet[/card]",
     "Played in": "99/13695 of  Eligible  decks (1 %)",
     "code": "fG"
   },
@@ -7211,7 +6849,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 3. Activate: Give a creature a random Keyword.",
     "Keywords": "",
-    "BBCode": "[card]Elixir of Potency[/card]",
     "Played in": "13/14266 of  Eligible  decks (0 %)",
     "code": "xV"
   },
@@ -7229,7 +6866,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a creature +0/+1.",
     "Keywords": "",
-    "BBCode": "[card]Elixir of Vigor[/card]",
     "Played in": "23/13644 of  Eligible  decks (0 %)",
     "code": "fI"
   },
@@ -7247,7 +6883,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Uses: 3. Activate: Gain 2 health.",
     "Keywords": "",
-    "BBCode": "[card]Elixir of Vitality[/card]",
     "Played in": "629/12907 of  Eligible  decks (5 %)",
     "code": "fJ"
   },
@@ -7265,7 +6900,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a friendly creature Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Elixir of the Defender[/card]",
     "Played in": "145/12907 of  Eligible  decks (1 %)",
     "code": "fH"
   },
@@ -7285,7 +6919,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Double Elsweyr Lookout's power and health.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Elsweyr Lookout[/card]",
     "Played in": "169/12907 of  Eligible  decks (1 %)",
     "code": "fK"
   },
@@ -7305,7 +6938,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Draw a card. Last Gasp: Shuffle a 0-cost Elusive Schemer into your deck.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Elusive Schemer[/card]",
     "Played in": "3441/14266 of  Eligible  decks (24 %)",
     "code": "fL"
   },
@@ -7323,7 +6955,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+0/+1. Summon: Draw a card. The wielder has Cover until it attacks.",
     "Keywords": "",
-    "BBCode": "[card]Embassy Disguise[/card]",
     "Played in": "376/13695 of  Eligible  decks (3 %)",
     "code": "fM"
   },
@@ -7343,7 +6974,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard, Ward",
     "Keywords": "Prophecy,Guard,Ward",
-    "BBCode": "[card]Embassy Guard[/card]",
     "Played in": "320/14266 of  Eligible  decks (2 %)",
     "code": "fN"
   },
@@ -7363,7 +6993,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Your items have Mobilize. When a friendly Recruit equips an item, Emeric's Warlord gains +1/+0.",
     "Keywords": "Mobilize",
-    "BBCode": "[card]Emeric's Warlord[/card]",
     "Played in": "29/14266 of  Eligible  decks (0 %)",
     "code": "tz"
   },
@@ -7385,7 +7014,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the end of your turn, Emeric gains a Ward. Summon: Battle an enemy creature.",
     "Keywords": "Ward",
-    "BBCode": "[card]Emeric, Covenant King[/card]",
     "Played in": "159/303 of  Eligible  decks (52 %)",
     "code": "sZ"
   },
@@ -7405,7 +7033,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the end of your turn, give the top creature of your deck +1/+1 and Guard.",
     "Keywords": "",
-    "BBCode": "[card]Emperor Titus Mede II[/card]",
     "Played in": "300/13644 of  Eligible  decks (2 %)",
     "code": "fO"
   },
@@ -7425,7 +7052,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give a creature in your hand power and health equal to Emperor's Attendant's power.",
     "Keywords": "",
-    "BBCode": "[card]Emperor's Attendant[/card]",
     "Played in": "88/13644 of  Eligible  decks (1 %)",
     "code": "yF"
   },
@@ -7446,7 +7072,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Slay: Gain 3 health.",
     "Keywords": "Guard,Slay",
-    "BBCode": "[card]Emperor's Blade[/card]",
     "Played in": "1284/4355 of  Eligible  decks (29 %)",
     "code": "fP"
   },
@@ -7466,7 +7091,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have another creature in each lane, give a creature -2/-2.",
     "Keywords": "",
-    "BBCode": "[card]Empire Dreadmage[/card]",
     "Played in": "35/13695 of  Eligible  decks (0 %)",
     "code": "tr"
   },
@@ -7486,7 +7110,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a ...\n[agility] card in play, give other friendly creatures +1/+0.\n[willpower] card in play, give other friendly creatures +0/+1.",
     "Keywords": "",
-    "BBCode": "[card]Empire Oathman[/card]",
     "Played in": "103/13644 of  Eligible  decks (1 %)",
     "code": "sQ"
   },
@@ -7508,7 +7131,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Pilfer: Summon a 1/1 Recruit in the other lane.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Empire Recruiter[/card]",
     "Played in": "167/356 of  Eligible  decks (47 %)",
     "code": "ts"
   },
@@ -7528,7 +7150,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Exalt 4: Equip a +5/+0 Heirloom Greatsword to Enamor's Keeper.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Enamor's Keeper[/card]",
     "Played in": "207/14266 of  Eligible  decks (1 %)",
     "code": "fQ"
   },
@@ -7546,7 +7167,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+0/+3. Summon: Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Enchanted Plate[/card]",
     "Played in": "1251/13644 of  Eligible  decks (9 %)",
     "code": "fR"
   },
@@ -7566,7 +7186,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Mobilize. +1/+1. Summon: Equip the wielder with all copies of Enchanted Ring from your discard pile. Then if the wielder has three or more items, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Enchanted Ring[/card]",
     "Played in": "5/303 of  Eligible  decks (2 %)",
     "code": "Bc"
   },
@@ -7586,7 +7205,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Shackle Encumbered Explorer after he attacks.",
     "Keywords": "",
-    "BBCode": "[card]Encumbered Explorer[/card]",
     "Played in": "112/13644 of  Eligible  decks (1 %)",
     "code": "fS"
   },
@@ -7606,7 +7224,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give friendly Recruits +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Enlistment Officer[/card]",
     "Played in": "45/30861 of  Eligible  decks (0 %)",
     "code": "tc"
   },
@@ -7626,7 +7243,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Consume a creature to deal 2 damage to each player.",
     "Keywords": "Consume",
-    "BBCode": "[card]Enraged Dragonknight[/card]",
     "Played in": "145/12757 of  Eligible  decks (1 %)",
     "code": "wT"
   },
@@ -7646,7 +7262,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Enraged Mudcrab[/card]",
     "Played in": "186/30861 of  Eligible  decks (1 %)",
     "code": "fT"
   },
@@ -7667,7 +7282,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Steal an enemy creature or support. Last Gasp: Your opponent steals it back.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Euraxia Tharn[/card]",
     "Played in": "123/4355 of  Eligible  decks (3 %)",
     "code": "wb"
   },
@@ -7687,7 +7301,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Consume a creature to gain +2/+0.",
     "Keywords": "Consume",
-    "BBCode": "[card]Euraxian Berserker[/card]",
     "Played in": "62/12757 of  Eligible  decks (0 %)",
     "code": "we"
   },
@@ -7707,7 +7320,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard, Ward",
     "Keywords": "Guard,Ward",
-    "BBCode": "[card]Evermore Steward[/card]",
     "Played in": "691/14266 of  Eligible  decks (5 %)",
     "code": "fU"
   },
@@ -7726,7 +7338,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Draw an item or support from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Excavate[/card]",
     "Played in": "317/14271 of  Eligible  decks (2 %)",
     "code": "fV"
   },
@@ -7744,7 +7355,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy a creature with 2 power or less.",
     "Keywords": "",
-    "BBCode": "[card]Execute[/card]",
     "Played in": "4663/12907 of  Eligible  decks (36 %)",
     "code": "fW"
   },
@@ -7764,7 +7374,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Choose creature, item, action or support. Put a random card of that type into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Explore[/card]",
     "Played in": "14/12759 of  Eligible  decks (0 %)",
     "code": "Bf"
   },
@@ -7782,7 +7391,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Heal a creature and give it immune to Shackle this turn. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Expunge[/card]",
     "Played in": "76/13651 of  Eligible  decks (1 %)",
     "code": "wD"
   },
@@ -7801,7 +7409,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Build a custom creature and put it into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Fabricate[/card]",
     "Played in": "385/30872 of  Eligible  decks (1 %)",
     "code": "fY"
   },
@@ -7821,7 +7428,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw cards equal to Faded Wraith's power.",
     "Keywords": "",
-    "BBCode": "[card]Faded Wraith[/card]",
     "Played in": "129/13644 of  Eligible  decks (1 %)",
     "code": "yz"
   },
@@ -7842,7 +7448,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Destroy all wounded enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Falinesti Reaver[/card]",
     "Played in": "239/4477 of  Eligible  decks (5 %)",
     "code": "fZ"
   },
@@ -7863,7 +7468,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Slay: Draw a creature from your discard pile.",
     "Keywords": "Slay",
-    "BBCode": "[card]Falkreath Defiler[/card]",
     "Played in": "1302/13644 of  Eligible  decks (10 %)",
     "code": "ga"
   },
@@ -7883,7 +7487,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Fallen Dragon deals 5 damage to itself.",
     "Keywords": "",
-    "BBCode": "[card]Fallen Dragon[/card]",
     "Played in": "45/13644 of  Eligible  decks (0 %)",
     "code": "wK"
   },
@@ -7903,7 +7506,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Falling Wizard deals 5 damage to himself. Last Gasp: Draw an Experimental Scroll.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Falling Wizard[/card]",
     "Played in": "85/14266 of  Eligible  decks (1 %)",
     "code": "gb"
   },
@@ -7923,7 +7525,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Your opponent can't gain health.",
     "Keywords": "",
-    "BBCode": "[card]False Incarnate[/card]",
     "Played in": "171/12757 of  Eligible  decks (1 %)",
     "code": "gc"
   },
@@ -7943,7 +7544,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Reveal the top card of the opponent's deck.",
     "Keywords": "",
-    "BBCode": "[card]Farsight Nereid[/card]",
     "Played in": "36/14266 of  Eligible  decks (0 %)",
     "code": "gd"
   },
@@ -7963,7 +7563,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Draw a card. If it has Prophecy you may play it for free.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Fate Weaver[/card]",
     "Played in": "1256/14266 of  Eligible  decks (9 %)",
     "Evolves from:": "Fate's Witness",
     "code": "ge"
@@ -7982,7 +7581,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Unsummon a creature and reduce its cost by 3.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Fear Totem[/card]",
     "Played in": "133/12757 of  Eligible  decks (1 %)",
     "code": "ws"
   },
@@ -8002,7 +7600,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough. When Fearless Northlander takes damage, he gains +2/+0.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Fearless Northlander[/card]",
     "Played in": "291/12757 of  Eligible  decks (2 %)",
     "code": "gg"
   },
@@ -8022,7 +7619,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: You gain 1 health for each enemy creature.",
     "Keywords": "Guard",
-    "BBCode": "[card]Feasting Hunger[/card]",
     "Played in": "398/12907 of  Eligible  decks (3 %)",
     "code": "gh"
   },
@@ -8042,7 +7638,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: +2/+2 if a creature died this turn.",
     "Keywords": "",
-    "BBCode": "[card]Feasting Vulture[/card]",
     "Played in": "184/13695 of  Eligible  decks (1 %)",
     "code": "gi"
   },
@@ -8060,7 +7655,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Destroy a creature and give its Kewords to a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Feed[/card]",
     "Played in": "13/12916 of  Eligible  decks (0 %)",
     "code": "Bi"
   },
@@ -8079,7 +7673,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy a creature with 4 power or more.",
     "Keywords": "",
-    "BBCode": "[card]Fell the Mighty[/card]",
     "Played in": "1713/12757 of  Eligible  decks (13 %)",
     "code": "gj"
   },
@@ -8097,7 +7690,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Felldew/Elytra Noble[/card]",
     "Played in": "118/13695 of  Eligible  decks (1 %)",
     "code": "gk"
   },
@@ -8117,7 +7709,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Ferocious Dreugh[/card]",
     "Played in": "72/30861 of  Eligible  decks (0 %)",
     "code": "gl"
   },
@@ -8137,7 +7728,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Fetcherfly Golem takes damage and survives, summon a 2/2 Fetcherfly Swarm.",
     "Keywords": "",
-    "BBCode": "[card]Fetcherfly Golem[/card]",
     "Played in": "149/12757 of  Eligible  decks (1 %)",
     "code": "gm"
   },
@@ -8157,7 +7747,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Fharun Defender[/card]",
     "Played in": "921/13644 of  Eligible  decks (7 %)",
     "code": "gn"
   },
@@ -8177,7 +7766,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Fiery Imp attacks, deal 2 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Fiery Imp[/card]",
     "Played in": "1144/12757 of  Eligible  decks (9 %)",
     "code": "go"
   },
@@ -8197,7 +7785,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When you summon another creature, give it +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Fifth Legion Trainer[/card]",
     "Played in": "3735/12907 of  Eligible  decks (29 %)",
     "code": "gp"
   },
@@ -8217,7 +7804,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Expertise: Deal 2 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Fighters Guild Berserker[/card]",
     "Played in": "96/12757 of  Eligible  decks (1 %)",
     "code": "tn"
   },
@@ -8237,7 +7823,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Expertise: Double Fighters Guild Elite's power and health.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Fighters Guild Elite[/card]",
     "Played in": "45/12757 of  Eligible  decks (0 %)",
     "code": "tf"
   },
@@ -8255,7 +7840,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ongoing. When a friendly creature takes damage on your turn, give it +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Fighters Guild Hall[/card]",
     "Played in": "199/12757 of  Eligible  decks (2 %)",
     "code": "gq"
   },
@@ -8275,7 +7859,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard, Lethal",
     "Keywords": "Guard,Lethal,Prophecy",
-    "BBCode": "[card]Fighters Guild Recruit[/card]",
     "Played in": "3312/13695 of  Eligible  decks (24 %)",
     "Evolves from:": "Guild Recruit",
     "code": "gs"
@@ -8296,7 +7879,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: A friendly creature with 5 or more power Battles an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Fighters Guild Steward[/card]",
     "Played in": "131/12757 of  Eligible  decks (1 %)",
     "code": "gt"
   },
@@ -8314,7 +7896,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Cost 1 less for each action you've played this turn. Deal 1 damage to a creature. Deal 2 damage to a creature. Deal 3 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Fingers of the Mountain[/card]",
     "Played in": "41/14266 of  Eligible  decks (0 %)",
     "code": "xS"
   },
@@ -8332,7 +7913,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy a wounded enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Finish Off[/card]",
     "Played in": "2218/13695 of  Eligible  decks (16 %)",
     "code": "gu"
   },
@@ -8350,7 +7930,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Level 1: Deal 2 damage to a creature.\nLevel 2: Deal 4 damage to a creature.\nLevel 3: Deal 10 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Fire Breath[/card]",
     "Played in": "348/14266 of  Eligible  decks (2 %)",
     "code": "gv"
   },
@@ -8368,7 +7947,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Deal 2 damage to all creatures in one lane.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Fire Storm[/card]",
     "Played in": "992/14266 of  Eligible  decks (7 %)",
     "code": "gw"
   },
@@ -8386,7 +7964,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Deal 1 damage to all enemies.",
     "Keywords": "",
-    "BBCode": "[card]Fireball[/card]",
     "Played in": "222/12759 of  Eligible  decks (2 %)",
     "code": "gx"
   },
@@ -8404,7 +7981,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 2 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Firebolt[/card]",
     "Played in": "6672/14271 of  Eligible  decks (47 %)",
     "code": "gy"
   },
@@ -8425,7 +8001,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Deal 1 damage to all creatures in this lane.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Firepot Spider[/card]",
     "Played in": "100/12757 of  Eligible  decks (1 %)",
     "code": "gz"
   },
@@ -8445,7 +8020,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When your opponent summons a creature, Flamespear Dragon aims at it. At the start of your turn, Flamespear Dragon deals 1 damage to the creature it's aiming at.",
     "Keywords": "",
-    "BBCode": "[card]Flamespear Dragon[/card]",
     "Played in": "130/12757 of  Eligible  decks (1 %)",
     "code": "vS"
   },
@@ -8463,7 +8037,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Deal 1 damage to everything.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Flaming Breath[/card]",
     "Played in": "19/12757 of  Eligible  decks (0 %)",
     "code": "yr"
   },
@@ -8481,7 +8054,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Betray. Summon a random creature from your deck that costs 3 or less to a random lane. Unsummon it at the end of your turn.",
     "Keywords": "Betray",
-    "BBCode": "[card]Fleeting Apparition[/card]",
     "Played in": "259/13695 of  Eligible  decks (2 %)",
     "code": "gA"
   },
@@ -8501,7 +8073,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: +1/+1 for each creature in your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Flesh Atronach[/card]",
     "Played in": "379/13644 of  Eligible  decks (3 %)",
     "code": "gB"
   },
@@ -8520,7 +8091,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 2. Activate: Transform each card in your hand into a random card.",
     "Keywords": "",
-    "BBCode": "[card]Flesh Sculpture[/card]",
     "Played in": "130/30861 of  Eligible  decks (0 %)",
     "code": "gC"
   },
@@ -8538,7 +8108,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Invade, then summon random Daedra with total cost 10.",
     "Keywords": "",
-    "BBCode": "[card]Forces of Destruction[/card]",
     "Played in": "60/14266 of  Eligible  decks (0 %)",
     "code": "yI"
   },
@@ -8560,7 +8129,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Veteran: Draw a Forerunner of the Pact from your deck.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Forerunner of the Pact[/card]",
     "Played in": "108/338 of  Eligible  decks (32 %)",
     "code": "sX"
   },
@@ -8578,7 +8146,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "-2/+0. Slay: Sacrifice Fork of Horripilation and draw three cards.",
     "Keywords": "Slay",
-    "BBCode": "[card]Fork of Horripilation[/card]",
     "Played in": "488/30861 of  Eligible  decks (2 %)",
     "code": "gD"
   },
@@ -8596,7 +8163,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 1 damage to a creature and your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Forked Bolt[/card]",
     "Played in": "187/14266 of  Eligible  decks (1 %)",
     "code": "tg"
   },
@@ -8616,7 +8182,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Summon: Choose a friendly creature. Friendly creatures of the chosen type have +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Forsaken Champion[/card]",
     "Played in": "152/30861 of  Eligible  decks (0 %)",
     "code": "gE"
   },
@@ -8636,7 +8201,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Unsummon another friendly creature to give Forsworn Guide +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Forsworn Guide[/card]",
     "Played in": "256/30861 of  Eligible  decks (1 %)",
     "code": "gF"
   },
@@ -8656,7 +8220,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Draw a random item from your deck with cost equal to Forsworn Looter's power.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Forsworn Looter[/card]",
     "Played in": "140/30861 of  Eligible  decks (0 %)",
     "code": "gG"
   },
@@ -8676,7 +8239,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: You may discard a card to summon a 2/2 Colovian Trooper with Gaurd in the other lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Fortress Guard[/card]",
     "Played in": "72/12907 of  Eligible  decks (1 %)",
     "code": "gH"
   },
@@ -8696,7 +8258,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Fortress Watchman[/card]",
     "Played in": "284/12757 of  Eligible  decks (2 %)",
     "code": "gI"
   },
@@ -8714,7 +8275,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. Your supports cost 1 less. When you have 4 supports, sacrifice Forward Camp and summon an Eastmarch Crusader in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Forward Camp[/card]",
     "Played in": "189/12907 of  Eligible  decks (1 %)",
     "code": "th"
   },
@@ -8733,8 +8293,7 @@ module.exports = { cards: [
     "Soul Summon": "400",
     "Soul Trap": "100",
     "Text": "Wax: Deal 1 damage. Wane: +1/+1. After you play another card Waxed, deal 1 damage. After you another card Waned, +1/+1.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Frazzled Alfiq[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "69/14266 of  Eligible  decks (0 %)",
     "code": "wF"
   },
@@ -8754,7 +8313,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Frenzied Alit takes damage, it gains +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Frenzied Alit[/card]",
     "Played in": "53/12757 of  Eligible  decks (0 %)",
     "code": "iT"
   },
@@ -8774,7 +8332,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature +2/+1.",
     "Keywords": "",
-    "BBCode": "[card]Frenzied Witchman[/card]",
     "Played in": "299/30861 of  Eligible  decks (1 %)",
     "code": "gJ"
   },
@@ -8792,7 +8349,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Draw three cards.",
     "Keywords": "",
-    "BBCode": "[card]Fresh Start[/card]",
     "Played in": "86/13695 of  Eligible  decks (1 %)",
     "code": "yx"
   },
@@ -8812,7 +8368,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Regenerate. When a creature heals, you gain that much health.",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Frost Giant[/card]",
     "Played in": "146/13644 of  Eligible  decks (1 %)",
     "code": "gK"
   },
@@ -8832,7 +8387,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Regenerate. When Frost Troll takes damage, it gains that much power.",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Frost Troll[/card]",
     "Played in": "174/13644 of  Eligible  decks (1 %)",
     "code": "gL"
   },
@@ -8852,7 +8406,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy, Lethal",
     "Keywords": "Lethal,Prophecy",
-    "BBCode": "[card]Frostbite Spider[/card]",
     "Played in": "299/13644 of  Eligible  decks (2 %)",
     "code": "gM"
   },
@@ -8873,7 +8426,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Deal 4 damage to an enemy creature and 1 damage to all other enemy creatures.",
     "Keywords": "",
-    "BBCode": "[card]Frostscale Dragon[/card]",
     "Played in": "165/3939 of  Eligible  decks (4 %)",
     "code": "gN"
   },
@@ -8894,7 +8446,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose a creature or item in your hand. Shuffle three copies of it with +3/+3 into your deck.",
     "Keywords": "",
-    "BBCode": "[card]Galyn the Shelterer[/card]",
     "Played in": "4033/13644 of  Eligible  decks (30 %)",
     "code": "gO"
   },
@@ -8914,7 +8465,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "When you equip an item to another creature, equip a copy of it to Gardener of Swords.",
     "Keywords": "",
-    "BBCode": "[card]Gardener of Swords[/card]",
     "Played in": "771/14266 of  Eligible  decks (5 %)",
     "code": "gP"
   },
@@ -8932,7 +8482,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+1. At the end of your turn, if Gardener's Harvest is in your hand, it changes into a random item and keeps this ability.",
     "Keywords": "",
-    "BBCode": "[card]Gardener's Harvest[/card]",
     "Played in": "80/14266 of  Eligible  decks (1 %)",
     "code": "gQ"
   },
@@ -8953,7 +8502,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough. Players can't have more than 7 magicka.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Garnag, Dark Adherent[/card]",
     "Played in": "2396/12757 of  Eligible  decks (19 %)",
     "code": "gR"
   },
@@ -8971,7 +8519,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. Summon: Transform your deck into random cards. When you draw a creature or item, give it +1/+1. When you draw an action or support, reduce its cost by 1.",
     "Keywords": "",
-    "BBCode": "[card]Gates of Madness[/card]",
     "Played in": "63/30861 of  Eligible  decks (0 %)",
     "code": "gS"
   },
@@ -8989,7 +8536,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+2/+0. Summon: The wielder is immune to damage this turn.",
     "Keywords": "",
-    "BBCode": "[card]Gavel of the Ordinator[/card]",
     "Played in": "754/12907 of  Eligible  decks (6 %)",
     "code": "gT"
   },
@@ -9010,7 +8556,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Summon all Gearwork Spiders in your discard pile.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Gearwork Spider[/card]",
     "Played in": "575/30861 of  Eligible  decks (2 %)",
     "code": "gU"
   },
@@ -9031,7 +8576,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a 2/2 Colovian Trooper with Guard in each lane. When a friendly creature is destroyed, General Tullius gains +1/+1.",
     "Keywords": "Guard",
-    "BBCode": "[card]General Tullius[/card]",
     "Played in": "730/4355 of  Eligible  decks (17 %)",
     "code": "gV"
   },
@@ -9051,7 +8595,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a random creature from your deck with cost equal to your current magicka.",
     "Keywords": "",
-    "BBCode": "[card]Genius Pathmage[/card]",
     "Played in": "463/14266 of  Eligible  decks (3 %)",
     "code": "gW"
   },
@@ -9071,7 +8614,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Your opponent chooses a card in their hand and gives it to you.",
     "Keywords": "",
-    "BBCode": "[card]Gentleman Jim Stacey[/card]",
     "Played in": "291/13695 of  Eligible  decks (2 %)",
     "code": "gX"
   },
@@ -9091,7 +8633,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ghost Fanatic costs 1 less for each creature that died this turn.",
     "Keywords": "",
-    "BBCode": "[card]Ghost Fanatic[/card]",
     "Played in": "44/30861 of  Eligible  decks (0 %)",
     "code": "gY"
   },
@@ -9111,7 +8652,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon a Dragon, Ghost Sea Lookout gains a Ward.",
     "Keywords": "",
-    "BBCode": "[card]Ghost Sea Lookout[/card]",
     "Played in": "147/14266 of  Eligible  decks (1 %)",
     "code": "gZ"
   },
@@ -9131,7 +8671,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Exalt 3: Deal 2 damage to a creature.",
     "Keywords": "Guard,Exalt",
-    "BBCode": "[card]Ghostgate Defender[/card]",
     "Played in": "377/14266 of  Eligible  decks (3 %)",
     "code": "ha"
   },
@@ -9151,7 +8690,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge, Drain",
     "Keywords": "Charge,Drain",
-    "BBCode": "[card]Giant Bat[/card]",
     "Played in": "2166/13695 of  Eligible  decks (16 %)",
     "code": "hb"
   },
@@ -9171,7 +8709,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Fill this lane with 1/1 Confused Villagers.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Giant Chicken[/card]",
     "Played in": "28/30861 of  Eligible  decks (0 %)",
     "code": "hc"
   },
@@ -9191,7 +8728,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give friendly Animals +2/+0 at the start of your turn.",
     "Keywords": "",
-    "BBCode": "[card]Giant Slaughterfish[/card]",
     "Played in": "25/30861 of  Eligible  decks (0 %)",
     "code": "xY"
   },
@@ -9211,7 +8747,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Shackle all enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Giant Snake[/card]",
     "Played in": "572/13695 of  Eligible  decks (4 %)",
     "code": "hd"
   },
@@ -9245,7 +8780,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Shackle enemy creatures damaged by friendly Dragons. Summon: Deal 2 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Glacial Dragon[/card]",
     "Played in": "75/14266 of  Eligible  decks (1 %)",
     "code": "wx"
   },
@@ -9263,7 +8797,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of each player's turn, deal 2 damage to that player.",
     "Keywords": "",
-    "BBCode": "[card]Gladiator Arena[/card]",
     "Played in": "152/12757 of  Eligible  decks (1 %)",
     "code": "he"
   },
@@ -9281,7 +8814,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+1/+1. Plot: Reduce the cost of a random card in your hand by 1.",
     "Keywords": "Plot",
-    "BBCode": "[card]Glass Greaves[/card]",
     "Played in": "142/13695 of  Eligible  decks (1 %)",
     "code": "hf"
   },
@@ -9299,7 +8831,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+0/+4. Summon: You gain 4 health.",
     "Keywords": "",
-    "BBCode": "[card]Glass Helm of Remedy[/card]",
     "Played in": "344/30861 of  Eligible  decks (1 %)",
     "code": "hg"
   },
@@ -9319,7 +8850,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ward",
     "Keywords": "Ward",
-    "BBCode": "[card]Glenumbra Sorceress[/card]",
     "Played in": "109/14266 of  Eligible  decks (1 %)",
     "code": "hh"
   },
@@ -9339,7 +8869,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough. Summon: +1/+1 for each other friendly (Endurance) creature.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Gloom Wraith[/card]",
     "Played in": "154/13644 of  Eligible  decks (1 %)",
     "code": "hi"
   },
@@ -9359,7 +8888,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Give a creature Cover.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Gloomlurker[/card]",
     "Played in": "431/13703 of  Eligible  decks (3 %)",
     "code": "hj"
   },
@@ -9379,7 +8907,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When an action targets Gnarl Rootbender, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Gnarl Rootbender[/card]",
     "Played in": "200/14266 of  Eligible  decks (1 %)",
     "code": "hk"
   },
@@ -9399,7 +8926,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Pilfer: Draw a random card from your deck that costs 0.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Goblin Skulk[/card]",
     "Played in": "2916/13695 of  Eligible  decks (21 %)",
     "code": "hl"
   },
@@ -9417,7 +8943,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Activate: Deal 2 damage to a creature, then increase the damage Goldbrand deals by 2.",
     "Keywords": "",
-    "BBCode": "[card]Goldbrand[/card]",
     "Played in": "995/30872 of  Eligible  decks (3 %)",
     "code": "hm"
   },
@@ -9437,7 +8962,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Drain",
     "Keywords": "Prophecy,Drain",
-    "BBCode": "[card]Golden Initiate[/card]",
     "Played in": "1203/12907 of  Eligible  decks (9 %)",
     "code": "hn"
   },
@@ -9457,7 +8981,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: If you have more health than your opponent, summon a copy of Golden Saint in the other lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Golden Saint[/card]",
     "Played in": "1682/12907 of  Eligible  decks (13 %)",
     "code": "ho"
   },
@@ -9478,7 +9001,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the start of your turn, summon a random creature from your deck to a random lane.",
     "Keywords": "",
-    "BBCode": "[card]Gortwog gro-Nagorm[/card]",
     "Played in": "1047/3890 of  Eligible  decks (27 %)",
     "code": "hq"
   },
@@ -9497,8 +9019,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Wax: Draw a card. Wane: +1/+1 and Guard.",
-    "Keywords": "Wax,Wane,Guard",
-    "BBCode": "[card]Goutfang Adept[/card]",
+    "Keywords": "Wax/Wane,Guard",
     "Played in": "77/14266 of  Eligible  decks (1 %)",
     "code": "wq"
   },
@@ -9518,7 +9039,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy. Summon: Deal 1 damage to all enemy creatures in this lane.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Grahtwood Ambusher[/card]",
     "Played in": "778/12757 of  Eligible  decks (6 %)",
     "code": "hr"
   },
@@ -9537,7 +9057,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move all friendly creatures.",
     "Keywords": "",
-    "BBCode": "[card]Grand Ball[/card]",
     "Played in": "273/13695 of  Eligible  decks (2 %)",
     "code": "hs"
   },
@@ -9557,7 +9076,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Exalt 4: +3/+3. Summon: Destroy a creature with less power than Grand Inquisitor",
     "Keywords": "Exalt",
-    "BBCode": "[card]Grand Inquisitor[/card]",
     "Played in": "246/12907 of  Eligible  decks (2 %)",
     "code": "ht"
   },
@@ -9576,7 +9094,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+3/+2. Summon: Move an enemy creature into this lane. It loses Cover.",
     "Keywords": "",
-    "BBCode": "[card]Grappling Hook[/card]",
     "Played in": "197/12757 of  Eligible  decks (2 %)",
     "code": "hu"
   },
@@ -9594,7 +9111,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Shackle an enemy creature. Summon a 1/1 Skeleton for each enemy creature in its lane.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Grave Grasp[/card]",
     "Played in": "47/14266 of  Eligible  decks (0 %)",
     "code": "wr"
   },
@@ -9615,7 +9131,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, summon the highest cost creature from your discard pile and give Charge. At the end of the turn, put it on the bottom of your deck.",
     "Keywords": "Charge",
-    "BBCode": "[card]Gravesinger[/card]",
     "Played in": "541/13651 of  Eligible  decks (4 %)",
     "code": "hv"
   },
@@ -9635,7 +9150,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Draw a card for each Gray Viper Brigand in your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Gray Viper Brigand[/card]",
     "Played in": "278/12907 of  Eligible  decks (2 %)",
     "code": "uA"
   },
@@ -9655,7 +9169,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Graystone Ravager[/card]",
     "Played in": "1588/12757 of  Eligible  decks (12 %)",
     "code": "hw"
   },
@@ -9675,7 +9188,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Veteran: +1/+1.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Great Moot Squire[/card]",
     "Played in": "50/13644 of  Eligible  decks (0 %)",
     "code": "un"
   },
@@ -9695,7 +9207,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Activate: Invade. Last Gasp: Draw a random Daedra from your deck and give it +2/+2.",
     "Keywords": "Invade,Last Gasp",
-    "BBCode": "[card]Great Sigil Stone[/card]",
     "Played in": "68/30861 of  Eligible  decks (0 %)",
     "code": "xG"
   },
@@ -9715,7 +9226,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. If Greatwood Elder is in your hand at the start of your first turn, gain 1 magicka this turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]Greatwood Elder[/card]",
     "Played in": "25/13695 of  Eligible  decks (0 %)",
     "code": "hx"
   },
@@ -9735,7 +9245,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy, Guard. At the end of your opponent's turn, if they have a full lane and Green Pact Ambusher is in your hand, summon her to that lane.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Green Pact Ambusher[/card]",
     "Played in": "470/12757 of  Eligible  decks (4 %)",
     "code": "hy"
   },
@@ -9755,7 +9264,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: +2/+2 if there is a wounded enemy creature in this lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Green Pact Stalker[/card]",
     "Played in": "318/13695 of  Eligible  decks (2 %)",
     "code": "hz"
   },
@@ -9775,7 +9283,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you gain health, Green-Touched Spriggan gains that much power.",
     "Keywords": "",
-    "BBCode": "[card]Green-Touched Spriggan[/card]",
     "Played in": "153/13695 of  Eligible  decks (1 %)",
     "code": "hA"
   },
@@ -9795,7 +9302,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge",
     "Keywords": "Charge",
-    "BBCode": "[card]Greenheart Knight[/card]",
     "Played in": "94/13695 of  Eligible  decks (1 %)",
     "code": "hB"
   },
@@ -9815,7 +9321,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a random Shout from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Greybeard Mentor[/card]",
     "Played in": "1288/30861 of  Eligible  decks (4 %)",
     "code": "hC"
   },
@@ -9835,7 +9340,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When a creature in this lane is destroyed, Grim Champion gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Grim Champion[/card]",
     "Played in": "185/13644 of  Eligible  decks (1 %)",
     "code": "hD"
   },
@@ -9855,7 +9359,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Beast Form: +1/+1 and Drain.",
     "Keywords": "Drain",
-    "BBCode": "[card]Grim Shield-Brother[/card]",
     "Played in": "466/13644 of  Eligible  decks (3 %)",
     "code": "hE"
   },
@@ -9875,7 +9378,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Transform an enemy creature with 2 power or less into a Sweet Roll.",
     "Keywords": "",
-    "BBCode": "[card]Grisly Gourmet[/card]",
     "Played in": "1347/12907 of  Eligible  decks (10 %)",
     "code": "hF"
   },
@@ -9896,7 +9398,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When Gristlehide Dreugh takes damage and survives, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Gristlehide Dreugh[/card]",
     "Played in": "239/30861 of  Eligible  decks (1 %)",
     "code": "hH"
   },
@@ -9916,7 +9417,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Your opponent discards the highest cost action in their hand.",
     "Keywords": "Guard",
-    "BBCode": "[card]Grummite Magus[/card]",
     "Played in": "195/12757 of  Eligible  decks (2 %)",
     "code": "hI"
   },
@@ -9936,7 +9436,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +1/+1 and Guard if you have an Animal.",
     "Keywords": "Guard",
-    "BBCode": "[card]Guar Stablemaster[/card]",
     "Played in": "78/13695 of  Eligible  decks (1 %)",
     "code": "hJ"
   },
@@ -9958,7 +9457,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy, Guard. Summon: Draw a card.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Guildsworn Apprentice[/card]",
     "Played in": "392/407 of  Eligible  decks (96 %)",
     "code": "ti"
   },
@@ -9978,7 +9476,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Expertise: +2/+2 and Battle an enemy creature in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Guildsworn Bloodluster[/card]",
     "Played in": "50/12757 of  Eligible  decks (0 %)",
     "code": "te"
   },
@@ -9998,7 +9495,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Expertise: Give friendly creatures +1/+1.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Guildsworn Cavalier[/card]",
     "Played in": "116/12907 of  Eligible  decks (1 %)",
     "code": "tj"
   },
@@ -10018,7 +9514,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Expertise: You may trade Guildsworn Honeytongue for an enemy creature.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Guildsworn Honeytongue[/card]",
     "Played in": "14/12907 of  Eligible  decks (0 %)",
     "code": "up"
   },
@@ -10038,7 +9533,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Expertise: Deal 1 damage to all creatures in this lane.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Guildsworn Incendiary[/card]",
     "Played in": "48/12757 of  Eligible  decks (0 %)",
     "code": "tR"
   },
@@ -10058,7 +9552,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a...\n[strength] card in play, put an Improvised Weapon into your hand.\n[intelligence] card in play, put a Forked Bolt into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Guildsworn Oathman[/card]",
     "Played in": "128/12907 of  Eligible  decks (1 %)",
     "code": "tl"
   },
@@ -10078,7 +9571,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Expertise: You gain 2 health.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Guildsworn Revitalizer[/card]",
     "Played in": "305/12907 of  Eligible  decks (2 %)",
     "code": "tm"
   },
@@ -10098,7 +9590,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Expertise: +1/+1.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Guildsworn Wayfarer[/card]",
     "Played in": "117/14266 of  Eligible  decks (1 %)",
     "code": "tk"
   },
@@ -10118,7 +9609,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When a friendly creature destroys an enemy rune, equip it with a random item.",
     "Keywords": "",
-    "BBCode": "[card]Haafingar Marauder[/card]",
     "Played in": "1049/12907 of  Eligible  decks (8 %)",
     "code": "hL"
   },
@@ -10136,7 +9626,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Regenerate, +1/+3",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Hackwing Feather[/card]",
     "Played in": "307/13644 of  Eligible  decks (2 %)",
     "code": "hM"
   },
@@ -10157,7 +9646,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Transform the highest cost creature in your opponent's hand into a Shriveled Mummy.",
     "Keywords": "",
-    "BBCode": "[card]Hallowed Deathpriest[/card]",
     "Played in": "1447/13644 of  Eligible  decks (11 %)",
     "code": "hN"
   },
@@ -10175,7 +9663,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Put a 0/3 Dwarven Spider with Guard into your hand. Friendly Dwemer have +3/+0.",
     "Keywords": "Guard",
-    "BBCode": "[card]Halls of the Dwemer[/card]",
     "Played in": "597/30861 of  Eligible  decks (2 %)",
     "code": "hO"
   },
@@ -10197,7 +9684,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Drain, Ward",
     "Keywords": "Breakthrough,Drain,Ward",
-    "BBCode": "[card]Hand of Dagoth[/card]",
     "Played in": "874/937 of  Eligible  decks (93 %)",
     "code": "hP"
   },
@@ -10217,7 +9703,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After you play an action, Hannibal Traven learns it. Last Gasp: Play all learned actions form your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Hannibal Traven[/card]",
     "Played in": "45/14266 of  Eligible  decks (0 %)",
     "code": "xD"
   },
@@ -10235,7 +9720,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Give all enemy creatures -2/-0 until the start of your turn.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Harmony[/card]",
     "Played in": "86/12916 of  Eligible  decks (1 %)",
     "code": "hQ"
   },
@@ -10255,7 +9739,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the end of your turn, Haskill chooses a cost. When you play a card with the chosen cost, draw a card. Then Haskill chooses a new cost.",
     "Keywords": "",
-    "BBCode": "[card]Haskill[/card]",
     "Played in": "132/30872 of  Eligible  decks (0 %)",
     "code": "hR"
   },
@@ -10275,7 +9758,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Swap a creature's power and health.",
     "Keywords": "",
-    "BBCode": "[card]Hatchery Meddler[/card]",
     "Played in": "113/14266 of  Eligible  decks (1 %)",
     "code": "hS"
   },
@@ -10295,7 +9777,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. Give the second creature you summon each turn +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Haunted Manor[/card]",
     "Played in": "408/861 of  Eligible  decks (47 %)",
     "code": "hT"
   },
@@ -10315,7 +9796,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Give a random friendly creature +3/+3.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Haunting Spirit[/card]",
     "Played in": "2399/13644 of  Eligible  decks (18 %)",
     "code": "hU"
   },
@@ -10349,7 +9829,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Heal a creature, then give it +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Healing Hands[/card]",
     "Played in": "256/13644 of  Eligible  decks (2 %)",
     "code": "hV"
   },
@@ -10367,7 +9846,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Gain 5 health.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Healing Potion[/card]",
     "Played in": "746/12907 of  Eligible  decks (6 %)",
     "Evolves from:": "Apprentice's Potion",
     "code": "hW"
@@ -10386,7 +9864,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+4/+1",
     "Keywords": "",
-    "BBCode": "[card]Heavy Battleaxe[/card]",
     "Played in": "310/12757 of  Eligible  decks (2 %)",
     "code": "hX"
   },
@@ -10404,7 +9881,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+5/+0. Last Gasp: Return Heirloom Greatsword to your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Heirloom Greatsword[/card]",
     "Played in": "393/14266 of  Eligible  decks (3 %)",
     "code": "hY"
   },
@@ -10424,7 +9900,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When another friendly creature attacks, Helgen Squad Leader gains +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Helgen Squad Leader[/card]",
     "Played in": "236/12907 of  Eligible  decks (2 %)",
     "code": "hZ"
   },
@@ -10444,7 +9919,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Helstrom Footpad[/card]",
     "Played in": "71/13695 of  Eligible  decks (1 %)",
     "code": "ia"
   },
@@ -10464,7 +9938,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Pilfer: Creatures you summon this turn are transformed into random Daedra.",
     "Keywords": "Guard",
-    "BBCode": "[card]Heretic Conjurer[/card]",
     "Played in": "88/12907 of  Eligible  decks (1 %)",
     "code": "ib"
   },
@@ -10484,7 +9957,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Hero of Anvil costs 1 less for each creature summoned this turn.",
     "Keywords": "",
-    "BBCode": "[card]Hero of Anvil[/card]",
     "Played in": "47/12907 of  Eligible  decks (0 %)",
     "code": "ic"
   },
@@ -10502,7 +9974,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 3. Activate: Transform a creature in your hand into a random Legend.",
     "Keywords": "",
-    "BBCode": "[card]Heroic Rebirth[/card]",
     "Played in": "300/30861 of  Eligible  decks (1 %)",
     "code": "id"
   },
@@ -10520,7 +9991,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: All Field Lanes become Shadow Lanes. Friendly creatures have +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Hidden Trail[/card]",
     "Played in": "245/13695 of  Eligible  decks (2 %)",
     "code": "ie"
   },
@@ -10538,7 +10008,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. When you summon a creature, its power becomes equal to its health.",
     "Keywords": "",
-    "BBCode": "[card]High Hrothgar[/card]",
     "Played in": "242/13644 of  Eligible  decks (2 %)",
     "code": "if"
   },
@@ -10559,7 +10028,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ward. Summon: Deal 2 damage for each Ward your creatures have.",
     "Keywords": "Ward",
-    "BBCode": "[card]High King Emeric[/card]",
     "Played in": "1919/4886 of  Eligible  decks (39 %)",
     "code": "ig"
   },
@@ -10579,7 +10047,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +2/+2 if you have an item in play.",
     "Keywords": "",
-    "BBCode": "[card]High Rock Stalwart[/card]",
     "Played in": "40/12757 of  Eligible  decks (0 %)",
     "code": "to"
   },
@@ -10599,7 +10066,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Put a random Atronach into your hand.",
     "Keywords": "",
-    "BBCode": "[card]High Rock Summoner[/card]",
     "Played in": "1263/14266 of  Eligible  decks (9 %)",
     "code": "ih"
   },
@@ -10619,7 +10085,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Highland Lurcher[/card]",
     "Played in": "47/13695 of  Eligible  decks (0 %)",
     "code": "ii"
   },
@@ -10637,7 +10102,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: +1 max magicka.\nAt the start of your turn, if you have 15 or more max magicka, sacrifice this to summon an 8/8 Swamp Leviathan in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Hist Grove[/card]",
     "Played in": "1639/13644 of  Eligible  decks (12 %)",
     "code": "ij"
   },
@@ -10657,7 +10121,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "While Hist Speaker is in play, your max magicka is increased by 1.",
     "Keywords": "",
-    "BBCode": "[card]Hist Speaker[/card]",
     "Played in": "616/13644 of  Eligible  decks (5 %)",
     "code": "ik"
   },
@@ -10675,7 +10138,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Draw five cards. Discard your hand at the end of the turn.",
     "Keywords": "",
-    "BBCode": "[card]Hit and Run[/card]",
     "Played in": "111/12757 of  Eligible  decks (1 %)",
     "code": "il"
   },
@@ -10695,7 +10157,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Hive Defender[/card]",
     "Played in": "6019/12907 of  Eligible  decks (47 %)",
     "Evolves from:": "Hive Worker",
     "code": "im"
@@ -10716,7 +10177,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Hive Warrior[/card]",
     "Played in": "92/12907 of  Eligible  decks (1 %)",
     "Evolves from:": "Hive Worker",
     "code": "io"
@@ -10737,7 +10197,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: if you have a (agility) card in play, gain 3 magicka this turn. (strenght) card in play, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Hlaalu Oathman[/card]",
     "Played in": "520/12907 of  Eligible  decks (4 %)",
     "code": "iq"
   },
@@ -10757,7 +10216,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Plot: Silence a creature, then deal 1 damage to it.",
     "Keywords": "Plot,Silence",
-    "BBCode": "[card]Hlaalu Sharpshooter[/card]",
     "Played in": "1429/12757 of  Eligible  decks (11 %)",
     "code": "ir"
   },
@@ -10775,7 +10233,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+3",
     "Keywords": "",
-    "BBCode": "[card]Horned Helm[/card]",
     "Played in": "139/30861 of  Eligible  decks (0 %)",
     "code": "is"
   },
@@ -10793,7 +10250,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+0/+1. Summon: The wielder becomes premium.",
     "Keywords": "",
-    "BBCode": "[card]Horse Armor[/card]",
     "Played in": "7/30861 of  Eligible  decks (0 %)",
     "code": "yV"
   },
@@ -10813,7 +10269,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Deal 3 damage to your opponent and gain 3 health.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]House Kinsman[/card]",
     "Played in": "1546/13695 of  Eligible  decks (11 %)",
     "code": "it"
   },
@@ -10834,7 +10289,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a [neutral] card in play, +3/+3.",
     "Keywords": "",
-    "BBCode": "[card]Hulking Fabricant[/card]",
     "Played in": "214/13644 of  Eligible  decks (2 %)",
     "code": "iu"
   },
@@ -10854,7 +10308,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Shackle Hulking Mummy",
     "Keywords": "",
-    "BBCode": "[card]Hulking Mummy[/card]",
     "Played in": "30/13644 of  Eligible  decks (0 %)",
     "code": "vA"
   },
@@ -10874,7 +10327,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Immune to Lethal. Immune to Shackle. Your opponent can't target Hulking Scalon with actions.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Hulking Scalon[/card]",
     "Played in": "160/13695 of  Eligible  decks (1 %)",
     "code": "iv"
   },
@@ -10895,7 +10347,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Battle an enemy creature, then Battle another enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Hunter-Killers[/card]",
     "Played in": "85/12757 of  Eligible  decks (1 %)",
     "code": "iw"
   },
@@ -10913,7 +10364,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Silence a creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Hush[/card]",
     "Played in": "121/13644 of  Eligible  decks (1 %)",
     "code": "tq"
   },
@@ -10931,7 +10381,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 2 damage to your opponent. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Ice Spike[/card]",
     "Played in": "1893/14266 of  Eligible  decks (13 %)",
     "code": "ix"
   },
@@ -10949,7 +10398,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Deal 3 damage to all creatures.",
     "Keywords": "",
-    "BBCode": "[card]Ice Storm[/card]",
     "Played in": "5225/14266 of  Eligible  decks (37 %)",
     "code": "iy"
   },
@@ -10969,7 +10417,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, draw an Ice Spike.",
     "Keywords": "",
-    "BBCode": "[card]Ice Wraith[/card]",
     "Played in": "178/14266 of  Eligible  decks (1 %)",
     "code": "iz"
   },
@@ -10989,7 +10436,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Shackle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Icewing Dragon[/card]",
     "Played in": "337/14266 of  Eligible  decks (2 %)",
     "code": "iA"
   },
@@ -11009,7 +10455,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Shackle creatures damaged by Icy Shambles. Summon: Deal 2 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Icy Shambles[/card]",
     "Played in": "294/14266 of  Eligible  decks (2 %)",
     "code": "iB"
   },
@@ -11029,7 +10474,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. When Iliac Sorcerer's Ward is broken, double his power.",
     "Keywords": "Ward",
-    "BBCode": "[card]Iliac Sorcerer[/card]",
     "Played in": "447/13644 of  Eligible  decks (3 %)",
     "code": "iC"
   },
@@ -11049,7 +10493,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When Ill-Fated Scholar is Consumed, summon a 3/2 Insidious Spirit.",
     "Keywords": "Consume",
-    "BBCode": "[card]Ill-Fated Scholar[/card]",
     "Played in": "66/30861 of  Eligible  decks (0 %)",
     "code": "wa"
   },
@@ -11069,7 +10512,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Consume a creature to Shackle an enemy creature.",
     "Keywords": "Consume,Shackle",
-    "BBCode": "[card]Illicit Butcher[/card]",
     "Played in": "75/13695 of  Eligible  decks (1 %)",
     "code": "wN"
   },
@@ -11087,7 +10529,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon a 0/5 Illusory Wall with Guard in each lane. Sacrifice them at the start of your turn.",
     "Keywords": "",
-    "BBCode": "[card]Illusory Defenses[/card]",
     "Played in": "125/12907 of  Eligible  decks (1 %)",
     "code": "iD"
   },
@@ -11107,7 +10548,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Summon: Illusory Mimic gains all Keywords on the top three cards of your deck.",
     "Keywords": "",
-    "BBCode": "[card]Illusory Mimic[/card]",
     "Played in": "235/30861 of  Eligible  decks (1 %)",
     "code": "iE"
   },
@@ -11127,7 +10567,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. When Imbued Argonian is Consumed, give the consuming creature +1/+1 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Imbued Argonian[/card]",
     "Played in": "128/13644 of  Eligible  decks (1 %)",
     "code": "vG"
   },
@@ -11147,7 +10586,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal. When Imbued Bosmer is Consumed, give the consuming creature +1/+1 and Lethal.",
     "Keywords": "Lethal,Consume",
-    "BBCode": "[card]Imbued Bosmer[/card]",
     "Played in": "89/13695 of  Eligible  decks (1 %)",
     "code": "vH"
   },
@@ -11167,7 +10605,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward. When Imbued Breton is Consumed, give the consuming creature +1/+1 and Ward.",
     "Keywords": "Ward,Consume",
-    "BBCode": "[card]Imbued Breton[/card]",
     "Played in": "85/14266 of  Eligible  decks (1 %)",
     "code": "vI"
   },
@@ -11187,7 +10624,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain. When Imbued Khajiit is Consumed, give the consuming creature +1/+1 and Drain.",
     "Keywords": "Drain,Consume,Drain",
-    "BBCode": "[card]Imbued Khajiit[/card]",
     "Played in": "45/12907 of  Eligible  decks (0 %)",
     "code": "vF"
   },
@@ -11207,7 +10643,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Breakthrough. When Imbued Minotaur is Consumed, give the consuming creature +1/+1 and Breakthrough.",
     "Keywords": "Breakthrough,Consume",
-    "BBCode": "[card]Imbued Minotaur[/card]",
     "Played in": "123/12757 of  Eligible  decks (1 %)",
     "code": "vE"
   },
@@ -11225,7 +10660,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Randomly destroy all but one creature on both sides of each lane.",
     "Keywords": "",
-    "BBCode": "[card]Immolating Blast[/card]",
     "Played in": "675/12907 of  Eligible  decks (5 %)",
     "code": "iF"
   },
@@ -11243,7 +10677,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+0/+6",
     "Keywords": "",
-    "BBCode": "[card]Imperial Armor[/card]",
     "Played in": "232/13644 of  Eligible  decks (2 %)",
     "code": "iG"
   },
@@ -11261,7 +10694,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ongoing. Summon: Put a 1/2 Septim Guardsman with Guard into your hand. Friendly Guards have +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Imperial Camp[/card]",
     "Played in": "277/12907 of  Eligible  decks (2 %)",
     "code": "iH"
   },
@@ -11281,7 +10713,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: If you have another creature in each lane, summon a 1/1 Recruit in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Imperial Lackey[/card]",
     "Played in": "77/13644 of  Eligible  decks (1 %)",
     "code": "sC"
   },
@@ -11301,7 +10732,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Imperial Legionnaire[/card]",
     "Played in": "177/12907 of  Eligible  decks (1 %)",
     "code": "iI"
   },
@@ -11319,7 +10749,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of your turn, summon a 1/1 Imperial Grunt in a random lane.",
     "Keywords": "",
-    "BBCode": "[card]Imperial Might[/card]",
     "Played in": "206/12907 of  Eligible  decks (2 %)",
     "code": "iJ"
   },
@@ -11337,7 +10766,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Fill a lane with 1/1 Imperial Grunts.",
     "Keywords": "",
-    "BBCode": "[card]Imperial Reinforcements[/card]",
     "Played in": "1591/12907 of  Eligible  decks (12 %)",
     "code": "iK"
   },
@@ -11357,7 +10785,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: +1/+1 for each other friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Imperial Siege Engine[/card]",
     "Played in": "287/12907 of  Eligible  decks (2 %)",
     "code": "iL"
   },
@@ -11375,7 +10802,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon an Imposter with power and health equal to the power of your most powerful creature.",
     "Keywords": "",
-    "BBCode": "[card]Imposter's Mission[/card]",
     "Played in": "66/12757 of  Eligible  decks (1 %)",
     "code": "iM"
   },
@@ -11393,7 +10819,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Shackle a creature. If you have four or more (Willpower) creatures, destroy it instead.",
     "Keywords": "",
-    "BBCode": "[card]Imprison[/card]",
     "Played in": "1089/12916 of  Eligible  decks (8 %)",
     "Evolves from:": "Detain",
     "code": "iN"
@@ -11414,7 +10839,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When an enemy creature is summoned, Shackle Imprisoned Deathlord.",
     "Keywords": "",
-    "BBCode": "[card]Imprisoned Deathlord[/card]",
     "Played in": "240/13644 of  Eligible  decks (2 %)",
     "code": "iO"
   },
@@ -11432,7 +10856,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough, +1/+1",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Improvised Weapon[/card]",
     "Played in": "829/12757 of  Eligible  decks (6 %)",
     "code": "iP"
   },
@@ -11452,7 +10875,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Exlat 1: Your opponent can't target Indomitable Ordinator with actions.",
     "Keywords": "Guard,Exalt",
-    "BBCode": "[card]Indomitable Ordinator[/card]",
     "Played in": "410/13644 of  Eligible  decks (3 %)",
     "code": "iQ"
   },
@@ -11472,7 +10894,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Last Gasp: Indoril Archmage deals 6 damage to all enemy creatures in this lane.",
     "Keywords": "Guard,Last Gasp",
-    "BBCode": "[card]Indoril Archmage[/card]",
     "Played in": "674/14266 of  Eligible  decks (5 %)",
     "code": "iR"
   },
@@ -11492,7 +10913,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Indoril Mastermind[/card]",
     "Played in": "1730/13644 of  Eligible  decks (13 %)",
     "code": "iS"
   },
@@ -11512,7 +10932,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After you play a Dragon or Shout, Innkeeper Delphine changes into Grandmaster Delphine.",
     "Keywords": "",
-    "BBCode": "[card]Innkeeper Delphine[/card]",
     "Played in": "200/13644 of  Eligible  decks (1 %)",
     "code": "iV"
   },
@@ -11532,7 +10951,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Draw a card for each card your opponent drew this turn.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Insightful Scholar[/card]",
     "Played in": "102/14266 of  Eligible  decks (1 %)",
     "code": "iW"
   },
@@ -11554,7 +10972,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Rally 2. Last Gasp: Give a random creature in your hand +2/+2.",
     "Keywords": "Rally,Last Gasp",
-    "BBCode": "[card]Inspiring Kinsman[/card]",
     "Played in": "310/806 of  Eligible  decks (38 %)",
     "code": "iX"
   },
@@ -11574,7 +10991,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Veteran: Summon a 1/1 Recruit.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Inspiring Soldier[/card]",
     "Played in": "118/13695 of  Eligible  decks (1 %)",
     "code": "tu"
   },
@@ -11594,7 +11010,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Summon a 2/2 Rallying Stormcloak in each lane.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Inspiring Stormcloak[/card]",
     "Played in": "106/12757 of  Eligible  decks (1 %)",
     "code": "iY"
   },
@@ -11612,7 +11027,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Enemy creatures lose Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Intimidate[/card]",
     "Played in": "236/12759 of  Eligible  decks (2 %)",
     "code": "iZ"
   },
@@ -11632,7 +11046,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Invasion Marauder[/card]",
     "Played in": "76/12907 of  Eligible  decks (1 %)",
     "code": "xn"
   },
@@ -11650,7 +11063,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Choose three times: Invade or summon a 1/1 Scamp.",
     "Keywords": "Invade",
-    "BBCode": "[card]Invasion Party[/card]",
     "Played in": "63/12907 of  Eligible  decks (0 %)",
     "code": "yE"
   },
@@ -11670,7 +11082,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Invasion Scout[/card]",
     "Played in": "91/12757 of  Eligible  decks (1 %)",
     "code": "xm"
   },
@@ -11690,7 +11101,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Invasion Vanguard[/card]",
     "Played in": "95/14266 of  Eligible  decks (1 %)",
     "code": "xl"
   },
@@ -11710,7 +11120,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Veteran: Restore your Magicka.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Invoker of the Hist[/card]",
     "Played in": "36/13695 of  Eligible  decks (0 %)",
     "code": "uy"
   },
@@ -11730,7 +11139,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough, Guard, Regenerate. Your opponent can't target Iron Atronach with actions.",
     "Keywords": "Breakthrough,Guard,Regenerate",
-    "BBCode": "[card]Iron Atronach[/card]",
     "Played in": "471/13644 of  Eligible  decks (3 %)",
     "code": "ja"
   },
@@ -11750,7 +11158,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Regenerate",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Ironscale Dragon[/card]",
     "Played in": "498/13644 of  Eligible  decks (4 %)",
     "code": "jb"
   },
@@ -11770,7 +11177,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Put an Experimental Scroll into your hand.",
     "Keywords": "",
-    "BBCode": "[card]J'zargo[/card]",
     "Played in": "108/14266 of  Eligible  decks (1 %)",
     "code": "jc"
   },
@@ -11790,7 +11196,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a Stormcloak Skirmisher in the left lane and a Colovian Trooper in the right lane. At the start of your turn, if your lanes are full, you win the game.",
     "Keywords": "",
-    "BBCode": "[card]Jarl Balgruuf[/card]",
     "Played in": "250/12907 of  Eligible  decks (2 %)",
     "code": "jd"
   },
@@ -11810,7 +11215,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose another friendly creature. Damage that would be dealt to the chosen creature is dealt to Jauffre instead.",
     "Keywords": "",
-    "BBCode": "[card]Jauffre[/card]",
     "Played in": "23/12916 of  Eligible  decks (0 %)",
     "code": "xC"
   },
@@ -11830,7 +11234,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Jerall Forager[/card]",
     "Played in": "45/12757 of  Eligible  decks (0 %)",
     "code": "je"
   },
@@ -11850,7 +11253,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Slay: Change into Saint Jiub, Eradicator of the Winged Menace.",
     "Keywords": "Slay",
-    "BBCode": "[card]Jiub[/card]",
     "Played in": "138/30872 of  Eligible  decks (0 %)",
     "code": "jf"
   },
@@ -11872,7 +11274,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Immune to Silence. Friendly creatures cost 1 less. Enemy non-creatures cost 1 more.",
     "Keywords": "Silence",
-    "BBCode": "[card]Jorunn the Skald-King[/card]",
     "Played in": "306/338 of  Eligible  decks (91 %)",
     "code": "tw"
   },
@@ -11892,7 +11293,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Veteran: +2/+2 and give the top creature of your deck +2/+2.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Jorunn's Vanguard[/card]",
     "Played in": "62/12757 of  Eligible  decks (0 %)",
     "code": "tx"
   },
@@ -11910,7 +11310,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Shuffle all creatures from your discard pile into your deck, and give them +5/+5.",
     "Keywords": "",
-    "BBCode": "[card]Journey to Sovngarde[/card]",
     "Played in": "2268/30861 of  Eligible  decks (7 %)",
     "code": "jg"
   },
@@ -11928,7 +11327,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Each player gains +2 max magicka",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Jyggalag's Incursion[/card]",
     "Played in": "90/13644 of  Eligible  decks (1 %)",
     "code": "jh"
   },
@@ -11948,7 +11346,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon the Halls of Colossus.",
     "Keywords": "Guard",
-    "BBCode": "[card]Kaalgrontiid[/card]",
     "Played in": "153/12916 of  Eligible  decks (1 %)",
     "code": "vY"
   },
@@ -11969,7 +11366,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a [neutral] card in play, summon a copy of Kagouti Fabricant in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Kagouti Fabricant[/card]",
     "Played in": "140/12907 of  Eligible  decks (1 %)",
     "code": "ji"
   },
@@ -11989,7 +11385,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give all enemy creatures in this lane -1/-0.",
     "Keywords": "",
-    "BBCode": "[card]Karthspire Scourge[/card]",
     "Played in": "507/12907 of  Eligible  decks (4 %)",
     "code": "jj"
   },
@@ -12009,7 +11404,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Draw a card and increase its cost by 1.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Karthspire Scout[/card]",
     "Played in": "232/13644 of  Eligible  decks (2 %)",
     "code": "jk"
   },
@@ -12029,7 +11423,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Other friendly creatures can't be Silenced.",
     "Keywords": "",
-    "BBCode": "[card]Keeper of Whispers[/card]",
     "Played in": "159/14266 of  Eligible  decks (1 %)",
     "code": "jl"
   },
@@ -12049,7 +11442,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you Invade, Invade again.",
     "Keywords": "Invade",
-    "BBCode": "[card]Keeper of the Gates[/card]",
     "Played in": "58/12757 of  Eligible  decks (0 %)",
     "code": "xL"
   },
@@ -12067,7 +11459,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+3. Summon: The wielder deals 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Khajiiti Warhelm[/card]",
     "Played in": "43/14266 of  Eligible  decks (0 %)",
     "code": "wu"
   },
@@ -12088,7 +11479,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Pilfer: Give Khajiit in your deck +1/+1.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Khamira[/card]",
     "Played in": "81/3723 of  Eligible  decks (2 %)",
     "code": "wW"
   },
@@ -12108,7 +11498,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard, Rally.",
     "Keywords": "Guard,Rally",
-    "BBCode": "[card]Khuul Lawkeeper[/card]",
     "Played in": "698/12907 of  Eligible  decks (5 %)",
     "code": "jm"
   },
@@ -12127,7 +11516,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Silence a creature. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Knife to the Throat[/card]",
     "Played in": "479/30861 of  Eligible  decks (2 %)",
     "code": "jn"
   },
@@ -12147,7 +11535,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Rally. Summon: Put a 2/2 Colovian Trooper with Guard into your hand.",
     "Keywords": "Rally",
-    "BBCode": "[card]Knight of Gnisis[/card]",
     "Played in": "370/13644 of  Eligible  decks (3 %)",
     "code": "jo"
   },
@@ -12167,7 +11554,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Silence all other creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Knight of Order[/card]",
     "Played in": "94/13644 of  Eligible  decks (1 %)",
     "code": "jp"
   },
@@ -12188,7 +11574,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: You gain 3 health.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Knight of the Hour[/card]",
     "Played in": "1296/12907 of  Eligible  decks (10 %)",
     "code": "jq"
   },
@@ -12208,7 +11593,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Kvatch Soldier[/card]",
     "Played in": "1027/12907 of  Eligible  decks (8 %)",
     "code": "jr"
   },
@@ -12228,7 +11612,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Plot: Summon a 1/1 Kwama Forager in each lane. Other friendly Kwama have +1/+0.",
     "Keywords": "Plot",
-    "BBCode": "[card]Kwama Queen[/card]",
     "Played in": "40/12907 of  Eligible  decks (0 %)",
     "code": "js"
   },
@@ -12248,7 +11631,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When Kynreeve Champion takes damage, it deals that much damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Kynreeve Champion[/card]",
     "Played in": "30/12757 of  Eligible  decks (0 %)",
     "code": "yA"
   },
@@ -12269,7 +11651,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw a card of your choice from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Laaneth[/card]",
     "Played in": "2952/14271 of  Eligible  decks (21 %)",
     "code": "jt"
   },
@@ -12287,7 +11668,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Sacrifice a creature to gain magicka this turn equal to its power.",
     "Keywords": "",
-    "BBCode": "[card]Lady Syl's Cruelty[/card]",
     "Played in": "61/13695 of  Eligible  decks (0 %)",
     "code": "jv"
   },
@@ -12307,7 +11687,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Lame Corprus[/card]",
     "Played in": "25/14266 of  Eligible  decks (0 %)",
     "code": "jw"
   },
@@ -12325,7 +11704,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Set a creature's power and health to 1.",
     "Keywords": "",
-    "BBCode": "[card]Lay Down Arms[/card]",
     "Played in": "192/13644 of  Eligible  decks (1 %)",
     "code": "jx"
   },
@@ -12345,7 +11723,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Destroy a wounded creature.",
     "Keywords": "",
-    "BBCode": "[card]Leaflurker[/card]",
     "Played in": "4276/13703 of  Eligible  decks (31 %)",
     "code": "jy"
   },
@@ -12363,7 +11740,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Give a creature +1/+1. When you gain health draw Leafwater Blessing from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Leafwater Blessing[/card]",
     "Played in": "350/13695 of  Eligible  decks (3 %)",
     "code": "jA"
   },
@@ -12383,7 +11759,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you summon an Imperial, summon a 1/1 Imperial Grunt in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Legate Rikke[/card]",
     "Played in": "257/12907 of  Eligible  decks (2 %)",
     "code": "jB"
   },
@@ -12403,7 +11778,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Other friendly creatures get +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Legion Praefect[/card]",
     "Played in": "360/12907 of  Eligible  decks (3 %)",
     "code": "jC"
   },
@@ -12421,7 +11795,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard, +1/+3",
     "Keywords": "Guard",
-    "BBCode": "[card]Legion Shield[/card]",
     "Played in": "314/12907 of  Eligible  decks (2 %)",
     "code": "jD"
   },
@@ -12441,7 +11814,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Summon: If you have another creature in each lane, +0/+3.",
     "Keywords": "Guard",
-    "BBCode": "[card]Legion Zero Templar[/card]",
     "Played in": "52/12907 of  Eligible  decks (0 %)",
     "code": "tA"
   },
@@ -12459,7 +11831,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Give a creature a Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Lesser Ward[/card]",
     "Played in": "1480/14266 of  Eligible  decks (10 %)",
     "code": "jE"
   },
@@ -12477,7 +11848,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. Your cards cost 0. You may play only one card per turn.",
     "Keywords": "",
-    "BBCode": "[card]Lich's Ascension[/card]",
     "Played in": "37/13644 of  Eligible  decks (0 %)",
     "code": "jF"
   },
@@ -12497,7 +11867,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Exalt 2: Give other friendly creatures in this lane +2/+2.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Light of the Three[/card]",
     "Played in": "217/12907 of  Eligible  decks (2 %)",
     "code": "jG"
   },
@@ -12515,7 +11884,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Deal 4 damage.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Lightning Bolt[/card]",
     "Played in": "11505/14266 of  Eligible  decks (81 %)",
     "code": "jH"
   },
@@ -12535,7 +11903,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "After you play an action, deal 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Lillandril Hexmage[/card]",
     "Played in": "1057/14266 of  Eligible  decks (7 %)",
     "code": "jJ"
   },
@@ -12553,7 +11920,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Mobilize. +3/+4.",
     "Keywords": "Mobilize",
-    "BBCode": "[card]Lion Guard Armaments[/card]",
     "Played in": "48/14266 of  Eligible  decks (0 %)",
     "code": "tF"
   },
@@ -12573,7 +11939,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you summon another creature in this lane, give it a Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Lion Guard Strategist[/card]",
     "Played in": "163/13644 of  Eligible  decks (1 %)",
     "code": "jK"
   },
@@ -12594,7 +11959,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the start of your turn, Little Girl changes into a 5/5 Ageless Vampire with Drain.",
     "Keywords": "Drain",
-    "BBCode": "[card]Little Girl[/card]",
     "Played in": "545/13644 of  Eligible  decks (4 %)",
     "code": "jL"
   },
@@ -12612,7 +11976,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Either put another Lockpick into your hand or draw a card an dreduct its cost by 2, chosen randomly.",
     "Keywords": "",
-    "BBCode": "[card]Lockpick[/card]",
     "Played in": "219/13703 of  Eligible  decks (2 %)",
     "code": "jM"
   },
@@ -12632,7 +11995,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose two creatures to Battle each other.",
     "Keywords": "",
-    "BBCode": "[card]Lord of the Arena[/card]",
     "Played in": "10/12757 of  Eligible  decks (0 %)",
     "code": "yp"
   },
@@ -12652,7 +12014,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Plot: Equip a friendly creature with a +2/+2 Steel Scimitar.",
     "Keywords": "Plot",
-    "BBCode": "[card]Lower Canton Smith[/card]",
     "Played in": "391/12757 of  Eligible  decks (3 %)",
     "code": "jN"
   },
@@ -12672,7 +12033,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Regenerate",
     "Keywords": "Regenerate",
-    "BBCode": "[card]Lowland Troll[/card]",
     "Played in": "54/13644 of  Eligible  decks (0 %)",
     "code": "jO"
   },
@@ -12692,7 +12052,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy. Summon: Give a creature +2/+2 and Guard.",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Loyal Housecarl[/card]",
     "Played in": "731/12907 of  Eligible  decks (6 %)",
     "code": "jP"
   },
@@ -12712,7 +12071,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Lethal. When another friendly creature Slays, give it +2/+2.",
     "Keywords": "Lethal,Slay",
-    "BBCode": "[card]Lucien Lachance[/card]",
     "Played in": "1476/13644 of  Eligible  decks (11 %)",
     "code": "jQ"
   },
@@ -12732,7 +12090,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Lumbering Ogrim can't gain Cover.",
     "Keywords": "",
-    "BBCode": "[card]Lumbering Ogrim[/card]",
     "Played in": "382/12757 of  Eligible  decks (3 %)",
     "code": "jR"
   },
@@ -12750,7 +12107,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy a creature with 1 power or less. Empower: +1 power.",
     "Keywords": "Empower",
-    "BBCode": "[card]Luminous Shards[/card]",
     "Played in": "66/12907 of  Eligible  decks (1 %)",
     "code": "sT"
   },
@@ -12767,8 +12123,7 @@ module.exports = { cards: [
     "Soul Summon": "400",
     "Soul Trap": "100",
     "Text": "Wax: Put a 3/3 Cathay-raht into your hand. Wane: Put a 4/4 Dagi-raht with Guard into your hand.",
-    "Keywords": "Wax,Wane,Guard",
-    "BBCode": "[card]Lunar Sway[/card]",
+    "Keywords": "Wax/Wane,Guard",
     "Played in": "99/30861 of  Eligible  decks (0 %)",
     "code": "wp"
   },
@@ -12788,7 +12143,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Lurking Crocodile[/card]",
     "Played in": "1220/30861 of  Eligible  decks (4 %)",
     "Evolves from:": "Stalking Crocodile",
     "code": "jS"
@@ -12809,7 +12163,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Lurking Mummy[/card]",
     "Played in": "516/13644 of  Eligible  decks (4 %)",
     "code": "jT"
   },
@@ -12827,7 +12180,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+2. The wielder is immune to Silence.",
     "Keywords": "",
-    "BBCode": "[card]Lute[/card]",
     "Played in": "507/30872 of  Eligible  decks (2 %)",
     "code": "jU"
   },
@@ -12847,7 +12199,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you summon a creature with 6 cost or more, both Luzrah and that creature gain +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Luzrah gro-Shar[/card]",
     "Played in": "754/14266 of  Eligible  decks (5 %)",
     "code": "jV"
   },
@@ -12867,7 +12218,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Lydia guards both lanes.",
     "Keywords": "Guard",
-    "BBCode": "[card]Lydia[/card]",
     "Played in": "697/12916 of  Eligible  decks (5 %)",
     "code": "jW"
   },
@@ -12887,7 +12237,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the start of your turn, destroy your oppnent's front rune.",
     "Keywords": "",
-    "BBCode": "[card]Lyris Titanborn[/card]",
     "Played in": "247/12757 of  Eligible  decks (2 %)",
     "code": "tB"
   },
@@ -12905,7 +12254,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+2/+1. Summon: Shackle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Mace of Encumbrance[/card]",
     "Played in": "1403/14266 of  Eligible  decks (10 %)",
     "code": "jX"
   },
@@ -12923,7 +12271,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move a friendly creature, then give it +1/+1 for each enemy creature in its lane.",
     "Keywords": "",
-    "BBCode": "[card]Mad Dash[/card]",
     "Played in": "169/13695 of  Eligible  decks (1 %)",
     "code": "jY"
   },
@@ -12942,7 +12289,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Put a random Isle of Madness card into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Madness Beckons[/card]",
     "Played in": "72/30861 of  Eligible  decks (0 %)",
     "code": "jZ"
   },
@@ -12962,7 +12308,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Mage Slayer can't be damaged by actions.",
     "Keywords": "",
-    "BBCode": "[card]Mage Slayer[/card]",
     "Played in": "466/12757 of  Eligible  decks (4 %)",
     "code": "ka"
   },
@@ -12981,7 +12326,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Deal 1 damage, gain 1 health, and draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Mage's Trick[/card]",
     "Played in": "892/4500 of  Eligible  decks (20 %)",
     "code": "kb"
   },
@@ -13001,7 +12345,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Expertise: Summon a Flame Atronach, then upgrade the Atronach Mages Guild Conjurer summons.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Mages Guild Conjurer[/card]",
     "Played in": "101/14266 of  Eligible  decks (1 %)",
     "code": "uE"
   },
@@ -13021,7 +12364,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Reduce the cost of an action in your hand by 2.",
     "Keywords": "",
-    "BBCode": "[card]Mages Guild Recruit[/card]",
     "Played in": "464/14266 of  Eligible  decks (3 %)",
     "code": "kc"
   },
@@ -13039,7 +12381,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of each turn, if you played two actions, summon a random Atronach.",
     "Keywords": "",
-    "BBCode": "[card]Mages Guild Retreat[/card]",
     "Played in": "331/14266 of  Eligible  decks (2 %)",
     "code": "kd"
   },
@@ -13057,7 +12398,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a creature -2/-2.",
     "Keywords": "",
-    "BBCode": "[card]Malefic Wreath[/card]",
     "Played in": "215/13695 of  Eligible  decks (2 %)",
     "code": "ke"
   },
@@ -13077,7 +12417,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Manic Grummite/Demented Grummite[/card]",
     "Played in": "24/30861 of  Eligible  decks (0 %)",
     "code": "kf"
   },
@@ -13097,7 +12436,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Manic Jack/Manic Mutation[/card]",
     "Played in": "578/14266 of  Eligible  decks (4 %)",
     "code": "kg"
   },
@@ -13118,7 +12456,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After you play an action, Invade. Friendly Oblivion Gates have +4/+0.",
     "Keywords": "Invade",
-    "BBCode": "[card]Mankar Camoran[/card]",
     "Played in": "77/3939 of  Eligible  decks (2 %)",
     "code": "xg"
   },
@@ -13138,7 +12475,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a creature from your opponent's discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Mannimarco[/card]",
     "Played in": "371/13651 of  Eligible  decks (3 %)",
     "code": "tD"
   },
@@ -13158,7 +12494,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Destroy an enemy creature in this lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Mantikora[/card]",
     "Played in": "2550/12916 of  Eligible  decks (20 %)",
     "code": "kh"
   },
@@ -13176,7 +12511,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+0/+3",
     "Keywords": "",
-    "BBCode": "[card]Maple Shield[/card]",
     "Played in": "453/30861 of  Eligible  decks (1 %)",
     "code": "ki"
   },
@@ -13196,7 +12530,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give a creature +1/+0. When another friendly creature gains power, Marauder Chieftain also gains that much power.",
     "Keywords": "",
-    "BBCode": "[card]Marauder Chieftain[/card]",
     "Played in": "76/12757 of  Eligible  decks (1 %)",
     "code": "xW"
   },
@@ -13216,7 +12549,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Markarth Bannerman attacks, put two 1/1 Nord Firebrands with Charge into your hand.",
     "Keywords": "Charge",
-    "BBCode": "[card]Markarth Bannerman[/card]",
     "Played in": "1120/12757 of  Eligible  decks (9 %)",
     "code": "kj"
   },
@@ -13237,7 +12569,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Put a 0/2 Makeshift Defenses with Guard into your hand.",
     "Keywords": "Guard",
-    "BBCode": "[card]Marked Man[/card]",
     "Played in": "1826/12907 of  Eligible  decks (14 %)",
     "code": "kk"
   },
@@ -13258,7 +12589,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "At the start of your turn, gain all unspent magicka from your last turn. When you have 30 or more magicka, Martin Septim changes into a 30/30 Avatar of Akatosh.",
     "Keywords": "",
-    "BBCode": "[card]Martin Septim[/card]",
     "Played in": "120/4386 of  Eligible  decks (3 %)",
     "code": "xh"
   },
@@ -13278,7 +12608,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the start of your turn, give each item in your deck +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Master Swordsmith[/card]",
     "Played in": "504/14266 of  Eligible  decks (4 %)",
     "code": "ko"
   },
@@ -13298,7 +12627,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Master of Arms equips the two highest cost items in your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Master of Arms[/card]",
     "Played in": "897/14266 of  Eligible  decks (6 %)",
     "Evolves from:": "Student of Arms",
     "code": "kl"
@@ -13321,7 +12649,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Master of Incunabula has the Expertise abilities of all your creatures.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Master of Incunabula[/card]",
     "Played in": "71/407 of  Eligible  decks (17 %)",
     "code": "uD"
   },
@@ -13342,7 +12669,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Friendly creatures with Pilfer can attack an additional time each turn.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Master of Thieves[/card]",
     "Played in": "749/3720 of  Eligible  decks (20 %)",
     "code": "kn"
   },
@@ -13362,7 +12688,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. pilfer: Steal a card from your opponent's discard pile to yours.",
     "Keywords": "Charge,Pilfer",
-    "BBCode": "[card]Mausoleum Delver[/card]",
     "Played in": "19/13695 of  Eligible  decks (0 %)",
     "code": "wL"
   },
@@ -13382,7 +12707,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a Spider Worker if the top card of your deck is (Neutral).",
     "Keywords": "",
-    "BBCode": "[card]Mechanical Ally[/card]",
     "Played in": "526/30861 of  Eligible  decks (2 %)",
     "code": "kp"
   },
@@ -13401,7 +12725,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Steal an enemy creature with 3 power or less until the end of turn. It gains Charge.",
     "Keywords": "Charge",
-    "BBCode": "[card]Mecinar's Will[/card]",
     "Played in": "211/12907 of  Eligible  decks (2 %)",
     "code": "kr"
   },
@@ -13422,7 +12745,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Stitch together the top creature from both decks to create an Abomination and put it into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Mecinar[/card]",
     "Played in": "482/30872 of  Eligible  decks (2 %)",
     "code": "kq"
   },
@@ -13442,7 +12764,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the start of your turn, deal 1 damage to another friendly creature and give it +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Mehrunes Dagon's Flayer[/card]",
     "Played in": "70/12757 of  Eligible  decks (1 %)",
     "code": "xZ"
   },
@@ -13462,7 +12783,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough, Drain.",
     "Keywords": "Breakthrough,Drain",
-    "BBCode": "[card]Mehrunes Dagon's Seducer[/card]",
     "Played in": "126/12907 of  Eligible  decks (1 %)",
     "code": "yd"
   },
@@ -13483,7 +12803,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Banish your opponent's discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Memory Wraith[/card]",
     "Played in": "530/14266 of  Eligible  decks (4 %)",
     "code": "ks"
   },
@@ -13503,7 +12822,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: Give a creature in your hand Guard.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Mentor of the Watch[/card]",
     "Played in": "440/13644 of  Eligible  decks (3 %)",
     "code": "kt"
   },
@@ -13521,7 +12839,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+3/+3. Summon: Give all your other creatures the keywords of this creature.",
     "Keywords": "",
-    "BBCode": "[card]Mentor's Ring[/card]",
     "Played in": "1056/14266 of  Eligible  decks (7 %)",
     "code": "ku"
   },
@@ -13541,7 +12858,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Consume a creature to give other friendly creatures +1/+1.",
     "Keywords": "Consume",
-    "BBCode": "[card]Mercenary Captain[/card]",
     "Played in": "222/12907 of  Eligible  decks (2 %)",
     "code": "wG"
   },
@@ -13561,7 +12877,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Summon: Look at the top three cards of your deck. Put one into your hand and discard the others.",
     "Keywords": "",
-    "BBCode": "[card]Merchant's Camel[/card]",
     "Played in": "2224/30861 of  Eligible  decks (7 %)",
     "code": "kv"
   },
@@ -13582,7 +12897,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Equip all friendly creatures in this lane with a random item.",
     "Keywords": "",
-    "BBCode": "[card]Merric-at-Aswala[/card]",
     "Played in": "1026/3939 of  Eligible  decks (26 %)",
     "code": "kw"
   },
@@ -13600,7 +12914,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Betray. Choose a creature in your deck. Create a copy of that creature in your discards pile and give it +1/+1.",
     "Keywords": "Betray",
-    "BBCode": "[card]Midnight Burial[/card]",
     "Played in": "34/13644 of  Eligible  decks (0 %)",
     "code": "Bn"
   },
@@ -13620,7 +12933,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Last Gasp: Reduce the cost of a random Dragon in your hand by 1.",
     "Keywords": "Prophecy,Guard,Last Gasp",
-    "BBCode": "[card]Midnight Snack[/card]",
     "Played in": "1107/30861 of  Eligible  decks (4 %)",
     "code": "kx"
   },
@@ -13638,7 +12950,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon a 2/2 Colovian Trooper with Guard in each lane.",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Midnight Sweep[/card]",
     "Played in": "1419/13644 of  Eligible  decks (10 %)",
     "code": "ky"
   },
@@ -13658,7 +12969,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Consume a creature to gain +1/+1.",
     "Keywords": "Consume",
-    "BBCode": "[card]Midnight Trespasser[/card]",
     "Played in": "171/14266 of  Eligible  decks (1 %)",
     "code": "wf"
   },
@@ -13678,7 +12988,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +3/+0 and breakthrough if the top card of your deck is (Strength).",
     "Keywords": "",
-    "BBCode": "[card]Mighty Ally[/card]",
     "Played in": "1149/12757 of  Eligible  decks (9 %)",
     "code": "kz"
   },
@@ -13696,7 +13005,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon a random Atronach. If you have a creature with 5 power or more, summon a Lava Atronach instead.",
     "Keywords": "",
-    "BBCode": "[card]Mighty Conjuring[/card]",
     "Played in": "846/14266 of  Eligible  decks (6 %)",
     "code": "kA"
   },
@@ -13717,7 +13025,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Draw a random Orc from your discard pile. Other friendly Orcs have +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Militant Chieftain[/card]",
     "Played in": "451/3890 of  Eligible  decks (12 %)",
     "code": "kB"
   },
@@ -13737,7 +13044,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Steal an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Miraak, Dragonborn[/card]",
     "Played in": "3172/12907 of  Eligible  decks (25 %)",
     "code": "kC"
   },
@@ -13757,7 +13063,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose an enemy creature. At the start of your turn, if the chosen creature is alive, summon a 1/1 Risen Dead with Guard in its lane.",
     "Keywords": "",
-    "BBCode": "[card]Miscarcand Lich[/card]",
     "Played in": "6/13644 of  Eligible  decks (0 %)",
     "code": "xO"
   },
@@ -13777,7 +13082,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward. Summon: +2/+0 if you have another creature with Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Mistveil Enchanter[/card]",
     "Played in": "46/14266 of  Eligible  decks (0 %)",
     "code": "kD"
   },
@@ -13798,7 +13102,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Treasure Hunt - Guard: Give the Guard +1/+2.",
     "Keywords": "Treasure Hunt,Guard",
-    "BBCode": "[card]Mistveil Warden[/card]",
     "Played in": "77/13644 of  Eligible  decks (1 %)",
     "code": "kE"
   },
@@ -13818,7 +13121,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough. Summon: Your opponent summons a Blackwood Hoodlum in each lane.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Modryn Oreyn[/card]",
     "Played in": "10/12757 of  Eligible  decks (0 %)",
     "code": "yc"
   },
@@ -13836,7 +13138,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Reveal three random cards, then choose one to put into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Moment of Clarity[/card]",
     "Played in": "451/14266 of  Eligible  decks (3 %)",
     "code": "kF"
   },
@@ -13856,7 +13157,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough. Pilfer: Summon a 3/3 Cathay-raht.",
     "Keywords": "Breakthrough,Pilfer",
-    "BBCode": "[card]Monastic Champion[/card]",
     "Played in": "119/12907 of  Eligible  decks (1 %)",
     "code": "wC"
   },
@@ -13889,7 +13189,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move a friendly creature and give it +3/+0 and Drain this turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Monk's Strike[/card]",
     "Played in": "861/3720 of  Eligible  decks (23 %)",
     "code": "kG"
   },
@@ -13900,7 +13199,7 @@ module.exports = { cards: [
     "Attributes": [
       "willpower"
     ],
-    "Race": "",
+    "Race": "Khajiit",
     "Magicka Cost": "1",
     "Attack": "1",
     "Health": "1",
@@ -13908,8 +13207,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Wax: +0/+4. Wane: You gain 4 health.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Moon Bishop[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "114/12907 of  Eligible  decks (1 %)",
     "code": "wU"
   },
@@ -13926,8 +13224,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Uses: 2. Activate: Get both Wax and Wane effects this turn.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Moon Gate[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "136/30861 of  Eligible  decks (0 %)",
     "code": "wo"
   },
@@ -13947,7 +13244,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Gain 2 magicka this turn.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Moon Sugar Smuggler[/card]",
     "Played in": "159/13695 of  Eligible  decks (1 %)",
     "code": "kH"
   },
@@ -13967,7 +13263,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy, Drain",
     "Keywords": "Drain,Prophecy",
-    "BBCode": "[card]Moonlight Werebat[/card]",
     "Played in": "2200/13695 of  Eligible  decks (16 %)",
     "Evolves from:": "Twilight Werebat",
     "code": "kI"
@@ -13988,7 +13283,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Plot: Put a random Guard into your hand.",
     "Keywords": "Guard,Plot",
-    "BBCode": "[card]Moonmoth Castellan[/card]",
     "Played in": "470/12907 of  Eligible  decks (4 %)",
     "code": "kJ"
   },
@@ -14007,8 +13301,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Wax: +1/+1 and Drain. Wane: Draw a card.",
-    "Keywords": "Wax,Wane,Drain",
-    "BBCode": "[card]Moonphase Suthay[/card]",
+    "Keywords": "Wax/Wane,Drain",
     "Played in": "200/13695 of  Eligible  decks (1 %)",
     "code": "wH"
   },
@@ -14027,8 +13320,7 @@ module.exports = { cards: [
     "Soul Summon": "100",
     "Soul Trap": "20",
     "Text": "Wax: Give a creature in your hand +2/+2. Wane: Guard and Ward.",
-    "Keywords": "Wax,Wane,Guard,Ward",
-    "BBCode": "[card]Moontouched Guardian[/card]",
+    "Keywords": "Wax/Wane,Guard,Ward",
     "Played in": "122/13644 of  Eligible  decks (1 %)",
     "code": "wE"
   },
@@ -14048,7 +13340,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Slay: Summon a copy of Morag Tong Aspirant.",
     "Keywords": "Slay",
-    "BBCode": "[card]Morag Tong Aspirant[/card]",
     "Played in": "676/13695 of  Eligible  decks (5 %)",
     "code": "kK"
   },
@@ -14068,7 +13359,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Summon a 0/1 Target with Guard for your opponent. Slay: +1/+1.",
     "Keywords": "Guard,Slay",
-    "BBCode": "[card]Morag Tong Assassin[/card]",
     "Played in": "337/13695 of  Eligible  decks (2 %)",
     "code": "kL"
   },
@@ -14088,7 +13378,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a 0/1 Target with Guard for your opponent. Slay: Draw a card. If it's an action, reduce its cost to 0.",
     "Keywords": "Guard,Slay",
-    "BBCode": "[card]Morag Tong Nightblade[/card]",
     "Played in": "311/12907 of  Eligible  decks (2 %)",
     "code": "kM"
   },
@@ -14108,7 +13397,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. Summon: Give a creature +2/+0.",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Morkul Gatekeeper[/card]",
     "Played in": "4331/12757 of  Eligible  decks (34 %)",
     "code": "kN"
   },
@@ -14128,7 +13416,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: If you started the game with no duplicate cards in your deck, you gain 5 health and restore a rune.",
     "Keywords": "",
-    "BBCode": "[card]Morokei, the Deathless[/card]",
     "Played in": "514/30861 of  Eligible  decks (2 %)",
     "code": "kP"
   },
@@ -14148,7 +13435,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When an enemy rune is destroyed, Morthal Executioner gains +2/+0.",
     "Keywords": "",
-    "BBCode": "[card]Morthal Executioner[/card]",
     "Played in": "598/12907 of  Eligible  decks (5 %)",
     "code": "kQ"
   },
@@ -14168,7 +13454,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Morthal Watchman[/card]",
     "Played in": "84/12757 of  Eligible  decks (1 %)",
     "code": "kR"
   },
@@ -14188,7 +13473,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Gain 1 magicka this turn.",
     "Keywords": "",
-    "BBCode": "[card]Mountain Lion[/card]",
     "Played in": "37/13695 of  Eligible  decks (0 %)",
     "code": "ym"
   },
@@ -14208,7 +13492,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Mountain Tyrant[/card]",
     "Played in": "153/13644 of  Eligible  decks (1 %)",
     "code": "kS"
   },
@@ -14228,7 +13511,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Mournhold Guardian[/card]",
     "Played in": "154/13695 of  Eligible  decks (1 %)",
     "code": "kT"
   },
@@ -14248,7 +13530,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Regenerate. Exalt 3: +2/+2",
     "Keywords": "Regenerate,Exalt",
-    "BBCode": "[card]Mournhold Pilgrim[/card]",
     "Played in": "118/13644 of  Eligible  decks (1 %)",
     "code": "kU"
   },
@@ -14270,7 +13551,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Friendly creatures with Veteran have Charge.",
     "Keywords": "Veteran,Charge",
-    "BBCode": "[card]Mournhold Taskmaster[/card]",
     "Played in": "72/338 of  Eligible  decks (21 %)",
     "code": "tG"
   },
@@ -14290,7 +13570,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Your opponent summons a 2/1 Mournhold Guardian with Guard.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Mournhold Traitor[/card]",
     "Played in": "2167/13695 of  Eligible  decks (16 %)",
     "code": "kV"
   },
@@ -14308,7 +13587,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Move a friendly creature. It moves again at the end of the turn.",
     "Keywords": "",
-    "BBCode": "[card]Move in Shadows[/card]",
     "Played in": "391/13695 of  Eligible  decks (3 %)",
     "code": "kW"
   },
@@ -14328,7 +13606,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Mudcrab Anklesnapper[/card]",
     "Played in": "536/30861 of  Eligible  decks (2 %)",
     "code": "kX"
   },
@@ -14348,7 +13625,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: The Merchant shows you two cards he has for sale. Choose one to put into your hand. He puts the other into your opponent's hand.",
     "Keywords": "",
-    "BBCode": "[card]Mudcrab Merchant[/card]",
     "Played in": "1120/30861 of  Eligible  decks (4 %)",
     "code": "kY"
   },
@@ -14368,7 +13644,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon and Slay: Battle an enemy creature with less power than Mulaamnir's health.",
     "Keywords": "Slay",
-    "BBCode": "[card]Mulaamnir[/card]",
     "Played in": "213/12759 of  Eligible  decks (2 %)",
     "code": "wJ"
   },
@@ -14386,7 +13661,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Transform a creature into a 2/2 Shriveled Mummy.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Mummify[/card]",
     "Played in": "2061/13651 of  Eligible  decks (15 %)",
     "code": "kZ"
   },
@@ -14404,7 +13678,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you summon a creature, give it a random keyword.",
     "Keywords": "",
-    "BBCode": "[card]Mundus Stone[/card]",
     "Played in": "2260/30861 of  Eligible  decks (7 %)",
     "code": "la"
   },
@@ -14424,7 +13697,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "If Murkwater Butcher is in your hand during your first turn, reduce his cost to 1.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Butcher[/card]",
     "Played in": "318/13695 of  Eligible  decks (2 %)",
     "code": "lb"
   },
@@ -14444,7 +13716,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Murkwater Goblin has +2/+0 on your turn.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Goblin[/card]",
     "Played in": "519/13695 of  Eligible  decks (4 %)",
     "code": "lc"
   },
@@ -14465,7 +13736,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Treasure Hunt - 0-cost card: Put a copy of the \"treasure\" into your hand.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Murkwater Guide[/card]",
     "Played in": "335/13695 of  Eligible  decks (2 %)",
     "code": "ld"
   },
@@ -14485,7 +13755,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When you summon another (Agility) creature, Murkwater Savage gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Savage[/card]",
     "Played in": "527/13695 of  Eligible  decks (4 %)",
     "code": "le"
   },
@@ -14505,7 +13774,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon and Last Gasp: Put a Curse into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Scourge[/card]",
     "Played in": "380/13695 of  Eligible  decks (3 %)",
     "code": "sp"
   },
@@ -14525,7 +13793,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, put a Curse into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Shaman[/card]",
     "Played in": "1384/13695 of  Eligible  decks (10 %)",
     "code": "lf"
   },
@@ -14545,7 +13812,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give all other friendly Goblins +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Murkwater Skirmisher[/card]",
     "Played in": "386/13695 of  Eligible  decks (3 %)",
     "code": "lg"
   },
@@ -14565,7 +13831,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: Give a creature -1/-1.",
     "Keywords": "Guard",
-    "BBCode": "[card]Murkwater Witch[/card]",
     "Played in": "2197/13695 of  Eligible  decks (16 %)",
     "code": "lh"
   },
@@ -14583,7 +13848,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. Your actions have Betray.",
     "Keywords": "Betray",
-    "BBCode": "[card]Mushroom Tower[/card]",
     "Played in": "310/13644 of  Eligible  decks (2 %)",
     "code": "li"
   },
@@ -14601,7 +13865,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Silence two creatures",
     "Keywords": "",
-    "BBCode": "[card]Mute[/card]",
     "Played in": "49/13651 of  Eligible  decks (0 %)",
     "code": "yq"
   },
@@ -14621,7 +13884,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Mystic Dragon[/card]",
     "Played in": "1670/14266 of  Eligible  decks (12 %)",
     "code": "lj"
   },
@@ -14641,7 +13903,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Mystic of Ancient Rites Empowers an action in your hand, the Empower bonus does not expire at the end of turn.",
     "Keywords": "Empower",
-    "BBCode": "[card]Mystic of Ancient Rites[/card]",
     "Played in": "41/12907 of  Eligible  decks (0 %)",
     "code": "ty"
   },
@@ -14661,7 +13922,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "At the end of each turn, if you Invaded, deal 2 damage.",
     "Keywords": "",
-    "BBCode": "[card]Mythic Dawn Acolyte[/card]",
     "Played in": "16/14266 of  Eligible  decks (0 %)",
     "code": "zC"
   },
@@ -14681,7 +13941,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Put a random Daedra into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Mythic Dawn Informer[/card]",
     "Played in": "47/14266 of  Eligible  decks (0 %)",
     "code": "xi"
   },
@@ -14701,7 +13960,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "At the end of each turn, if you Invaded, put a 1/1 Scamp into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Mythic Dawn Zealot[/card]",
     "Played in": "20/12907 of  Eligible  decks (0 %)",
     "code": "zA"
   },
@@ -14721,7 +13979,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Your opponent can't target Nahagliiv with actions.",
     "Keywords": "Guard",
-    "BBCode": "[card]Nahagliiv[/card]",
     "Played in": "3108/13651 of  Eligible  decks (23 %)",
     "code": "lk"
   },
@@ -14741,7 +13998,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw a card and reduce its cost to 0.",
     "Keywords": "",
-    "BBCode": "[card]Nahkriin, Dragon Priest[/card]",
     "Played in": "504/14266 of  Eligible  decks (4 %)",
     "code": "ll"
   },
@@ -14759,7 +14015,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Ongoing. At the end of your turn, if you played three cards this turn, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Namira's Shrine[/card]",
     "Played in": "1016/30861 of  Eligible  decks (3 %)",
     "code": "lm"
   },
@@ -14779,7 +14034,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a 0/1 Target with Guard for your opponent in each lane. Friendly creatures have \"Slay: +1/+1 and Lethal.\"",
     "Keywords": "Slay,Lethal,Guard",
-    "BBCode": "[card]Naryu Virian[/card]",
     "Played in": "501/13695 of  Eligible  decks (4 %)",
     "code": "ln"
   },
@@ -14799,7 +14053,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Trigger the Last Gasp of each friendly creature.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Necrom Mastermind[/card]",
     "Played in": "394/13695 of  Eligible  decks (3 %)",
     "code": "lo"
   },
@@ -14817,7 +14070,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When a friendly creature is destroyed, gain 1 health.",
     "Keywords": "",
-    "BBCode": "[card]Necromancer's Amulet[/card]",
     "Played in": "899/13644 of  Eligible  decks (7 %)",
     "code": "lp"
   },
@@ -14837,7 +14089,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Gain a random Keyword. When Nereid Sister gains a Keyword, give all friendly Nereid Sisters in play, hand and deck that keyword.",
     "Keywords": "",
-    "BBCode": "[card]Nereid Sister[/card]",
     "Played in": "55/14266 of  Eligible  decks (0 %)",
     "code": "tC"
   },
@@ -14857,7 +14108,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "If Nervous Giant takes exactly 1 damage, destroy him.",
     "Keywords": "",
-    "BBCode": "[card]Nervous Giant[/card]",
     "Played in": "57/12757 of  Eligible  decks (0 %)",
     "code": "lr"
   },
@@ -14875,7 +14125,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Fill a lane with territorial Vipers.",
     "Keywords": "",
-    "BBCode": "[card]Nest of Vipers[/card]",
     "Played in": "165/13695 of  Eligible  decks (1 %)",
     "code": "ls"
   },
@@ -14895,7 +14144,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+0 while there are no enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Niben Bay Cutthroat[/card]",
     "Played in": "42/14266 of  Eligible  decks (0 %)",
     "code": "lt"
   },
@@ -14915,7 +14163,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Consume a creature to gain +0/+2.",
     "Keywords": "Consume",
-    "BBCode": "[card]Nibenese Mercenary[/card]",
     "Played in": "73/13644 of  Eligible  decks (1 %)",
     "code": "wg"
   },
@@ -14935,7 +14182,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Regenerate",
     "Keywords": "Breakthrough,Regenerate",
-    "BBCode": "[card]Night Predator[/card]",
     "Played in": "185/13644 of  Eligible  decks (1 %)",
     "Evolves from:": "Night Patrol",
     "code": "lv"
@@ -14956,7 +14202,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Drain",
     "Keywords": "Breakthrough,Drain",
-    "BBCode": "[card]Night Shadow[/card]",
     "Played in": "1677/13644 of  Eligible  decks (12 %)",
     "Evolves from:": "Night Patrol",
     "code": "lw"
@@ -14977,7 +14222,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. Slay: Summon the slain creature",
     "Keywords": "Drain,Slay",
-    "BBCode": "[card]Night Talon Lord[/card]",
     "Played in": "1412/13644 of  Eligible  decks (10 %)",
     "Evolves from:": "Volkihar Lord",
     "code": "lx"
@@ -14998,7 +14242,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Nightprowler gains Cover, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Nightprowler[/card]",
     "Played in": "69/13703 of  Eligible  decks (1 %)",
     "code": "ly"
   },
@@ -15018,7 +14261,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +1/+1 and Lethal if the top card of your deck is (Agility).",
     "Keywords": "Lethal",
-    "BBCode": "[card]Nimble Ally[/card]",
     "Played in": "1021/13695 of  Eligible  decks (7 %)",
     "code": "lz"
   },
@@ -15039,7 +14281,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain. Summon: If you have a [neutral] card in play, Shackle an enemy creature.",
     "Keywords": "Drain,Shackle",
-    "BBCode": "[card]Nix-Hound Fabricant[/card]",
     "Played in": "99/13695 of  Eligible  decks (1 %)",
     "code": "lB"
   },
@@ -15059,7 +14300,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Shackle each enemy creature with less power than Nix-Hound.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Nix-Hound[/card]",
     "Played in": "115/13695 of  Eligible  decks (1 %)",
     "code": "lA"
   },
@@ -15079,7 +14319,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Gain 5 magicka this turn.",
     "Keywords": "",
-    "BBCode": "[card]Nix-Ox[/card]",
     "Played in": "669/13695 of  Eligible  decks (5 %)",
     "code": "lC"
   },
@@ -15099,7 +14338,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge",
     "Keywords": "Charge",
-    "BBCode": "[card]Nord Firebrand[/card]",
     "Played in": "2330/12757 of  Eligible  decks (18 %)",
     "code": "lD"
   },
@@ -15119,7 +14357,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Summon a 0/4 Northpoint Herald with Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Northpoint Captain[/card]",
     "Played in": "334/13644 of  Eligible  decks (2 %)",
     "Evolves from:": "Northpoint Lieutenant",
     "code": "lE"
@@ -15138,7 +14375,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Friendly (Strength) creatures have +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Northwind Outpost[/card]",
     "Played in": "1186/12757 of  Eligible  decks (9 %)",
     "code": "lG"
   },
@@ -15156,7 +14392,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Oblivion Invasion[/card]",
     "Played in": "96/30861 of  Eligible  decks (0 %)",
     "code": "xq"
   },
@@ -15176,7 +14411,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If the top card of your deck is an Animal, draw it. Otherwise, put it on the bottom.",
     "Keywords": "",
-    "BBCode": "[card]Obstinate Goat[/card]",
     "Played in": "8/13695 of  Eligible  decks (0 %)",
     "code": "Bg"
   },
@@ -15196,7 +14430,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Put a Steel Dagger into your hand. When Occult Ritemaster equips an item, Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Occult Ritemaster[/card]",
     "Played in": "13/14266 of  Eligible  decks (0 %)",
     "code": "yv"
   },
@@ -15216,7 +14449,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Deal 4 damage to each enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Odahviing[/card]",
     "Played in": "4693/30872 of  Eligible  decks (15 %)",
     "code": "lH"
   },
@@ -15236,7 +14468,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a creature from your discard pile with power less than Odirniran Necromancer.",
     "Keywords": "",
-    "BBCode": "[card]Odirniran Necromancer[/card]",
     "Played in": "2279/13644 of  Eligible  decks (17 %)",
     "code": "lI"
   },
@@ -15254,7 +14485,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon one of each Mudcrab from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Old Salty's Assault[/card]",
     "Played in": "109/30861 of  Eligible  decks (0 %)",
     "code": "xe"
   },
@@ -15274,7 +14504,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard, Regenerate",
     "Keywords": "Guard,Regenerate",
-    "BBCode": "[card]Oldgate Warden[/card]",
     "Played in": "644/13644 of  Eligible  decks (5 %)",
     "code": "lJ"
   },
@@ -15292,7 +14521,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: 3. Activate: Put a copy of a random card from your opponent's deck into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Orb of Vaermina[/card]",
     "Played in": "738/30861 of  Eligible  decks (2 %)",
     "code": "lK"
   },
@@ -15312,7 +14540,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Other friendly creatures in this lane have +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Orc Clan Captain[/card]",
     "Played in": "3761/12757 of  Eligible  decks (29 %)",
     "Evolves from:": "Orc Clansman",
     "code": "lL"
@@ -15333,7 +14560,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough. Other friendly Orcs in this lane have Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Orc Clan Shaman[/card]",
     "Played in": "499/12757 of  Eligible  decks (4 %)",
     "Evolves from:": "Orc Clansman",
     "code": "lM"
@@ -15352,7 +14578,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough, +3/+3",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Orcish Warhammer[/card]",
     "Played in": "455/12757 of  Eligible  decks (4 %)",
     "code": "lO"
   },
@@ -15374,7 +14599,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Exalt 3: +2/+2. Ordinator of the Almsivi is permanently Shackled unless you have an Exalted creature in play.",
     "Keywords": "Guard,Exalt",
-    "BBCode": "[card]Ordinator of the Almsivi[/card]",
     "Played in": "7/1015 of  Eligible  decks (1 %)",
     "code": "Bb"
   },
@@ -15392,7 +14616,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Mobilize, Breakthrough, +2/+1.",
     "Keywords": "Mobilize,Breakthrough",
-    "BBCode": "[card]Ornamented Sword[/card]",
     "Played in": "151/12757 of  Eligible  decks (1 %)",
     "code": "tI"
   },
@@ -15412,7 +14635,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Breakthrough",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Ornery Kagouti[/card]",
     "Played in": "85/12757 of  Eligible  decks (1 %)",
     "code": "lP"
   },
@@ -15430,7 +14652,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: 3. Activate: Equip a creature with a +1/+1 Orsinium Plate. Then increase the power and health of Orsinium Plates this equips by 1.",
     "Keywords": "",
-    "BBCode": "[card]Orsinium Forge[/card]",
     "Played in": "19/12757 of  Eligible  decks (0 %)",
     "code": "tK"
   },
@@ -15448,7 +14669,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give an enemy creature -1/-0 and a friendly creature +1/+0 this turn.",
     "Keywords": "",
-    "BBCode": "[card]Orvas' Bargain[/card]",
     "Played in": "61/12907 of  Eligible  decks (0 %)",
     "code": "lQ"
   },
@@ -15466,7 +14686,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Propechy. Give a friendly creature in each lane +0/+2 and Guard.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Outflank[/card]",
     "Played in": "71/12916 of  Eligible  decks (1 %)",
     "code": "tL"
   },
@@ -15486,7 +14705,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Give a random creature in your hand +1/+1.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Outland Patrol[/card]",
     "Played in": "77/13644 of  Eligible  decks (1 %)",
     "code": "yi"
   },
@@ -15506,7 +14724,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Put three random Shouts into your hand and reduce their costs to 0.",
     "Keywords": "",
-    "BBCode": "[card]Paarthurnax[/card]",
     "Played in": "3255/30872 of  Eligible  decks (11 %)",
     "code": "lR"
   },
@@ -15526,7 +14743,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Summon a 1/1 Young Wolf. Other friendly Wolvers have +1/+1.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Pack Leader[/card]",
     "Played in": "181/12907 of  Eligible  decks (1 %)",
     "code": "lS"
   },
@@ -15546,7 +14762,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Summon a 1/1 Young Wolf in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Pack Wolf[/card]",
     "Played in": "326/12907 of  Eligible  decks (3 %)",
     "code": "lT"
   },
@@ -15566,7 +14781,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a...\n[agility] card in play, +2/+0.\n[endurance] card in play, Battle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Pact Oathman[/card]",
     "Played in": "39/12757 of  Eligible  decks (0 %)",
     "code": "tM"
   },
@@ -15588,7 +14802,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon and Veteran: Consume a creature. Pact Outcast uses the consumed creature's veteran ability.",
     "Keywords": "Guard",
-    "BBCode": "[card]Pact Outcast[/card]",
     "Played in": "13/338 of  Eligible  decks (4 %)",
     "code": "AX"
   },
@@ -15608,7 +14821,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Veteran: Your opponent's actions cost 4 more next turn.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Pact Shieldbearer[/card]",
     "Played in": "66/12757 of  Eligible  decks (1 %)",
     "code": "tO"
   },
@@ -15628,7 +14840,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Slay: draw a card.",
     "Keywords": "Slay",
-    "BBCode": "[card]Pahmar-raht Renegade[/card]",
     "Played in": "513/13695 of  Eligible  decks (4 %)",
     "code": "lU"
   },
@@ -15646,7 +14857,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Costs 2 less for each attribute you have in play. Costs 2 less if you have a [neutral] card in play. Summon a Painted Troll in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Painted World[/card]",
     "Played in": "22/30861 of  Eligible  decks (0 %)",
     "code": "xB"
   },
@@ -15667,7 +14877,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card, then discard a card.",
     "Keywords": "",
-    "BBCode": "[card]Palace Conspirator[/card]",
     "Played in": "747/14266 of  Eligible  decks (5 %)",
     "code": "lV"
   },
@@ -15687,7 +14896,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain. Pilfer: Gain 1 magicka this turn.",
     "Keywords": "Drain,Pilfer",
-    "BBCode": "[card]Palace Prowler[/card]",
     "Played in": "748/13695 of  Eligible  decks (5 %)",
     "code": "lW"
   },
@@ -15705,7 +14913,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Shackle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Paralyze[/card]",
     "Played in": "341/13695 of  Eligible  decks (2 %)",
     "code": "lX"
   },
@@ -15726,7 +14933,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Steal a creature's Keywords.",
     "Keywords": "",
-    "BBCode": "[card]Penitus Oculatus Agent[/card]",
     "Played in": "1273/12907 of  Eligible  decks (10 %)",
     "code": "lZ"
   },
@@ -15747,7 +14953,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. When your opponent draws a Prophecy from a rune being destroyed, put a 1/2 Septim Guardsman with Guard into your hand.",
     "Keywords": "Guard",
-    "BBCode": "[card]Phalanx Exemplar[/card]",
     "Played in": "899/12907 of  Eligible  decks (7 %)",
     "code": "ma"
   },
@@ -15765,7 +14970,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Destroy a creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Piercing Javelin[/card]",
     "Played in": "8491/12907 of  Eligible  decks (66 %)",
     "code": "lY"
   },
@@ -15785,7 +14989,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Choose a card in your opponent's discard pile. Banish all cards from your opponent's discard pile and deck with the same name as the chosen card.",
     "Keywords": "Guard",
-    "BBCode": "[card]Piercing Twilight[/card]",
     "Played in": "708/14266 of  Eligible  decks (5 %)",
     "code": "mc"
   },
@@ -15805,7 +15008,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give a friendly creature Drain this turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Pillaging Tribune[/card]",
     "Played in": "553/12907 of  Eligible  decks (4 %)",
     "code": "md"
   },
@@ -15825,7 +15027,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pit Lion can't be summoned unless there's a friendly unit in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Pit Lion[/card]",
     "Played in": "1530/12907 of  Eligible  decks (12 %)",
     "code": "me"
   },
@@ -15843,7 +15044,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Heal all friendly creatures in a lane, then give them all +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Plea to Kynareth[/card]",
     "Played in": "314/13644 of  Eligible  decks (2 %)",
     "code": "mf"
   },
@@ -15861,7 +15061,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Draw two random items.",
     "Keywords": "",
-    "BBCode": "[card]Plunder[/card]",
     "Played in": "949/12759 of  Eligible  decks (7 %)",
     "code": "mg"
   },
@@ -15881,7 +15080,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Exalt 1: Gain a random Keyword.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Poetic Armiger[/card]",
     "Played in": "119/14266 of  Eligible  decks (1 %)",
     "code": "mh"
   },
@@ -15901,7 +15099,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard. When Pointy Wall of Spikes takes damage from a creature, it deals that much damage to that creature.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Pointy Wall of Spikes[/card]",
     "Played in": "343/14266 of  Eligible  decks (2 %)",
     "code": "mi"
   },
@@ -15919,7 +15116,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Mobilize, Lethal, +1/+0.",
     "Keywords": "Mobilize,Lethal",
-    "BBCode": "[card]Poisoned Dagger[/card]",
     "Played in": "133/13644 of  Eligible  decks (1 %)",
     "code": "tQ"
   },
@@ -15939,7 +15135,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Portcullis[/card]",
     "Played in": "379/30872 of  Eligible  decks (1 %)",
     "code": "mj"
   },
@@ -15958,8 +15153,7 @@ module.exports = { cards: [
     "Soul Summon": "100",
     "Soul Trap": "20",
     "Text": "Guard. Wax: +3/+0. Wane: Charge.",
-    "Keywords": "Guard,Wax,Wane,Charge",
-    "BBCode": "[card]Pouncing Senche[/card]",
+    "Keywords": "Guard,Wax/Wane,Charge",
     "Played in": "26/12757 of  Eligible  decks (0 %)",
     "code": "wn"
   },
@@ -15979,7 +15173,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Set each creature's power and health to 1.",
     "Keywords": "",
-    "BBCode": "[card]Power of the Almsivi[/card]",
     "Played in": "130/1015 of  Eligible  decks (13 %)",
     "code": "mk"
   },
@@ -15999,7 +15192,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give creatures in your deck +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Praetorian Commander[/card]",
     "Played in": "685/12907 of  Eligible  decks (5 %)",
     "code": "ml"
   },
@@ -16020,7 +15212,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. While Prankster Mage has a Ward, he has Guard. When Prankster Mage's Ward is broken, he gains Cover.",
     "Keywords": "Ward,Guard,Cover",
-    "BBCode": "[card]Prankster Mage[/card]",
     "Played in": "49/4940 of  Eligible  decks (1 %)",
     "code": "xd"
   },
@@ -16040,7 +15231,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "While you have 7 or more magicka, Preserver of the Root has +2/+2 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Preserver of the Root[/card]",
     "Played in": "2390/13644 of  Eligible  decks (18 %)",
     "code": "mm"
   },
@@ -16060,7 +15250,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Choose an enemy creature. When Preying Elytra damages the chosen creature, draw two cards.",
     "Keywords": "",
-    "BBCode": "[card]Preying Elytra[/card]",
     "Played in": "48/13695 of  Eligible  decks (0 %)",
     "code": "mn"
   },
@@ -16096,7 +15285,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card if you have two other (willpower) creatures.",
     "Keywords": "",
-    "BBCode": "[card]Priest of the Eight[/card]",
     "Played in": "1042/12907 of  Eligible  decks (8 %)",
     "code": "mo"
   },
@@ -16116,7 +15304,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Gain 2 health.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Priest of the Moons[/card]",
     "Played in": "446/12907 of  Eligible  decks (3 %)",
     "code": "mp"
   },
@@ -16136,7 +15323,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Shackle an enemy creature while you have Prison Ship.",
     "Keywords": "",
-    "BBCode": "[card]Prison Ship[/card]",
     "Played in": "63/12907 of  Eligible  decks (0 %)",
     "code": "mq"
   },
@@ -16156,7 +15342,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Fill this lane with 1/1 Angry Villagers.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Prized Chicken[/card]",
     "Played in": "81/30861 of  Eligible  decks (0 %)",
     "code": "mr"
   },
@@ -16176,7 +15361,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Exalt 5: Fill this lane with 1/1 Risen Dead with Guard",
     "Keywords": "Exalt",
-    "BBCode": "[card]Prophet of Bones[/card]",
     "Played in": "75/13644 of  Eligible  decks (1 %)",
     "code": "ms"
   },
@@ -16196,8 +15380,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
-    "Keywords": "Prophecy, Guard",
-    "BBCode": "[card]Protector of the Innocent[/card]",
+    "Keywords": "Prophecy,Guard",
     "Played in": "2376/12757 of  Eligible  decks (19 %)",
     "code": "mt"
   },
@@ -16218,7 +15401,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain, Guard. When you gain health, Protector of the Mane gains +1/+1.",
     "Keywords": "Drain,Guard",
-    "BBCode": "[card]Protector of the Mane[/card]",
     "Played in": "375/3720 of  Eligible  decks (10 %)",
     "code": "mu"
   },
@@ -16238,7 +15420,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: Equip a Steel Dagger to a friendly creature.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Prowl Smuggler[/card]",
     "Played in": "122/12757 of  Eligible  decks (1 %)",
     "code": "vB"
   },
@@ -16258,7 +15439,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you gain max magicka, double the amount you gain. While you have 18 or more max magicka, Pure-Blood Elder has +8/+8 and Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Pure-Blood Elder[/card]",
     "Played in": "647/13644 of  Eligible  decks (5 %)",
     "code": "mv"
   },
@@ -16278,7 +15458,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain",
     "Keywords": "Drain",
-    "BBCode": "[card]Quarra Clan Bloodkin[/card]",
     "Played in": "212/13644 of  Eligible  decks (2 %)",
     "code": "mw"
   },
@@ -16299,7 +15478,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. Summon: Give all other friendly creatures in this lane Guard.",
     "Keywords": "Drain,Guard",
-    "BBCode": "[card]Queen Barenziah[/card]",
     "Played in": "2375/4940 of  Eligible  decks (48 %)",
     "code": "mx"
   },
@@ -16318,8 +15496,7 @@ module.exports = { cards: [
     "Soul Summon": "1200",
     "Soul Trap": "400",
     "Text": "Wax: Draw two cards. Wane: Destroy a creature.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Queen's Captain[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "159/12907 of  Eligible  decks (1 %)",
     "code": "wO"
   },
@@ -16338,7 +15515,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+1/+1. Summon: The wielder deals 1 damage.",
     "Keywords": "",
-    "BBCode": "[card]Quicksilver Crossbow[/card]",
     "Played in": "1562/12757 of  Eligible  decks (12 %)",
     "code": "my"
   },
@@ -16358,7 +15534,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. Pilfer: +4/+4",
     "Keywords": "Drain,Pilfer",
-    "BBCode": "[card]Quin'rawl Burglar[/card]",
     "Played in": "1907/13695 of  Eligible  decks (14 %)",
     "Evolves from:": "Quin'rawl Skulker",
     "code": "mz"
@@ -16379,7 +15554,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Raging Horker takes damage, it gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Raging Horker[/card]",
     "Played in": "103/30861 of  Eligible  decks (0 %)",
     "code": "mB"
   },
@@ -16397,7 +15571,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Put two 1/1 Nord Firebrands with Charge into your hand.",
     "Keywords": "Charge",
-    "BBCode": "[card]Raiding Party[/card]",
     "Played in": "2756/12757 of  Eligible  decks (22 %)",
     "code": "mC"
   },
@@ -16417,7 +15590,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: Draw a card.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Rajhini Highwayman[/card]",
     "Played in": "774/12907 of  Eligible  decks (6 %)",
     "code": "mD"
   },
@@ -16437,7 +15609,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough, Charge",
     "Keywords": "Breakthrough,Charge",
-    "BBCode": "[card]Rampaging Minotaur[/card]",
     "Played in": "675/12757 of  Eligible  decks (5 %)",
     "code": "mE"
   },
@@ -16455,7 +15626,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Deal 3 damage and gain 3 health.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Ransack[/card]",
     "Played in": "401/13703 of  Eligible  decks (3 %)",
     "code": "mF"
   },
@@ -16473,7 +15643,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 1 damage to a creature. If it survives, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Rapid Shot[/card]",
     "Played in": "5871/12757 of  Eligible  decks (46 %)",
     "code": "mG"
   },
@@ -16494,7 +15663,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Treasure Hunt - Support, item, action: +5/+5. After Ratway Prospector attacks, it gains Cover.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Ratway Prospector[/card]",
     "Played in": "268/12757 of  Eligible  decks (2 %)",
     "code": "mH"
   },
@@ -16512,7 +15680,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Deal 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Ravaging Elixir[/card]",
     "Played in": "85/14266 of  Eligible  decks (1 %)",
     "code": "tS"
   },
@@ -16532,7 +15699,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 2 damage to a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Ravenous Crocodile[/card]",
     "Played in": "229/30861 of  Eligible  decks (1 %)",
     "Evolves from:": "Stalking Crocodile",
     "code": "mI"
@@ -16553,7 +15719,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give Ravenous Hunger Drain if there is an enemy creature in this lane.",
     "Keywords": "Drain",
-    "BBCode": "[card]Ravenous Hunger[/card]",
     "Played in": "780/12907 of  Eligible  decks (6 %)",
     "Evolves from:": "Starved Hunger",
     "code": "mJ"
@@ -16574,7 +15739,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Charge. Draw a copy of the first card your opponent draws each turn.",
     "Keywords": "Charge",
-    "BBCode": "[card]Razum-Dar[/card]",
     "Played in": "285/13695 of  Eligible  decks (2 %)",
     "code": "wA"
   },
@@ -16594,7 +15758,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "At the start of your turn, give another random friendly creature +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Reachman Shaman[/card]",
     "Played in": "333/30861 of  Eligible  decks (1 %)",
     "code": "mL"
   },
@@ -16612,7 +15775,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon a creature from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Reanimate[/card]",
     "Played in": "118/13651 of  Eligible  decks (1 %)",
     "code": "vU"
   },
@@ -16632,7 +15794,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: Summon a 1/1 Recruit.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Rebel Warden[/card]",
     "Played in": "123/12907 of  Eligible  decks (1 %)",
     "code": "vM"
   },
@@ -16651,8 +15812,7 @@ module.exports = { cards: [
     "Soul Summon": "1200",
     "Soul Trap": "400",
     "Text": "Wax: +1/+0 and trigger the Wax of each non-Rebellion General frendly creature. Wane: +0/+1 and trigger the Wane of each non-Rebellion General friendly creature.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]Rebellion General[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "88/13695 of  Eligible  decks (1 %)",
     "code": "wM"
   },
@@ -16671,7 +15831,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 5. Activate: Give a friendly creature -1/-1 and summon a 1/1 Reconstructed Spider.",
     "Keywords": "",
-    "BBCode": "[card]Reconstruction Engine[/card]",
     "Played in": "62/12907 of  Eligible  decks (0 %)",
     "code": "mN"
   },
@@ -16692,7 +15851,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Silence and Shackle all enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Red Bramman[/card]",
     "Played in": "1977/4386 of  Eligible  decks (45 %)",
     "code": "mO"
   },
@@ -16712,7 +15870,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. Your creatures with 5 power or more cost 2 less.",
     "Keywords": "",
-    "BBCode": "[card]Red Mountain[/card]",
     "Played in": "11/937 of  Eligible  decks (1 %)",
     "code": "Ba"
   },
@@ -16730,7 +15887,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Rally. +1/+3.",
     "Keywords": "Rally",
-    "BBCode": "[card]Redoran Battlespear[/card]",
     "Played in": "426/12757 of  Eligible  decks (3 %)",
     "code": "mP"
   },
@@ -16750,7 +15906,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Redoran Enforcer[/card]",
     "Played in": "72/14266 of  Eligible  decks (1 %)",
     "code": "mQ"
   },
@@ -16772,7 +15927,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge, Drain, Ward",
     "Keywords": "Charge,Drain,Ward",
-    "BBCode": "[card]Redoran Forerunner[/card]",
     "Played in": "671/806 of  Eligible  decks (83 %)",
     "code": "mR"
   },
@@ -16792,7 +15946,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a ... (willpower) card in play, double Redoran Oathman's health. (strength) card in play, double Redoran Oathman's power.",
     "Keywords": "",
-    "BBCode": "[card]Redoran Oathman[/card]",
     "Played in": "120/13644 of  Eligible  decks (1 %)",
     "code": "mS"
   },
@@ -16813,7 +15966,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Reflective Automaton has all creature types.",
     "Keywords": "",
-    "BBCode": "[card]Reflective Automaton[/card]",
     "Played in": "1152/30861 of  Eligible  decks (4 %)",
     "code": "mT"
   },
@@ -16833,7 +15985,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When Reive attacks, deal 2 damage to the enemy player, then increase the damage from this ability by 2.",
     "Keywords": "",
-    "BBCode": "[card]Reive, Blademaster[/card]",
     "Played in": "1754/12757 of  Eligible  decks (14 %)",
     "code": "mU"
   },
@@ -16853,7 +16004,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After an enemy rune is destroyed, deal 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Relentless Raider[/card]",
     "Played in": "1200/12757 of  Eligible  decks (9 %)",
     "code": "mV"
   },
@@ -16874,7 +16024,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Treasure Hunt - Item: Give the item +1/+1.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Relic Hunter[/card]",
     "Played in": "223/12757 of  Eligible  decks (2 %)",
     "code": "mW"
   },
@@ -16894,7 +16043,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "After a friendly action damages an enemy creature, Renegade Magister deals that much damage to that creature.",
     "Keywords": "",
-    "BBCode": "[card]Renegade Magister[/card]",
     "Played in": "47/14266 of  Eligible  decks (0 %)",
     "code": "sn"
   },
@@ -16914,7 +16062,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Expertise: Summon a 1/1 Recruit.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Renowned Instructor[/card]",
     "Played in": "118/12907 of  Eligible  decks (1 %)",
     "code": "ud"
   },
@@ -16934,7 +16081,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough. Summon: Summon a 1/1 Imperial Grunt, then gain 1 health for each friendly creature.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Renowned Legate[/card]",
     "Played in": "355/12907 of  Eligible  decks (3 %)",
     "Evolves from:": "Rising Legate",
     "code": "mX"
@@ -16955,7 +16101,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give other friendly creatures in this lane +1/+1 if the top card of your deck is (Willpower).",
     "Keywords": "",
-    "BBCode": "[card]Resolute Ally[/card]",
     "Played in": "1393/12907 of  Eligible  decks (11 %)",
     "code": "mY"
   },
@@ -16975,7 +16120,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Gain 5 health.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Restless Templar[/card]",
     "Played in": "640/13644 of  Eligible  decks (5 %)",
     "code": "mZ"
   },
@@ -16995,7 +16139,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Heal a creature.",
     "Keywords": "",
-    "BBCode": "[card]Restoration Tutor[/card]",
     "Played in": "52/13644 of  Eligible  decks (0 %)",
     "code": "na"
   },
@@ -17013,7 +16156,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Put two random actions into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Revealing the Unseen[/card]",
     "Played in": "541/14266 of  Eligible  decks (4 %)",
     "code": "nb"
   },
@@ -17032,7 +16174,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 3 damage to a creature and all enemy creatures with the same name.",
     "Keywords": "",
-    "BBCode": "[card]Reverberating Strike[/card]",
     "Played in": "1390/14266 of  Eligible  decks (10 %)",
     "code": "nc"
   },
@@ -17052,7 +16193,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Revered Guardian[/card]",
     "Played in": "788/12907 of  Eligible  decks (6 %)",
     "code": "nd"
   },
@@ -17073,7 +16213,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: If you have less health than your opponent, +0/+2 and Guard. Otherwise, +2/+0 and Breakthrough.",
     "Keywords": "Breakthrough,Guard",
-    "BBCode": "[card]Rift Thane[/card]",
     "Played in": "1756/3994 of  Eligible  decks (44 %)",
     "code": "ne"
   },
@@ -17094,7 +16233,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Brekathrough. Summon: you gain 4 health.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Riften Lawkeeper[/card]",
     "Played in": "422/12907 of  Eligible  decks (3 %)",
     "code": "nf"
   },
@@ -17114,7 +16252,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Reveal three random cards in your opponent’s deck. Choose one and draw a copy of it.",
     "Keywords": "",
-    "BBCode": "[card]Riften Pickpocket[/card]",
     "Played in": "634/14266 of  Eligible  decks (4 %)",
     "code": "ng"
   },
@@ -17134,7 +16271,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +1/+1 for each destroyed enemy rune.",
     "Keywords": "",
-    "BBCode": "[card]Riften Pillager[/card]",
     "Played in": "246/12757 of  Eligible  decks (2 %)",
     "code": "nh"
   },
@@ -17154,7 +16290,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Rihad Battlemage has +0/+3 and Guard while equipped with an item.",
     "Keywords": "Guard",
-    "BBCode": "[card]Rihad Battlemage[/card]",
     "Played in": "568/12757 of  Eligible  decks (4 %)",
     "Evolves from:": "Rihad Nomad",
     "code": "ni"
@@ -17175,7 +16310,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Rihad Horseman has +3/+0 and Breakthrough while equipped with an item.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Rihad Horseman[/card]",
     "Played in": "658/12757 of  Eligible  decks (5 %)",
     "Evolves from:": "Rihad Nomad",
     "code": "nj"
@@ -17196,7 +16330,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Consume a creature. Reduce the cost of each creature in your deck that shares a type with that creature by 1.",
     "Keywords": "Consume",
-    "BBCode": "[card]Rimmen Purveyor[/card]",
     "Played in": "28/13695 of  Eligible  decks (0 %)",
     "code": "yS"
   },
@@ -17214,7 +16347,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. At the start of your turn, each friendly creature deals 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Rimmen Siege Weapons[/card]",
     "Played in": "80/12757 of  Eligible  decks (1 %)",
     "code": "wi"
   },
@@ -17232,7 +16364,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "+0/+2. Summon: The wielder's power becomes equal to its health.",
     "Keywords": "",
-    "BBCode": "[card]Ring of Imaginary Might[/card]",
     "Played in": "326/13644 of  Eligible  decks (2 %)",
     "code": "nl"
   },
@@ -17250,7 +16381,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+0/+2. Your creatures with the same type as the wielder cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Ring of Lordship[/card]",
     "Played in": "242/30861 of  Eligible  decks (1 %)",
     "code": "qb"
   },
@@ -17268,7 +16398,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. When you gain health, deal that much damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Ring of Namira[/card]",
     "Played in": "494/13695 of  Eligible  decks (4 %)",
     "code": "nm"
   },
@@ -17286,7 +16415,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Betray. Summon a 3/3 Risen Horror with Guard.",
     "Keywords": "Betray",
-    "BBCode": "[card]Rising of Bones[/card]",
     "Played in": "424/13644 of  Eligible  decks (3 %)",
     "code": "no"
   },
@@ -17306,7 +16434,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Pilfer: Move Riverhold Escort to the other lane.",
     "Keywords": "Guard,Pilfer",
-    "BBCode": "[card]Riverhold Escort[/card]",
     "Played in": "217/12907 of  Eligible  decks (2 %)",
     "code": "np"
   },
@@ -17326,7 +16453,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If you have more health than your opponent, give all friendly creatures a random keyword.",
     "Keywords": "",
-    "BBCode": "[card]Royal Sage[/card]",
     "Played in": "1496/14266 of  Eligible  decks (10 %)",
     "code": "nr"
   },
@@ -17347,7 +16473,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Treasure Hunt - Support: Draw a card.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Ruin Archaeologist[/card]",
     "Played in": "259/12907 of  Eligible  decks (2 %)",
     "code": "ns"
   },
@@ -17367,7 +16492,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Discard the top three cards of your deck, then Consume all creatures that entered your discard pile this turn. Ruin Shambler gains +1/+1 for each creature consumed.",
     "Keywords": "Consume",
-    "BBCode": "[card]Ruin Shambler[/card]",
     "Played in": "53/13644 of  Eligible  decks (0 %)",
     "code": "wB"
   },
@@ -17388,7 +16512,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Treasure Hunt - Drain: +1/+1 and Drain.\nTreasure Hunt - Lethal: +1/+1 and Lethal.",
     "Keywords": "Treasure Hunt,Drain,Letha",
-    "BBCode": "[card]Ruthless Freebooter[/card]",
     "Played in": "183/13695 of  Eligible  decks (1 %)",
     "code": "nt"
   },
@@ -17409,7 +16532,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Last Gasp: Summon a 2/1 Mournhold Guardian with Guard.",
     "Keywords": "Guard,Last Gasp",
-    "BBCode": "[card]Sadras Agent[/card]",
     "Played in": "778/4940 of  Eligible  decks (16 %)",
     "code": "nu"
   },
@@ -17429,7 +16551,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Immune to Wounded enemy creatures. Summon: Give all enemy creatures -1/-1.",
     "Keywords": "",
-    "BBCode": "[card]Sai Sahan[/card]",
     "Played in": "249/13695 of  Eligible  decks (2 %)",
     "code": "uf"
   },
@@ -17450,7 +16571,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Pilfer: Summon the top creature of your deck.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Sails-Through-Storms[/card]",
     "Played in": "1201/13695 of  Eligible  decks (9 %)",
     "code": "nv"
   },
@@ -17468,7 +16588,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Choose an item in your discard pile. Draw it and all items with the same name from your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Salvage[/card]",
     "Played in": "63/12759 of  Eligible  decks (0 %)",
     "code": "ug"
   },
@@ -17488,7 +16607,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal. Summon: Shackle an enemy creature in this lane.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Sanctuary Pet[/card]",
     "Played in": "4209/13695 of  Eligible  decks (31 %)",
     "code": "nw"
   },
@@ -17507,7 +16625,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy an enemy creature. Give all friendly creatures in its lane +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Sanctuary Raid[/card]",
     "Played in": "342/12907 of  Eligible  decks (3 %)",
     "code": "nx"
   },
@@ -17527,7 +16644,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Rally|",
     "Keywords": "Rally",
-    "BBCode": "[card]Sarethi Scion[/card]",
     "Played in": "419/12757 of  Eligible  decks (3 %)",
     "code": "ny"
   },
@@ -17547,7 +16663,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature +5/+0 this turn.",
     "Keywords": "",
-    "BBCode": "[card]Savage Ogre[/card]",
     "Played in": "382/12757 of  Eligible  decks (3 %)",
     "code": "nz"
   },
@@ -17566,7 +16681,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Look at the top card of your deck. You may discard it. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Scout's Report[/card]",
     "Played in": "1727/4386 of  Eligible  decks (39 %)",
     "code": "nA"
   },
@@ -17584,7 +16698,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon a 1/1 Imperial Grunt in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Scouting Patrol[/card]",
     "Played in": "2231/12907 of  Eligible  decks (17 %)",
     "code": "nB"
   },
@@ -17605,7 +16718,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward. Treasure Hunt - Two actions: +1/+0",
     "Keywords": "Ward,Treasure Hunt",
-    "BBCode": "[card]Scroll Seeker[/card]",
     "Played in": "152/14266 of  Eligible  decks (1 %)",
     "code": "nC"
   },
@@ -17625,7 +16737,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Scuttler[/card]",
     "Played in": "60/12759 of  Eligible  decks (0 %)",
     "code": "nD"
   },
@@ -17645,7 +16756,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Rally. When you Rally, also give a random item in your hand +1/+1.",
     "Keywords": "Rally",
-    "BBCode": "[card]Seasoned Captain[/card]",
     "Played in": "42/12757 of  Eligible  decks (0 %)",
     "code": "uH"
   },
@@ -17665,7 +16775,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Choose a cost. Your opponent can't play cards with the chosen cost.",
     "Keywords": "",
-    "BBCode": "[card]Seducer Darkfire[/card]",
     "Played in": "90/12907 of  Eligible  decks (1 %)",
     "code": "nE"
   },
@@ -17685,7 +16794,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Pilfer: Discard the top three cards of your deck.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Seeker of the Black Arts[/card]",
     "Played in": "52/13644 of  Eligible  decks (0 %)",
     "code": "vO"
   },
@@ -17705,7 +16813,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Seething Flesh Golem attacks, deal damage equal to its power to all enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Seething Flesh Golem[/card]",
     "Played in": "78/14266 of  Eligible  decks (1 %)",
     "code": "pd"
   },
@@ -17723,7 +16830,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. If you started the game with no duplicate in your deck, your cards cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Seht's Masterwork[/card]",
     "Played in": "472/30861 of  Eligible  decks (2 %)",
     "code": "nF"
   },
@@ -17743,7 +16849,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: Consume a creature to gain power and health equal to the consumed creature's.",
     "Keywords": "Pilfer,Consume",
-    "BBCode": "[card]Senche Graveprowler[/card]",
     "Played in": "28/12757 of  Eligible  decks (0 %)",
     "code": "wh"
   },
@@ -17763,7 +16868,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Senche Noble[/card]",
     "Played in": "10/12757 of  Eligible  decks (0 %)",
     "code": "wk"
   },
@@ -17783,7 +16887,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Senche-Tiger[/card]",
     "Played in": "586/12907 of  Eligible  decks (5 %)",
     "code": "nG"
   },
@@ -17802,7 +16905,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward, +4/+0",
     "Keywords": "Ward",
-    "BBCode": "[card]Sentinel Battlemace[/card]",
     "Played in": "1910/3939 of  Eligible  decks (48 %)",
     "code": "nH"
   },
@@ -17822,7 +16924,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Put a Steel Dagger and Steel Sword into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Sentinel Reclaimer[/card]",
     "Played in": "175/14266 of  Eligible  decks (1 %)",
     "code": "xc"
   },
@@ -17842,7 +16943,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard",
     "Keywords": "Guard",
-    "BBCode": "[card]Septim Guardsman[/card]",
     "Played in": "378/12907 of  Eligible  decks (3 %)",
     "code": "nI"
   },
@@ -17862,7 +16962,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Slay: +2/+0. May move to attack creatures in the other lane.",
     "Keywords": "Slay",
-    "BBCode": "[card]Serpentine Stalker[/card]",
     "Played in": "405/13695 of  Eligible  decks (3 %)",
     "code": "nJ"
   },
@@ -17882,7 +16981,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: if you have a creature with 5 power or more, +2/+2 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Servant of Dagoth[/card]",
     "Played in": "159/12757 of  Eligible  decks (1 %)",
     "code": "nK"
   },
@@ -17901,8 +16999,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Wax: +2/+2. Wane: Silence a creature.",
-    "Keywords": "Wax,Wane,Silenc",
-    "BBCode": "[card]Servant of Ja-Kha'jay[/card]",
+    "Keywords": "Wax/Wane,Silence",
     "Played in": "84/13644 of  Eligible  decks (1 %)",
     "code": "ww"
   },
@@ -17922,7 +17019,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Equip a +3/+0 Steel Sword to a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Seyda Neen Courier[/card]",
     "Played in": "560/14266 of  Eligible  decks (4 %)",
     "code": "nL"
   },
@@ -17940,7 +17036,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Move a friendly creature. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Shadow Shift[/card]",
     "Played in": "5126/13695 of  Eligible  decks (37 %)",
     "code": "nM"
   },
@@ -17960,7 +17055,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Silence another creature or destroy an enemy support card.",
     "Keywords": "",
-    "BBCode": "[card]Shadowfen Priest[/card]",
     "Played in": "6523/13644 of  Eligible  decks (48 %)",
     "code": "nN"
   },
@@ -17980,7 +17074,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give other friendly Spriggans and Animals +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Shadowgreen Elder[/card]",
     "Played in": "173/13695 of  Eligible  decks (1 %)",
     "code": "nO"
   },
@@ -17998,7 +17091,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Look at the top three cards of your deck. Choose one to put into your opponent's hand and draw the other two.",
     "Keywords": "",
-    "BBCode": "[card]Shadowmarking[/card]",
     "Played in": "314/13703 of  Eligible  decks (2 %)",
     "code": "nP"
   },
@@ -18018,7 +17110,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give a friendly creature Cover. Your opponent can't target it with actions until your next turn.",
     "Keywords": "",
-    "BBCode": "[card]Shadowmaster[/card]",
     "Played in": "245/13703 of  Eligible  decks (2 %)",
     "code": "nQ"
   },
@@ -18039,7 +17130,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Charge. Last Gasp: Shuffle Shadowmere into your deck, give it +3/+3 and increase its cost by 3.",
     "Keywords": "Charge,Last Gasp",
-    "BBCode": "[card]Shadowmere[/card]",
     "Played in": "1215/30872 of  Eligible  decks (4 %)",
     "code": "nR"
   },
@@ -18059,7 +17149,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Veteran: Move.",
     "Keywords": "Veteran",
-    "BBCode": "[card]Shadowscale Hunter[/card]",
     "Played in": "57/13695 of  Eligible  decks (0 %)",
     "code": "tN"
   },
@@ -18079,7 +17168,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Lethal. Summon: +0/+2 if you have another creature with Lethal.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Shadowscale Partisan[/card]",
     "Played in": "248/13695 of  Eligible  decks (2 %)",
     "code": "nS"
   },
@@ -18100,7 +17188,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Summon: If you have a [neutral] card in play, put a random action into your hand.",
     "Keywords": "Guard",
-    "BBCode": "[card]Shalk Fabricant[/card]",
     "Played in": "169/14266 of  Eligible  decks (1 %)",
     "code": "nT"
   },
@@ -18120,7 +17207,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Plot: Discard your hand, then draw three cards.",
     "Keywords": "Plot",
-    "BBCode": "[card]Sharp-Eyed Ashkhan[/card]",
     "Played in": "276/12757 of  Eligible  decks (2 %)",
     "code": "nU"
   },
@@ -18140,7 +17226,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Deal 1 damage.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Sharpshooter Scout[/card]",
     "Played in": "1814/12757 of  Eligible  decks (14 %)",
     "code": "nV"
   },
@@ -18160,7 +17245,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give a creature -2/-2. When you reduce a creature's power or health with another effect, reduce it by an extra 1.",
     "Keywords": "",
-    "BBCode": "[card]Shearpoint Dragon[/card]",
     "Played in": "2636/13695 of  Eligible  decks (19 %)",
     "code": "nX"
   },
@@ -18178,7 +17262,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+2. Summon: An enemy creature loses Guard.",
     "Keywords": "",
-    "BBCode": "[card]Shield Breaker[/card]",
     "Played in": "1053/12757 of  Eligible  decks (8 %)",
     "code": "nY"
   },
@@ -18198,7 +17281,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of each turn, if you played two actions, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Shimmerene Peddler[/card]",
     "Played in": "634/14266 of  Eligible  decks (4 %)",
     "code": "nZ"
   },
@@ -18218,7 +17300,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature -2/-0 this turn. It loses Cover.",
     "Keywords": "",
-    "BBCode": "[card]Shining Saint[/card]",
     "Played in": "273/12907 of  Eligible  decks (2 %)",
     "code": "oa"
   },
@@ -18238,7 +17319,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Summon: Summon a random elixir.",
     "Keywords": "",
-    "BBCode": "[card]Shivering Apothecary[/card]",
     "Played in": "178/12907 of  Eligible  decks (1 %)",
     "code": "ob"
   },
@@ -18258,7 +17338,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 4 damage to a creature.",
     "Keywords": "",
-    "BBCode": "[card]Shocking Wamasu[/card]",
     "Played in": "206/14266 of  Eligible  decks (1 %)",
     "code": "oc"
   },
@@ -18279,7 +17358,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, Ward. When Shornhelm Champion's Ward is broken, he gains +3/+3.",
     "Keywords": "Breakthrough,Ward",
-    "BBCode": "[card]Shornhelm Champion[/card]",
     "Played in": "406/4886 of  Eligible  decks (8 %)",
     "code": "od"
   },
@@ -18299,7 +17377,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Consume a creature. Give all creatures in your hand and deck with the same name +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Shrewd Strategist[/card]",
     "Played in": "33/12907 of  Eligible  decks (0 %)",
     "code": "vT"
   },
@@ -18319,7 +17396,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. Summon: Shackle an enemy creature.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Shrieking Harpy[/card]",
     "Played in": "8620/14266 of  Eligible  decks (60 %)",
     "code": "oe"
   },
@@ -18339,7 +17415,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. When your opponent summons a creature, reduce its power to 0 until the start of your turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]Shrine Guardian[/card]",
     "Played in": "157/12907 of  Eligible  decks (1 %)",
     "code": "of"
   },
@@ -18359,7 +17434,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Siege Catapult can't attack unless your side of its lane is full.",
     "Keywords": "",
-    "BBCode": "[card]Siege Catapult[/card]",
     "Played in": "687/13644 of  Eligible  decks (5 %)",
     "code": "og"
   },
@@ -18379,7 +17453,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough",
     "Keywords": "",
-    "BBCode": "[card]Siege Crawler[/card]",
     "Played in": "30/30861 of  Eligible  decks (0 %)",
     "code": "yC"
   },
@@ -18397,7 +17470,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "If you started the game with no duplicate cards in your deck, play a random creature, item, support and action from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Siege of Stros M'Kai[/card]",
     "Played in": "501/30861 of  Eligible  decks (2 %)",
     "code": "oh"
   },
@@ -18417,7 +17489,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card if you have two other (agility) creatures.",
     "Keywords": "",
-    "BBCode": "[card]Sightless Skulk[/card]",
     "Played in": "383/13695 of  Eligible  decks (3 %)",
     "code": "oi"
   },
@@ -18437,7 +17508,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Invade, then give your Oblivion Gate a Ward.",
     "Keywords": "",
-    "BBCode": "[card]Sigil Keeper[/card]",
     "Played in": "96/14266 of  Eligible  decks (1 %)",
     "code": "xN"
   },
@@ -18457,7 +17527,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Draw a random multi-attribute card from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Silent Pilgrim[/card]",
     "Played in": "315/30861 of  Eligible  decks (1 %)",
     "code": "oj"
   },
@@ -18477,7 +17546,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy, Guard. Summon: Move a friendly creature to this lane.",
     "Keywords": "Propechy,Guard",
-    "BBCode": "[card]Silt Strider[/card]",
     "Played in": "91/13695 of  Eligible  decks (1 %)",
     "code": "ok"
   },
@@ -18497,7 +17565,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If there is a wounded enemy creature in this lane, give Silvenar Tracker Charge.",
     "Keywords": "Charge",
-    "BBCode": "[card]Silvenar Tracker[/card]",
     "Played in": "267/12757 of  Eligible  decks (2 %)",
     "code": "ol"
   },
@@ -18515,7 +17582,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+1/+1. Summon: if the wielder has 5 power or more, it gains a Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Sixth House Amulet[/card]",
     "Played in": "617/14266 of  Eligible  decks (4 %)",
     "code": "om"
   },
@@ -18535,7 +17601,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Rally. When Skar Drillmaster Rallies acreature, put a copy of the rallied creature into your hand with +1/+1/",
     "Keywords": "Rally",
-    "BBCode": "[card]Skar Drillmaster[/card]",
     "Played in": "282/12757 of  Eligible  decks (2 %)",
     "code": "on"
   },
@@ -18555,7 +17620,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 1 damage to all other creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Skaven Pyromancer[/card]",
     "Played in": "2542/12757 of  Eligible  decks (20 %)",
     "code": "oo"
   },
@@ -18576,7 +17640,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: +1/+1 for each other Skeever you've summoned this game.",
     "Keywords": "",
-    "BBCode": "[card]Skeevaton[/card]",
     "Played in": "85/30872 of  Eligible  decks (0 %)",
     "code": "op"
   },
@@ -18595,7 +17658,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon a Skeever in each lane with power and health equal to the number of Infestations you've played. Shuffle two copies of this into your deck.",
     "Keywords": "",
-    "BBCode": "[card]Skeever Infestation[/card]",
     "Played in": "383/12757 of  Eligible  decks (3 %)",
     "code": "oq"
   },
@@ -18615,7 +17677,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard, Summon: Give all creatures in your discard pile +2/+2. Last Gasp: Draw a random creature from your discard pile.",
     "Keywords": "Guard,Last Gasp",
-    "BBCode": "[card]Skeletal Dragon[/card]",
     "Played in": "1219/13644 of  Eligible  decks (9 %)",
     "code": "or"
   },
@@ -18635,7 +17696,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Consume a creature. Deal damage equal to its power to a creature.",
     "Keywords": "Consume",
-    "BBCode": "[card]Skeletal Mage[/card]",
     "Played in": "98/14266 of  Eligible  decks (1 %)",
     "code": "vL"
   },
@@ -18655,7 +17715,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Give other friendly Skeletons +1/+1.",
     "Keywords": "Guard",
-    "BBCode": "[card]Skeleton Champion[/card]",
     "Played in": "163/13644 of  Eligible  decks (1 %)",
     "code": "os"
   },
@@ -18675,7 +17734,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Your items cost 1 less",
     "Keywords": "",
-    "BBCode": "[card]Skilled Blacksmith[/card]",
     "Played in": "973/14266 of  Eligible  decks (7 %)",
     "code": "ot"
   },
@@ -18695,7 +17753,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Skingrad Patroller[/card]",
     "Played in": "105/12907 of  Eligible  decks (1 %)",
     "code": "ou"
   },
@@ -18715,7 +17772,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature +0/+2 and Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Skinned Hound[/card]",
     "Played in": "879/13644 of  Eligible  decks (6 %)",
     "code": "ov"
   },
@@ -18733,7 +17789,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Give a creature +2/+0 and Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Skirmisher's Elixir[/card]",
     "Played in": "283/12757 of  Eligible  decks (2 %)",
     "code": "ow"
   },
@@ -18767,7 +17822,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give a creature Lethal.",
     "Keywords": "Lethal",
-    "BBCode": "[card]Skooma Racketeer[/card]",
     "Played in": "892/13695 of  Eligible  decks (7 %)",
     "code": "ox"
   },
@@ -18788,7 +17842,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Friendly Pilfer abilities are also Slay abilities.",
     "Keywords": "Pilfer,Slay",
-    "BBCode": "[card]Skooma Underboss[/card]",
     "Played in": "276/13695 of  Eligible  decks (2 %)",
     "code": "oy"
   },
@@ -18808,7 +17861,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Battle an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Skyborn Dragon[/card]",
     "Played in": "400/12757 of  Eligible  decks (3 %)",
     "code": "oz"
   },
@@ -18826,7 +17878,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Activate: Equip a friendly creature with a Steel Dagger. If Skyforge has equipped 3 daggers, it changes into Underforge.",
     "Keywords": "",
-    "BBCode": "[card]Skyforge[/card]",
     "Played in": "241/12759 of  Eligible  decks (2 %)",
     "code": "oA"
   },
@@ -18861,7 +17912,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Deal 2 damage to an enemy creature or give a friendly creature +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Skywatch Vindicator[/card]",
     "Played in": "186/4500 of  Eligible  decks (4 %)",
     "code": "oB"
   },
@@ -18879,7 +17929,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon a Slaughterfish in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Slaughterfish Spawning[/card]",
     "Played in": "506/30861 of  Eligible  decks (2 %)",
     "Evolves from:": "Slaughterfish",
     "code": "oD"
@@ -18900,7 +17949,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Slinking Jackal[/card]",
     "Played in": "93/13695 of  Eligible  decks (1 %)",
     "code": "wd"
   },
@@ -18920,7 +17968,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Draw a card if you have 7 or more max magicka.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Sly Marshblade[/card]",
     "Played in": "927/13695 of  Eligible  decks (7 %)",
     "code": "oE"
   },
@@ -18938,7 +17985,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give friendly creatures with Pilfer +2/+0 and Breakthrough this turn.",
     "Keywords": "Pilfer,Breakthrough",
-    "BBCode": "[card]Smash and Grab[/card]",
     "Played in": "56/12907 of  Eligible  decks (0 %)",
     "code": "wv"
   },
@@ -18960,7 +18006,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Drain. At the end of your turn, if you played three cards this turn, Smuggler Underboss is immune to damage until your next turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Smuggled Underboss[/card]",
     "Played in": "4/861 of  Eligible  decks (0 %)",
     "code": "Bo"
   },
@@ -18978,7 +18023,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Draw four random 0-cost cards.",
     "Keywords": "",
-    "BBCode": "[card]Smuggler's Haul[/card]",
     "Played in": "506/13695 of  Eligible  decks (4 %)",
     "code": "oF"
   },
@@ -18996,7 +18040,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+1. Summon: Give the wielder Drain this turn.",
     "Keywords": "Drain",
-    "BBCode": "[card]Snake Tooth Necklace[/card]",
     "Played in": "1073/13695 of  Eligible  decks (8 %)",
     "code": "oG"
   },
@@ -19016,7 +18059,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+2/+0 while you have the most creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Snow Wolf[/card]",
     "Played in": "208/12907 of  Eligible  decks (2 %)",
     "code": "oI"
   },
@@ -19036,7 +18078,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Summon: +1/+1 if you have another creature with Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Snowhawk detachment[/card]",
     "Played in": "230/12907 of  Eligible  decks (2 %)",
     "code": "oJ"
   },
@@ -19056,7 +18097,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Can attack an additional time on each turn.",
     "Keywords": "",
-    "BBCode": "[card]Snowy Sabre Cat[/card]",
     "Played in": "437/13695 of  Eligible  decks (3 %)",
     "code": "oK"
   },
@@ -19076,7 +18116,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Solitude Stalwart[/card]",
     "Played in": "213/12907 of  Eligible  decks (2 %)",
     "code": "oL"
   },
@@ -19095,7 +18134,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Silence a creature, then deal 2 damage to it.",
     "Keywords": "",
-    "BBCode": "[card]Sorcerer's Negation[/card]",
     "Played in": "3425/4886 of  Eligible  decks (70 %)",
     "code": "oM"
   },
@@ -19115,7 +18153,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Exlat 3: +4/+4. At the end of your turn, if you have an Exalted creature in play, summon an Awakened Imperfect.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Sotha Sil[/card]",
     "Played in": "711/14266 of  Eligible  decks (5 %)",
     "code": "oN"
   },
@@ -19133,7 +18170,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "For each attribute your opponent is playing, Banish the top 2 cards of your opponent's deck. Empower: +1 card per attribute.",
     "Keywords": "Empower",
-    "BBCode": "[card]Soul Shred[/card]",
     "Played in": "76/14271 of  Eligible  decks (1 %)",
     "code": "tP"
   },
@@ -19151,7 +18187,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Sacrifice a creature to summon a 3/2 Sundered Shade in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Soul Split[/card]",
     "Played in": "1126/14266 of  Eligible  decks (8 %)",
     "code": "oO"
   },
@@ -19169,7 +18204,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Level 1: Draw a creature from your discard pile. \nLevel 2: Draw a creature from your discard pile and give it +2/+2. \nLevel 3: Draw a creature from your discard pile and give it +5/+5.",
     "Keywords": "",
-    "BBCode": "[card]Soul Tear[/card]",
     "Played in": "3275/13644 of  Eligible  decks (24 %)",
     "code": "oP"
   },
@@ -19189,7 +18223,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Soul Wraith[/card]",
     "Played in": "47/14266 of  Eligible  decks (0 %)",
     "code": "uh"
   },
@@ -19207,7 +18240,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Costs 1 less for each Unique creature in your discard pile. Banish a creature. Deal 3 damage to all enemies.",
     "Keywords": "",
-    "BBCode": "[card]Soulburst[/card]",
     "Played in": "89/30872 of  Eligible  decks (0 %)",
     "code": "ui"
   },
@@ -19227,7 +18259,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If you have more health than your opponent, the next card you play this turn costs 6 less.",
     "Keywords": "",
-    "BBCode": "[card]Soulrest Marshal[/card]",
     "Played in": "668/13695 of  Eligible  decks (5 %)",
     "code": "oQ"
   },
@@ -19245,7 +18276,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Enemy creatures lose Cover.",
     "Keywords": "",
-    "BBCode": "[card]Sound the Alarm[/card]",
     "Played in": "22/12907 of  Eligible  decks (0 %)",
     "code": "ue"
   },
@@ -19266,7 +18296,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Last Gasp: Deals 5 damage to the enemy player.",
     "Keywords": "Guard,Last Gasp",
-    "BBCode": "[card]Sower of Revenge[/card]",
     "Played in": "1764/3890 of  Eligible  decks (45 %)",
     "code": "oR"
   },
@@ -19286,7 +18315,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard",
     "Keywords": "Guard,Prophecy",
-    "BBCode": "[card]Sparking Spider[/card]",
     "Played in": "326/30861 of  Eligible  decks (1 %)",
     "code": "oS"
   },
@@ -19306,7 +18334,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When a friendly creature equips an item, deal 1 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Sparksmith[/card]",
     "Played in": "98/14271 of  Eligible  decks (1 %)",
     "code": "uj"
   },
@@ -19326,7 +18353,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Spawn Mother/Baliwog[/card]",
     "Played in": "60/12907 of  Eligible  decks (0 %)",
     "code": "oT"
   },
@@ -19347,7 +18373,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After you play an action, put a random action into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Speaker Terenus[/card]",
     "Played in": "337/14266 of  Eligible  decks (2 %)",
     "code": "oU"
   },
@@ -19366,7 +18391,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy. +3/+3. Instead of equipping Spear of Embers, you may throw it at an enemy creature to deal 3 damage.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Spear of Embers[/card]",
     "Played in": "231/14266 of  Eligible  decks (2 %)",
     "code": "oV"
   },
@@ -19385,7 +18409,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon a random 1-cost creature in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Spellsword's Summoning[/card]",
     "Played in": "240/4355 of  Eligible  decks (6 %)",
     "code": "oW"
   },
@@ -19405,7 +18428,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Fill your lanes with 2/1 Spiderlings. Last Gasp: Destroy all friendly Spiderlings.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Spider Daedra[/card]",
     "Played in": "111/13695 of  Eligible  decks (1 %)",
     "code": "oX"
   },
@@ -19423,7 +18445,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, summon a random Spider.",
     "Keywords": "",
-    "BBCode": "[card]Spider Lair[/card]",
     "Played in": "175/13695 of  Eligible  decks (1 %)",
     "code": "oY"
   },
@@ -19443,7 +18464,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Summon: Draw a card.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Spider Worker[/card]",
     "Played in": "723/30861 of  Eligible  decks (2 %)",
     "code": "oZ"
   },
@@ -19463,7 +18483,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Gaint +1 max magicka.",
     "Keywords": "",
-    "BBCode": "[card]Spine of Eldersblood[/card]",
     "Played in": "1719/13644 of  Eligible  decks (13 %)",
     "code": "pa"
   },
@@ -19483,7 +18502,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: +4/+4 for each Spiny Haj Mota in your discard pile.",
     "Keywords": "",
-    "BBCode": "[card]Spiny Haj Mota[/card]",
     "Played in": "44/13644 of  Eligible  decks (0 %)",
     "code": "uk"
   },
@@ -19501,7 +18519,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 7 damage to a creature. Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Spirit Knife[/card]",
     "Played in": "498/14266 of  Eligible  decks (3 %)",
     "code": "pb"
   },
@@ -19521,7 +18538,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Destroy an enemy creature with 2 power or less.",
     "Keywords": "",
-    "BBCode": "[card]Spiteful Dremora[/card]",
     "Played in": "128/12907 of  Eligible  decks (1 %)",
     "code": "pc"
   },
@@ -19539,7 +18555,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Draw two cards. Empower: Costs 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Spoils of War[/card]",
     "Played in": "689/13695 of  Eligible  decks (5 %)",
     "code": "um"
   },
@@ -19557,7 +18572,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "A friendly creature Battles an enemy creature.",
     "Keywords": "",
-    "BBCode": "[card]Squish the Wimpy[/card]",
     "Played in": "711/13644 of  Eligible  decks (5 %)",
     "code": "pe"
   },
@@ -19575,7 +18589,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Prophecy, Mobilize. +1/+1. Summon: The wielder deals 2 damage.",
     "Keywords": "",
-    "BBCode": "[card]Staff of Ice[/card]",
     "Played in": "103/14266 of  Eligible  decks (1 %)",
     "code": "uo"
   },
@@ -19593,7 +18606,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+3/+0. When the wielder attacks, it deals 1 damage to all enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Staff of Sparks[/card]",
     "Played in": "193/14266 of  Eligible  decks (1 %)",
     "code": "pf"
   },
@@ -19614,7 +18626,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Slay: +1/+1",
     "Keywords": "Slay",
-    "BBCode": "[card]Stalking Shadowscale[/card]",
     "Played in": "387/13644 of  Eligible  decks (3 %)",
     "code": "ph"
   },
@@ -19634,7 +18645,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: +0/+2 and Guard if the top card of your deck is (Endurance).",
     "Keywords": "Guard",
-    "BBCode": "[card]Stalwart Ally[/card]",
     "Played in": "352/13644 of  Eligible  decks (3 %)",
     "code": "pi"
   },
@@ -19654,7 +18664,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough, You can't be damaged by actions or supports.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Stampede Sentinel[/card]",
     "Played in": "163/12757 of  Eligible  decks (1 %)",
     "code": "pj"
   },
@@ -19674,7 +18683,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Breakthrough. Stampeding Mammoth has +2/+0 for each other friendly creature with breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Stampeding Mammoth[/card]",
     "Played in": "67/13644 of  Eligible  decks (0 %)",
     "code": "pk"
   },
@@ -19692,7 +18700,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Give a creature Guard. Draw a card.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Stand Watch[/card]",
     "Played in": "231/12907 of  Eligible  decks (2 %)",
     "code": "pl"
   },
@@ -19713,7 +18720,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Immune to Silence. Your unique cards cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Star-Sung Bard[/card]",
     "Played in": "144/30861 of  Eligible  decks (0 %)",
     "code": "pm"
   },
@@ -19734,7 +18740,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward. Summon: +1/+1 for each action in your discard pile.",
     "Keywords": "Ward",
-    "BBCode": "[card]Stealer of Secrets[/card]",
     "Played in": "338/14266 of  Eligible  decks (2 %)",
     "code": "pp"
   },
@@ -19754,7 +18759,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: If you have a (neutral) card in your hand, summon a 1/1 Reconstructed Spider.",
     "Keywords": "",
-    "BBCode": "[card]Steam Constructor[/card]",
     "Played in": "401/30861 of  Eligible  decks (1 %)",
     "code": "pq"
   },
@@ -19772,7 +18776,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+2",
     "Keywords": "",
-    "BBCode": "[card]Steel Scimitar[/card]",
     "Played in": "2906/12757 of  Eligible  decks (23 %)",
     "code": "pr"
   },
@@ -19790,7 +18793,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+3/+0",
     "Keywords": "",
-    "BBCode": "[card]Steel Sword[/card]",
     "Played in": "212/14266 of  Eligible  decks (1 %)",
     "code": "ps"
   },
@@ -19810,7 +18812,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Veteran: Set each friendly creature's power equal to its health.",
     "Keywords": "",
-    "BBCode": "[card]Steel-Eyed Visionary[/card]",
     "Played in": "36/13644 of  Eligible  decks (0 %)",
     "code": "tp"
   },
@@ -19830,7 +18831,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Slay: Give friendly Orcs +1/+1.",
     "Keywords": "Slay",
-    "BBCode": "[card]Steelheart Vanquisher[/card]",
     "Played in": "205/13644 of  Eligible  decks (2 %)",
     "code": "pt"
   },
@@ -19848,7 +18848,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Double the wielder's power and health. The wielder can only attack creatures.",
     "Keywords": "",
-    "BBCode": "[card]Stendarr's Hammer[/card]",
     "Played in": "77/12757 of  Eligible  decks (1 %)",
     "code": "pu"
   },
@@ -19866,7 +18865,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "+1/+1. Summon: Summon a 0/1 Sheepish Dunmer in the other lane. Last Gasp: Give Sheepish Dunmer his pants.",
     "Keywords": "",
-    "BBCode": "[card]Stolen Pants[/card]",
     "Played in": "102/30861 of  Eligible  decks (0 %)",
     "code": "pv"
   },
@@ -19884,7 +18882,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy an enemy creature if you have a creature with higher power.",
     "Keywords": "",
-    "BBCode": "[card]Stone Throw[/card]",
     "Played in": "382/12757 of  Eligible  decks (3 %)",
     "code": "pw"
   },
@@ -19904,7 +18901,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card if you have two other (endurance) creatures.",
     "Keywords": "",
-    "BBCode": "[card]Stonehill Mammoth[/card]",
     "Played in": "115/13644 of  Eligible  decks (1 %)",
     "code": "px"
   },
@@ -19924,7 +18920,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Summon: Deal 1 damage to an enemy creature for each friendly Orc.",
     "Keywords": "",
-    "BBCode": "[card]Stoneshard Orc[/card]",
     "Played in": "496/12757 of  Eligible  decks (4 %)",
     "code": "py"
   },
@@ -19944,7 +18939,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Stonetooth Scrapper[/card]",
     "Played in": "235/13644 of  Eligible  decks (2 %)",
     "code": "pz"
   },
@@ -19964,7 +18958,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the end of your turn, if three or more friendly creatures died this turn, summon a 2/2 Rallying Stormcloak.",
     "Keywords": "",
-    "BBCode": "[card]Stormcloak Avenger[/card]",
     "Played in": "22/12757 of  Eligible  decks (0 %)",
     "code": "pB"
   },
@@ -19982,7 +18975,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Oigoing. At the end of your turn, if a creature died this turn, deal 2 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Stormcloak Camp[/card]",
     "Played in": "267/12757 of  Eligible  decks (2 %)",
     "code": "pC"
   },
@@ -20002,7 +18994,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge. Last Gasp: Put a 5/5 Stormcloak Battalion in your hand.",
     "Keywords": "Charge,Last Gasp",
-    "BBCode": "[card]Stormcloak Vanguard[/card]",
     "Played in": "2285/12757 of  Eligible  decks (18 %)",
     "code": "pD"
   },
@@ -20022,7 +19013,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "While you have 7 or more max magicka, Stormhold Henchman has +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Stormhold Henchman[/card]",
     "Played in": "234/13644 of  Eligible  decks (2 %)",
     "code": "pE"
   },
@@ -20042,7 +19032,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Stoutheart Giant[/card]",
     "Played in": "55/12757 of  Eligible  decks (0 %)",
     "code": "pF"
   },
@@ -20060,7 +19049,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Transform a creature in your hand into a random creature that costs 2 more. Reduce its cost by 2.",
     "Keywords": "",
-    "BBCode": "[card]Strange Brew[/card]",
     "Played in": "3/14266 of  Eligible  decks (0 %)",
     "code": "Bl"
   },
@@ -20078,7 +19066,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon two 1/1 Recruits in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Strategic Deployment[/card]",
     "Played in": "92/13644 of  Eligible  decks (1 %)",
     "code": "uq"
   },
@@ -20096,7 +19083,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Uses: 3. Activate: Summon a 0/1 Target with Guard for you or your opponent.",
     "Keywords": "Guard",
-    "BBCode": "[card]Strategist's Map[/card]",
     "Played in": "55/12907 of  Eligible  decks (0 %)",
     "code": "sY"
   },
@@ -20116,7 +19102,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Give all enemy creatures in this lane Guard.",
     "Keywords": "Guard",
-    "BBCode": "[card]Stronghold Eradicator[/card]",
     "Played in": "415/30861 of  Eligible  decks (1 %)",
     "Evolves from:": "Stronghold Prototype",
     "code": "pG"
@@ -20137,7 +19122,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Last Gasp: Put two random Dwemer into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Stronghold Incubator[/card]",
     "Played in": "374/30861 of  Eligible  decks (1 %)",
     "Evolves from:": "Stronghold Prototype",
     "code": "pH"
@@ -20158,7 +19142,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card if you have two other (strength) creatures.",
     "Keywords": "",
-    "BBCode": "[card]Stronghold Patrol[/card]",
     "Played in": "444/12757 of  Eligible  decks (3 %)",
     "code": "pI"
   },
@@ -20178,7 +19161,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Studious Greybeard",
     "Keywords": "",
-    "BBCode": "[card]Studious Greybeard[/card]",
     "Played in": "331/14266 of  Eligible  decks (2 %)",
     "code": "pL"
   },
@@ -20198,7 +19180,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Each player draws two cards.",
     "Keywords": "",
-    "BBCode": "[card]Studium Headmaster[/card]",
     "Played in": "74/14266 of  Eligible  decks (1 %)",
     "code": "pM"
   },
@@ -20216,7 +19197,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 3. Activate: Shuffle all cards in your hand with Prophecy into your deck and draw that many cards.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Summerset Orrery[/card]",
     "Played in": "53/14266 of  Eligible  decks (0 %)",
     "code": "pN"
   },
@@ -20236,7 +19216,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Other friendly creatures in this lane have +0/+1.",
     "Keywords": "",
-    "BBCode": "[card]Summerset Shieldmage[/card]",
     "Played in": "126/12907 of  Eligible  decks (1 %)",
     "code": "pO"
   },
@@ -20258,7 +19237,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Permanently Shackle another friendly creature to draw an action of your choice from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Sun-in-Shadow[/card]",
     "Played in": "850/1118 of  Eligible  decks (76 %)",
     "code": "pP"
   },
@@ -20278,7 +19256,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature +0/+2.",
     "Keywords": "",
-    "BBCode": "[card]Sunhold Medic[/card]",
     "Played in": "185/12907 of  Eligible  decks (1 %)",
     "code": "pQ"
   },
@@ -20298,7 +19275,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Sunken One[/card]",
     "Played in": "9/14266 of  Eligible  decks (0 %)",
     "code": "xT"
   },
@@ -20318,7 +19294,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have another creature in each lane, gain +1 max magicka.",
     "Keywords": "",
-    "BBCode": "[card]Supply Runner[/card]",
     "Played in": "64/13644 of  Eligible  decks (0 %)",
     "code": "ur"
   },
@@ -20336,7 +19311,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Silence a creature.",
     "Keywords": "",
-    "BBCode": "[card]Suppress[/card]",
     "Played in": "1136/13644 of  Eligible  decks (8 %)",
     "code": "pR"
   },
@@ -20356,7 +19330,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a Flame Atronach in each lane. When you summon another creature, deal 2 damage to your opponent.",
     "Keywords": "",
-    "BBCode": "[card]Supreme Atromancer[/card]",
     "Played in": "2569/14266 of  Eligible  decks (18 %)",
     "Evolves from:": "Expert Atromancer",
     "code": "pS"
@@ -20393,7 +19366,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Plot: Put a random 0-cost card into your hand.",
     "Keywords": "Plot",
-    "BBCode": "[card]Suran Pawnbroker[/card]",
     "Played in": "1148/13695 of  Eligible  decks (8 %)",
     "code": "pT"
   },
@@ -20413,7 +19385,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: Another friendly creature ignores Guard this turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]Suthay Bootlegger[/card]",
     "Played in": "85/13695 of  Eligible  decks (1 %)",
     "code": "wV"
   },
@@ -20433,7 +19404,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Swamp Leviathan[/card]",
     "Played in": "165/13644 of  Eligible  decks (1 %)",
     "code": "pU"
   },
@@ -20451,7 +19421,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a creature an extra attack this turn.",
     "Keywords": "",
-    "BBCode": "[card]Swift Strike[/card]",
     "Played in": "1189/13695 of  Eligible  decks (9 %)",
     "code": "pV"
   },
@@ -20471,7 +19440,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge|",
     "Keywords": "Charge",
-    "BBCode": "[card]Swiftwing Dragon[/card]",
     "Played in": "355/12757 of  Eligible  decks (3 %)",
     "code": "pW"
   },
@@ -20491,7 +19459,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Put a random 0-cost card into your hand. After you play a 0-cost card, Swims-at-Night gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Swims-at-Night[/card]",
     "Played in": "396/13695 of  Eligible  decks (3 %)",
     "code": "pX"
   },
@@ -20509,7 +19476,6 @@ module.exports = { cards: [
     "Soul Trap": "This card belongs to the Madhouse Collection and cannot be Soul Trapped.",
     "Text": "Ongoing. When you play a 0-cost card, deal 1 damage to your opponent and gain 1 health.",
     "Keywords": "",
-    "BBCode": "[card]Swindler's Market[/card]",
     "Played in": "706/13695 of  Eligible  decks (5 %)",
     "code": "pZ"
   },
@@ -20527,7 +19493,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+2/+0. Summon: The wielder deals 2 damage to itself and another creature.",
     "Keywords": "",
-    "BBCode": "[card]Sword of the Inferno[/card]",
     "Played in": "505/12757 of  Eligible  decks (4 %)",
     "code": "qa"
   },
@@ -20547,7 +19512,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: This lane becomes Dementia.",
     "Keywords": "",
-    "BBCode": "[card]Syl, Duchess of Dementia[/card]",
     "Played in": "459/12757 of  Eligible  decks (4 %)",
     "code": "fc"
   },
@@ -20568,7 +19532,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Tavyar the Knight/Rayvat the Mage[/card]",
     "Played in": "251/4886 of  Eligible  decks (5 %)",
     "code": "mK"
   },
@@ -20588,7 +19551,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough, Charge. Last Gasp: Summon a 4/4 Durzog.",
     "Keywords": "Breakthrough,Charge,Last Gasp",
-    "BBCode": "[card]Tazkad the Packmaster[/card]",
     "Played in": "5162/13695 of  Eligible  decks (38 %)",
     "code": "qc"
   },
@@ -20608,7 +19570,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. At the end of your turn, if Tel Vos Magister has a Ward, you gain a Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Tel Vos Magister[/card]",
     "Played in": "1459/14266 of  Eligible  decks (10 %)",
     "code": "qd"
   },
@@ -20626,7 +19587,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Equip all your items in play to a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Telekinesis[/card]",
     "Played in": "111/14271 of  Eligible  decks (1 %)",
     "code": "us"
   },
@@ -20646,7 +19606,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Put a random action into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Telvanni Arcanist[/card]",
     "Played in": "889/14266 of  Eligible  decks (6 %)",
     "code": "qe"
   },
@@ -20668,7 +19627,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Last Gasp: Draw a card. If Telvanni Catspaw was sacrificed, draw two cards instead.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Telvanni Catspaw[/card]",
     "Played in": "625/1118 of  Eligible  decks (56 %)",
     "code": "qf"
   },
@@ -20688,7 +19646,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a ... (intelligence) card in play, draw a random action from your deck. (endurance) card in play, summon a Risen Dead in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Telvanni Oathman[/card]",
     "Played in": "261/13695 of  Eligible  decks (2 %)",
     "code": "qg"
   },
@@ -20708,7 +19665,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Exalt 3: Summon a 5/3 Flame Atronach with Breakthrough.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Temple Conjurer[/card]",
     "Played in": "489/14266 of  Eligible  decks (3 %)",
     "code": "qh"
   },
@@ -20730,7 +19686,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Trigger the Exalt of each friendly creature.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Temple Patriarch[/card]",
     "Played in": "161/1015 of  Eligible  decks (16 %)",
     "code": "qi"
   },
@@ -20750,7 +19705,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Consume a creature. You gain health equal to its health.",
     "Keywords": "Consume",
-    "BBCode": "[card]Tenarr Zalviit Lurker[/card]",
     "Played in": "40/12907 of  Eligible  decks (0 %)",
     "code": "vN"
   },
@@ -20770,7 +19724,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the start of your turn, Consume a random creature. If you can't sacrifice Tenarr Zalvitt Nightstalker.",
     "Keywords": "Consume",
-    "BBCode": "[card]Tenarr Zalviit Nightstalker[/card]",
     "Played in": "15/13695 of  Eligible  decks (0 %)",
     "code": "vX"
   },
@@ -20790,7 +19743,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Pilfer: +1/+1. Can attack an additional time each turn.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Tenmar Swiftclaw[/card]",
     "Played in": "333/13695 of  Eligible  decks (2 %)",
     "code": "qj"
   },
@@ -20810,7 +19762,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Charge, Lethal",
     "Keywords": "Charge,Lethal",
-    "BBCode": "[card]Territorial Viper[/card]",
     "Played in": "2626/13695 of  Eligible  decks (19 %)",
     "code": "qk"
   },
@@ -20830,7 +19781,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: This lane becomes Mania.",
     "Keywords": "",
-    "BBCode": "[card]Thadon, Duke of Mania[/card]",
     "Played in": "455/12907 of  Eligible  decks (4 %)",
     "code": "fe"
   },
@@ -20848,7 +19798,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. Your High Elves cost 1 less. You can't be damaged by actions.",
     "Keywords": "",
-    "BBCode": "[card]Thalmor Embassy[/card]",
     "Played in": "139/14266 of  Eligible  decks (1 %)",
     "code": "ql"
   },
@@ -20868,7 +19817,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "After you play an action, summon a 1/1 Thalmor Soldier.",
     "Keywords": "",
-    "BBCode": "[card]Thalmor Justiciar[/card]",
     "Played in": "149/12907 of  Eligible  decks (1 %)",
     "code": "qm"
   },
@@ -20889,7 +19837,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Immune to Lethal. Slay: Discard all copies of the slain creature from the opponent's deck.",
     "Keywords": "Lethal,Slay",
-    "BBCode": "[card]The Black Dragon[/card]",
     "Played in": "2952/12907 of  Eligible  decks (23 %)",
     "code": "qn"
   },
@@ -20907,7 +19854,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Destroy a creature. Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]The Crisis Begins[/card]",
     "Played in": "57/12907 of  Eligible  decks (0 %)",
     "code": "xo"
   },
@@ -20927,7 +19873,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Only one creature in this lane can attack each turn.",
     "Keywords": "Guard",
-    "BBCode": "[card]The Gatekeeper[/card]",
     "Played in": "868/13644 of  Eligible  decks (6 %)",
     "code": "qo"
   },
@@ -20947,7 +19892,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw a card from your opponent's discard pile. Pilfer: Reveal a random unrevealed card from your opponent's hand.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]The Gray Fox[/card]",
     "Played in": "85/13695 of  Eligible  decks (1 %)",
     "code": "yB"
   },
@@ -20966,7 +19910,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing: When you have 0 or less health, sacrifice The Mechanical Heart, set your health to 10, and restore a rune.",
     "Keywords": "",
-    "BBCode": "[card]The Mechanical Heart[/card]",
     "Played in": "350/12907 of  Eligible  decks (3 %)",
     "code": "qp"
   },
@@ -20985,7 +19928,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: Unlimited. Activate: Summon 0/1 Target with Guard for your opponent. Once 20 enemy creatures have died, deal 20 damage to your opponent, gain 20 health, and draw up to 10 cards.",
     "Keywords": "Guard",
-    "BBCode": "[card]The Night Mother[/card]",
     "Played in": "1233/30861 of  Eligible  decks (4 %)",
     "code": "qq"
   },
@@ -21003,7 +19945,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Deal 10 damage to each creature.",
     "Keywords": "",
-    "BBCode": "[card]The Red Year[/card]",
     "Played in": "836/12757 of  Eligible  decks (7 %)",
     "code": "qr"
   },
@@ -21021,7 +19962,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. Summon: Crown a creature. At the end of each player's turn, give crowned creatures +1/+1. If there is no crowned creature in play, when either player summons a Unique creature, crown it.",
     "Keywords": "",
-    "BBCode": "[card]The Ruby Throne[/card]",
     "Played in": "78/30861 of  Eligible  decks (0 %)",
     "code": "ut"
   },
@@ -21039,7 +19979,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Costs 3 less for each time you've Pilfered or Drained this turn. Deal damage to your opponent destroying their front rune. Steal the card drawn from the rune. If it's a Prophecy, you may play it for free.",
     "Keywords": "",
-    "BBCode": "[card]The Ultimate Heist[/card]",
     "Played in": "50/13695 of  Eligible  decks (0 %)",
     "code": "yn"
   },
@@ -21059,7 +19998,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard, Ward.",
     "Keywords": "Guard,Ward",
-    "BBCode": "[card]Therana's Lawman[/card]",
     "Played in": "128/14266 of  Eligible  decks (1 %)",
     "code": "qu"
   },
@@ -21079,7 +20017,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "After you play an action, shuffle three 0-cost copies of that action into your deck.",
     "Keywords": "",
-    "BBCode": "[card]Therana[/card]",
     "Played in": "983/14271 of  Eligible  decks (7 %)",
     "code": "qt"
   },
@@ -21099,7 +20036,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: See a vision of two of your opponent's cards. Guess which one is in their hand. If you're right, draw a copy of it.",
     "Keywords": "",
-    "BBCode": "[card]Thief of Dreams[/card]",
     "Played in": "470/14266 of  Eligible  decks (3 %)",
     "code": "qv"
   },
@@ -21117,7 +20053,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Deal 3 damage to your opponent and gain 3 health.",
     "Keywords": "",
-    "BBCode": "[card]Thievery[/card]",
     "Played in": "327/13703 of  Eligible  decks (2 %)",
     "code": "qw"
   },
@@ -21137,7 +20072,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When you draw a card on your turn, reduce its cost by 1.",
     "Keywords": "",
-    "BBCode": "[card]Thieves Guild Fence[/card]",
     "Played in": "624/13695 of  Eligible  decks (5 %)",
     "code": "qx"
   },
@@ -21157,7 +20091,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Draw a card. If it costs 7 or more, reduce its cost by 1.",
     "Keywords": "",
-    "BBCode": "[card]Thieves Guild Recruit[/card]",
     "Played in": "7171/13695 of  Eligible  decks (52 %)",
     "Evolves from:": "Guild Recruit",
     "code": "qy"
@@ -21178,7 +20111,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Steal the top card of the opponent's deck and replace it with a Counterfeit Trinket.",
     "Keywords": "",
-    "BBCode": "[card]Thieves Guild Shadowfoot[/card]",
     "Played in": "1091/12907 of  Eligible  decks (8 %)",
     "code": "qz"
   },
@@ -21196,7 +20128,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Friendly creatures have Pilfer: +1/+1.",
     "Keywords": "Pilfer",
-    "BBCode": "[card]Thieves' Den[/card]",
     "Played in": "1033/13695 of  Eligible  decks (8 %)",
     "code": "qA"
   },
@@ -21217,7 +20148,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Summon: Gain +1 max magicka. When your magicka increases Thorn Histmage gains +1/+0.",
     "Keywords": "Guard",
-    "BBCode": "[card]Thorn Histmage[/card]",
     "Played in": "2436/4386 of  Eligible  decks (56 %)",
     "code": "qB"
   },
@@ -21238,7 +20168,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Beast Form: +1/+1",
     "Keywords": "",
-    "BBCode": "[card]Thornwell Terror[/card]",
     "Played in": "146/13644 of  Eligible  decks (1 %)",
     "code": "qC"
   },
@@ -21258,7 +20187,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Set a creature's health to 1.",
     "Keywords": "",
-    "BBCode": "[card]Three Feather Warchief[/card]",
     "Played in": "60/13644 of  Eligible  decks (0 %)",
     "code": "yy"
   },
@@ -21277,7 +20205,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. +3/+3. Summon: Shackle the wielder.",
     "Keywords": "Guard",
-    "BBCode": "[card]Throne Aligned[/card]",
     "Played in": "226/14266 of  Eligible  decks (2 %)",
     "code": "qD"
   },
@@ -21297,7 +20224,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 1 damage to all enemy creatures in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Tiny Dragon[/card]",
     "Played in": "403/12759 of  Eligible  decks (3 %)",
     "code": "qE"
   },
@@ -21315,7 +20241,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+2. Summon: Draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Tome of Alteration[/card]",
     "Played in": "1130/14266 of  Eligible  decks (8 %)",
     "code": "qF"
   },
@@ -21335,7 +20260,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. Pilfer: Gain 2 magicka.",
     "Keywords": "Charge,Pilfer",
-    "BBCode": "[card]Torval Crook[/card]",
     "Played in": "510/13695 of  Eligible  decks (4 %)",
     "code": "qG"
   },
@@ -21355,7 +20279,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Slay: Gain magicka this turn equal to the slain creature's cost.",
     "Keywords": "Slay",
-    "BBCode": "[card]Torval Extortionist[/card]",
     "Played in": "303/13695 of  Eligible  decks (2 %)",
     "code": "qH"
   },
@@ -21375,7 +20298,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Your support cards with Activate abilities have unlimited uses.",
     "Keywords": "",
-    "BBCode": "[card]Tower Alchemist[/card]",
     "Played in": "497/12907 of  Eligible  decks (4 %)",
     "code": "qI"
   },
@@ -21393,7 +20315,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing: When you summon a creature, give it +1/+1 if it shares a type with the top creature in your deck.",
     "Keywords": "",
-    "BBCode": "[card]Training Grounds[/card]",
     "Played in": "152/30861 of  Eligible  decks (0 %)",
     "code": "so"
   },
@@ -21411,7 +20332,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Betray. Deal 2 damage to all enemy creatures in a lane.",
     "Keywords": "Betray",
-    "BBCode": "[card]Traitor's Flames[/card]",
     "Played in": "72/14266 of  Eligible  decks (1 %)",
     "code": "qJ"
   },
@@ -21431,7 +20351,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ongoing. While you have a creature in each lane, your creatures and actions cost 1 less.",
     "Keywords": "",
-    "BBCode": "[card]Transitus Shrine[/card]",
     "Played in": "120/356 of  Eligible  decks (34 %)",
     "code": "uu"
   },
@@ -21451,7 +20370,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Sacrifice a creature to summon the top creature from your deck.",
     "Keywords": "",
-    "BBCode": "[card]Transmogrify[/card]",
     "Played in": "71/14271 of  Eligible  decks (0 %)",
     "code": "qK"
   },
@@ -21470,7 +20388,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "+1/+1. Summon: Draw a card. If the wielder has Treasure Hunt, draw something they are hunting for instead.",
     "Keywords": "Treasure Hunt",
-    "BBCode": "[card]Treasure Map[/card]",
     "Played in": "512/30861 of  Eligible  decks (2 %)",
     "code": "qL"
   },
@@ -21490,7 +20407,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "At the start of your turn, deal 4 damage to a random enemy.",
     "Keywords": "",
-    "BBCode": "[card]Trebuchet[/card]",
     "Played in": "155/12759 of  Eligible  decks (1 %)",
     "code": "qM"
   },
@@ -21510,7 +20426,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard, Summon: Gain +1 max magicka.",
     "Keywords": "Guard",
-    "BBCode": "[card]Tree Minder[/card]",
     "Played in": "3979/13644 of  Eligible  decks (29 %)",
     "code": "qN"
   },
@@ -21528,7 +20443,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Set a creature's power to 1.",
     "Keywords": "",
-    "BBCode": "[card]Trespasser's Bane[/card]",
     "Played in": "142/13644 of  Eligible  decks (1 %)",
     "code": "qO"
   },
@@ -21547,7 +20461,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Choose a lane. Destroy all creatures except for the most powerful creature on both sides of that lane.",
     "Keywords": "",
-    "BBCode": "[card]Trial of Flame[/card]",
     "Played in": "99/12757 of  Eligible  decks (1 %)",
     "code": "qP"
   },
@@ -21567,7 +20480,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a... (willpower) card in play, you gain 4 health. (endurance) card in play, gain +1 max magicka.",
     "Keywords": "",
-    "BBCode": "[card]Tribunal Oathman[/card]",
     "Played in": "233/14266 of  Eligible  decks (2 %)",
     "code": "qQ"
   },
@@ -21587,7 +20499,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: If you have more health than your opponent, draw two cards.",
     "Keywords": "",
-    "BBCode": "[card]Triumphant Jarl[/card]",
     "Played in": "2100/12757 of  Eligible  decks (16 %)",
     "code": "qR"
   },
@@ -21607,7 +20518,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Battle an enemy creature. When Trouble Seeker takes damage, he deals that much damage to you.",
     "Keywords": "",
-    "BBCode": "[card]Trouble Seeker[/card]",
     "Played in": "40/12757 of  Eligible  decks (0 %)",
     "code": "qS"
   },
@@ -21625,7 +20535,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "+2/+0",
     "Keywords": "",
-    "BBCode": "[card]Trusty Sword[/card]",
     "Played in": "19/14266 of  Eligible  decks (0 %)",
     "code": "xM"
   },
@@ -21643,7 +20552,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon one of each creature from your deck that costs 2 or less.",
     "Keywords": "",
-    "BBCode": "[card]Tullius' Conscription[/card]",
     "Played in": "1132/30861 of  Eligible  decks (4 %)",
     "code": "qT"
   },
@@ -21663,7 +20571,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Tusked Bristleback[/card]",
     "Played in": "71/12907 of  Eligible  decks (1 %)",
     "code": "qU"
   },
@@ -21683,7 +20590,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Plot: Lethal and Guard.",
     "Keywords": "Plot,Lethal,Guard",
-    "BBCode": "[card]Twin Lamps Consul[/card]",
     "Played in": "237/13695 of  Eligible  decks (2 %)",
     "code": "qW"
   },
@@ -21701,7 +20607,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "If your opponent doesn't damage you on their turn, sacrifice this and summon a Priest of the Moons in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Two-Moons Contemplation[/card]",
     "Played in": "212/12907 of  Eligible  decks (2 %)",
     "code": "qX"
   },
@@ -21722,7 +20627,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Prophecy, Breakthrough, Guard",
     "Keywords": "Breakthrough,Guard,Prophecy",
-    "BBCode": "[card]Tyr[/card]",
     "Played in": "1173/3996 of  Eligible  decks (29 %)",
     "code": "qY"
   },
@@ -21742,7 +20646,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough, When you play a Shout, draw a random Nord from your deck.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Ulfric Stormcloak[/card]",
     "Played in": "149/12757 of  Eligible  decks (1 %)",
     "code": "qZ"
   },
@@ -21763,7 +20666,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When an enemy rune is destroyed, draw a card.",
     "Keywords": "",
-    "BBCode": "[card]Ulfric's Housecarl[/card]",
     "Played in": "958/3994 of  Eligible  decks (24 %)",
     "code": "ra"
   },
@@ -21781,7 +20683,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Trigger the Summon of each friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Ulfric's Uprising[/card]",
     "Played in": "723/30861 of  Eligible  decks (2 %)",
     "code": "rb"
   },
@@ -21801,7 +20702,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Put a Heavy Battleaxe into your hand.",
     "Keywords": "Last Gasp",
-    "BBCode": "[card]Ulfric's Zealot[/card]",
     "Played in": "263/12757 of  Eligible  decks (2 %)",
     "code": "rc"
   },
@@ -21821,7 +20721,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. When Umaril the Unfeathered leaves play, summon him in the other Silenced.",
     "Keywords": "Guard",
-    "BBCode": "[card]Umaril the Unfeathered[/card]",
     "Played in": "25/13644 of  Eligible  decks (0 %)",
     "code": "yH"
   },
@@ -21839,7 +20738,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "+3/+5. At the start of your turn, the wielder Battles an enemy creature of Umbra's choosing.",
     "Keywords": "",
-    "BBCode": "[card]Umbra[/card]",
     "Played in": "100/12916 of  Eligible  decks (1 %)",
     "code": "rd"
   },
@@ -21860,7 +20758,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Enemy creatures in this lane lose Cover.",
     "Keywords": "Charge",
-    "BBCode": "[card]Underworld Vigilante[/card]",
     "Played in": "1641/12757 of  Eligible  decks (13 %)",
     "code": "re"
   },
@@ -21880,7 +20777,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Drain. +5/+5 while you have 30 or more health.",
     "Keywords": "Drain",
-    "BBCode": "[card]Undying Dragon[/card]",
     "Played in": "1517/12907 of  Eligible  decks (12 %)",
     "code": "rf"
   },
@@ -21898,7 +20794,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Invade, then summon a random Daedra with cost equal to your Oblivion Gate's level.",
     "Keywords": "Invade",
-    "BBCode": "[card]Unexpected Arrival[/card]",
     "Played in": "68/12907 of  Eligible  decks (1 %)",
     "code": "xs"
   },
@@ -21916,7 +20811,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Costs 3 less for each friendly Wounded creature. Unsummon a creature. Then you may unsummon a friendly creature.",
     "Keywords": "",
-    "BBCode": "[card]Unfinished Business[/card]",
     "Played in": "14/12757 of  Eligible  decks (0 %)",
     "code": "xA"
   },
@@ -21936,7 +20830,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Shuffle three Brotherhood Assassins into your deck.",
     "Keywords": "",
-    "BBCode": "[card]Ungolim the Listener[/card]",
     "Played in": "5614/13695 of  Eligible  decks (41 %)",
     "code": "rg"
   },
@@ -21956,7 +20849,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Friendly creatures in this lane with less power than Unicorn have Charge.",
     "Keywords": "Charge",
-    "BBCode": "[card]Unicorn[/card]",
     "Played in": "50/13703 of  Eligible  decks (0 %)",
     "code": "xX"
   },
@@ -21974,7 +20866,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "If you have at least one card of each attribute in play, you win the game.",
     "Keywords": "",
-    "BBCode": "[card]Unite the Houses[/card]",
     "Played in": "164/30861 of  Eligible  decks (1 %)",
     "code": "rh"
   },
@@ -21992,7 +20883,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Level 1:\nUnsummon an enemy creature with power 3 or less.\n\nLevel 2:\nUnsummon an enemy creature.\n\nLevel 3:\nUnsummon all enemy creatures in a lane.",
     "Keywords": "",
-    "BBCode": "[card]Unrelenting Force[/card]",
     "Played in": "252/12757 of  Eligible  decks (2 %)",
     "code": "ri"
   },
@@ -22010,7 +20900,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. Friendly creatures with 1 power may attack an extra time each turn.",
     "Keywords": "",
-    "BBCode": "[card]Unrelenting Siege[/card]",
     "Played in": "63/13695 of  Eligible  decks (0 %)",
     "code": "td"
   },
@@ -22030,7 +20919,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "At the end of your turn, Unstable Madman gains +1/+1. The , if he has 5 or more power, change him into Unstoppable Berskerker.",
     "Keywords": "",
-    "BBCode": "[card]Unstable Madman[/card]",
     "Played in": "232/12757 of  Eligible  decks (2 %)",
     "code": "rj"
   },
@@ -22049,7 +20937,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "A friendly creature deals damage equal to its power to all other creatures in its lane.",
     "Keywords": "",
-    "BBCode": "[card]Unstoppable Rage[/card]",
     "Played in": "2466/12757 of  Eligible  decks (19 %)",
     "code": "rk"
   },
@@ -22069,7 +20956,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Deal 1 damage.",
     "Keywords": "",
-    "BBCode": "[card]Valenwood Huntsman[/card]",
     "Played in": "235/12757 of  Eligible  decks (2 %)",
     "Evolves from:": "Valenwood Trapper",
     "code": "rl"
@@ -22090,7 +20976,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy, Guard.",
     "Keywords": "Prophecy,Guard",
-    "BBCode": "[card]Valenwood Sentry[/card]",
     "Played in": "85/13695 of  Eligible  decks (1 %)",
     "code": "uv"
   },
@@ -22110,7 +20995,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Ward. When Valkynaz Mage's Ward is broken, Invade.",
     "Keywords": "Ward,Invade",
-    "BBCode": "[card]Valkynaz Mage[/card]",
     "Played in": "76/14266 of  Eligible  decks (1 %)",
     "code": "yb"
   },
@@ -22132,7 +21016,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Expertise: Deal 3 damage, you gain 3 health and draw 3 cards.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Vanus Galerion[/card]",
     "Played in": "112/407 of  Eligible  decks (28 %)",
     "code": "uw"
   },
@@ -22152,7 +21035,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Expertise: Reduce the cost of a random action in your hand by 1.",
     "Keywords": "Expertise",
-    "BBCode": "[card]Vanus's Scribe[/card]",
     "Played in": "95/14266 of  Eligible  decks (1 %)",
     "code": "uF"
   },
@@ -22172,7 +21054,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Last Gasp: Draw a card.",
     "Keywords": "Guard,Last Gasp",
-    "BBCode": "[card]Varanis Courier[/card]",
     "Played in": "1477/13695 of  Eligible  decks (11 %)",
     "code": "rn"
   },
@@ -22192,7 +21073,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "When one of your runes breaks, you gain 5 health instead of drawing a card.",
     "Keywords": "",
-    "BBCode": "[card]Varen Aquilarios[/card]",
     "Played in": "467/12907 of  Eligible  decks (4 %)",
     "code": "ux"
   },
@@ -22212,7 +21092,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Fill this lane with 1/1 Skeletons. Vastarie has +1/+0 for each friendly Spirit and Skeleton.",
     "Keywords": "",
-    "BBCode": "[card]Vastarie[/card]",
     "Played in": "53/14271 of  Eligible  decks (0 %)",
     "code": "wQ"
   },
@@ -22233,7 +21112,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: If you have a [neutral] card in play, Silence another creature.",
     "Keywords": "",
-    "BBCode": "[card]Verminous Fabricant[/card]",
     "Played in": "86/12757 of  Eligible  decks (1 %)",
     "code": "ro"
   },
@@ -22253,7 +21131,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Destroy an enemy support card.",
     "Keywords": "",
-    "BBCode": "[card]Vicious Dreugh[/card]",
     "Played in": "1064/30861 of  Eligible  decks (3 %)",
     "Evolves from:": "Snapping Dreugh",
     "code": "rp"
@@ -22274,7 +21151,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Guard. Vigilant Ancestor is permanently Shackled.",
     "Keywords": "Guard",
-    "BBCode": "[card]Vigilant Ancestor[/card]",
     "Played in": "861/14266 of  Eligible  decks (6 %)",
     "code": "rq"
   },
@@ -22294,7 +21170,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough, Guard. Summon: Draw a card.",
     "Keywords": "Breakthrough,Guard",
-    "BBCode": "[card]Vigilant Giant[/card]",
     "Played in": "2277/12757 of  Eligible  decks (18 %)",
     "Evolves from:": "Reclusive Giant",
     "code": "rr"
@@ -22315,7 +21190,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Vigilant of Stendarr[/card]",
     "Played in": "84/14266 of  Eligible  decks (1 %)",
     "code": "rs"
   },
@@ -22335,7 +21209,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain. Exalt 3: +2/+2.",
     "Keywords": "Drain,Exalt",
-    "BBCode": "[card]Vivec City Pilgrim[/card]",
     "Played in": "385/12907 of  Eligible  decks (3 %)",
     "code": "ru"
   },
@@ -22355,7 +21228,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Exalt 3: +5/+5. While you have an Exalted creature in play, you can't lose the game.",
     "Keywords": "Exalt",
-    "BBCode": "[card]Vivec[/card]",
     "Played in": "611/12916 of  Eligible  decks (5 %)",
     "code": "rt"
   },
@@ -22375,7 +21247,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: +4/+4 and Guard if you have an action, item, and support in your discard pile or in play.",
     "Keywords": "Guard",
-    "BBCode": "[card]Voice of Balance[/card]",
     "Played in": "334/30861 of  Eligible  decks (1 %)",
     "code": "rv"
   },
@@ -22393,7 +21264,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: 2. Activate: Give a creature +4/+4 and Breakthrough.",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Volendrung[/card]",
     "Played in": "222/12759 of  Eligible  decks (2 %)",
     "code": "rw"
   },
@@ -22413,7 +21283,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain",
     "Keywords": "Drain",
-    "BBCode": "[card]Voracious Spriggan[/card]",
     "Played in": "450/13695 of  Eligible  decks (3 %)",
     "code": "ry"
   },
@@ -22431,7 +21300,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon a 0/1 Vvardvark in each lane.",
     "Keywords": "",
-    "BBCode": "[card]Vvardvark Experiment[/card]",
     "Played in": "84/13644 of  Eligible  decks (1 %)",
     "code": "qs"
   },
@@ -22449,7 +21317,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Uses: 3. Activate: Transform a creature into a random creature.",
     "Keywords": "",
-    "BBCode": "[card]Wabbajack[/card]",
     "Played in": "465/30872 of  Eligible  decks (2 %)",
     "code": "rz"
   },
@@ -22467,7 +21334,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Draw a Spirit or Skeleton creature of your choice from your deck and give it +0/+1.",
     "Keywords": "",
-    "BBCode": "[card]Wake the Dead[/card]",
     "Played in": "157/13644 of  Eligible  decks (1 %)",
     "code": "lq"
   },
@@ -22487,7 +21353,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Last Gasp: Summon a 1/1 Skeleton.",
     "Keywords": "",
-    "BBCode": "[card]Wandering Skeleton[/card]",
     "Played in": "77/14266 of  Eligible  decks (1 %)",
     "code": "vJ"
   },
@@ -22505,7 +21370,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give friendly creatures in one lane +2/+0 this turn.",
     "Keywords": "",
-    "BBCode": "[card]War Cry[/card]",
     "Played in": "390/12907 of  Eligible  decks (3 %)",
     "code": "rA"
   },
@@ -22524,8 +21388,7 @@ module.exports = { cards: [
     "Soul Summon": "50",
     "Soul Trap": "5",
     "Text": "Wax: +1/+1. Wane: Battle an enemy creature.",
-    "Keywords": "Wax,Wane",
-    "BBCode": "[card]War-Hardened Senche[/card]",
+    "Keywords": "Wax/Wane",
     "Played in": "13/12757 of  Eligible  decks (0 %)",
     "code": "wl"
   },
@@ -22545,7 +21408,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Rally",
     "Keywords": "Rally",
-    "BBCode": "[card]Warclaw Mercenary[/card]",
     "Played in": "451/12907 of  Eligible  decks (3 %)",
     "code": "rB"
   },
@@ -22565,7 +21427,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give a creature a Ward.",
     "Keywords": "Ward",
-    "BBCode": "[card]Wardcrafter[/card]",
     "Played in": "6921/14271 of  Eligible  decks (48 %)",
     "code": "rC"
   },
@@ -22584,7 +21445,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Give a random creature and item in your hand +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Warrior's Fury[/card]",
     "Played in": "130/3890 of  Eligible  decks (3 %)",
     "code": "rD"
   },
@@ -22604,7 +21464,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Give all friendly Guards +1/+2.",
     "Keywords": "Guard",
-    "BBCode": "[card]Watch Commander[/card]",
     "Played in": "200/13644 of  Eligible  decks (1 %)",
     "code": "rE"
   },
@@ -22622,7 +21481,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Transform all enemy creatures in a lane into 2/2 Stricken Draugrs, or transform all friendly creatures in a lane into 5/5 Hulking Draugrs.",
     "Keywords": "",
-    "BBCode": "[card]Waves of the Fallen[/card]",
     "Played in": "146/13644 of  Eligible  decks (1 %)",
     "code": "rF"
   },
@@ -22641,7 +21499,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Set a creature's health to 1.",
     "Keywords": "",
-    "BBCode": "[card]Weakness[/card]",
     "Played in": "158/13651 of  Eligible  decks (1 %)",
     "code": "rG"
   },
@@ -22661,7 +21518,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When Whirling Duelist equips an item, deal 1 damage to each enemy creature in this lane.",
     "Keywords": "",
-    "BBCode": "[card]Whirling Duelist[/card]",
     "Played in": "274/12757 of  Eligible  decks (2 %)",
     "code": "rH"
   },
@@ -22679,7 +21535,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Prophecy. Give an enemy creature -2/-2 and a friendly creature +2/+2.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Whispering Claw Strike[/card]",
     "Played in": "19/13695 of  Eligible  decks (0 %)",
     "code": "wm"
   },
@@ -22699,7 +21554,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Beast Form: +2/+2, Guard, and Regenerate.",
     "Keywords": "",
-    "BBCode": "[card]Whiterun Protector[/card]",
     "Played in": "569/13644 of  Eligible  decks (4 %)",
     "code": "rI"
   },
@@ -22719,7 +21573,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Whiterun Trooper[/card]",
     "Played in": "95/12757 of  Eligible  decks (1 %)",
     "Evolves from:": "Whiterun Recruit",
     "code": "rK"
@@ -22738,7 +21591,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Costs 1 less for each creature in your discard pile. Gain +2 max magicka.",
     "Keywords": "",
-    "BBCode": "[card]Whodunit?[/card]",
     "Played in": "58/13644 of  Eligible  decks (0 %)",
     "code": "xR"
   },
@@ -22758,7 +21610,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When an enemy rune is destroyed, Invade.",
     "Keywords": "Invade",
-    "BBCode": "[card]Widow Daedra[/card]",
     "Played in": "70/12757 of  Eligible  decks (1 %)",
     "code": "xt"
   },
@@ -22778,7 +21629,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Summon a random Animal.",
     "Keywords": "",
-    "BBCode": "[card]Wild Beastcaller[/card]",
     "Played in": "354/13695 of  Eligible  decks (3 %)",
     "Evolves from:": "Wild Spriggan",
     "code": "rL"
@@ -22799,7 +21649,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Wild Boar can't gain Cover. At the start of your turn, Wild Boar moves and gains +1/+0.",
     "Keywords": "",
-    "BBCode": "[card]Wild Boar[/card]",
     "Played in": "7/13695 of  Eligible  decks (0 %)",
     "code": "yo"
   },
@@ -22817,7 +21666,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Betray. Shackle a random enemy creature in each lane.",
     "Keywords": "Betray",
-    "BBCode": "[card]Wild Clumsiness[/card]",
     "Played in": "115/14266 of  Eligible  decks (1 %)",
     "code": "rM"
   },
@@ -22839,7 +21687,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Charge. Summon: Friendly creatures gain Rally this turn.",
     "Keywords": "Charge",
-    "BBCode": "[card]Wild Echatere[/card]",
     "Played in": "7/806 of  Eligible  decks (1 %)",
     "code": "Bh"
   },
@@ -22859,7 +21706,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough. Summon: Deal 1 damage to all other creatures. Slay: +1/+1.",
     "Keywords": "Breakthrough,Slay",
-    "BBCode": "[card]Wildfire Dragon[/card]",
     "Played in": "477/12757 of  Eligible  decks (4 %)",
     "code": "rO"
   },
@@ -22879,7 +21725,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Summon: Draw a card if you have 4 runes. Draw an additional card if you have 5 runes.",
     "Keywords": "Guard",
-    "BBCode": "[card]Wilds Incarnate[/card]",
     "Played in": "843/30861 of  Eligible  decks (3 %)",
     "code": "rP"
   },
@@ -22899,7 +21744,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Drain.",
     "Keywords": "Drain",
-    "BBCode": "[card]Will-o-the-Wisp[/card]",
     "Played in": "43/13695 of  Eligible  decks (0 %)",
     "code": "xj"
   },
@@ -22919,7 +21763,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "",
     "Keywords": "",
-    "BBCode": "[card]Wily Kee'va[/card]",
     "Played in": "193/12907 of  Eligible  decks (1 %)",
     "code": "wc"
   },
@@ -22939,7 +21782,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Ward",
     "Keywords": "Ward",
-    "BBCode": "[card]Wind Keep Spellsword[/card]",
     "Played in": "3865/13644 of  Eligible  decks (28 %)",
     "code": "rQ"
   },
@@ -22959,7 +21801,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Veteran: +3/+0.",
     "Keywords": "Guard,Veteran",
-    "BBCode": "[card]Windhelm Gatekeeper[/card]",
     "Played in": "53/12757 of  Eligible  decks (0 %)",
     "code": "uB"
   },
@@ -22977,7 +21818,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Shackle all enemy creatures.",
     "Keywords": "",
-    "BBCode": "[card]Winter's Grasp[/card]",
     "Played in": "662/14266 of  Eligible  decks (5 %)",
     "Evolves from:": "Winter's Touch",
     "code": "rR"
@@ -22998,7 +21838,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Another creature disappears, then returns at the end of the turn.",
     "Keywords": "",
-    "BBCode": "[card]Winterhold Illusionist[/card]",
     "Played in": "500/12907 of  Eligible  decks (4 %)",
     "code": "rT"
   },
@@ -23016,7 +21855,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Prophecy. Give all friendly creatures a random keyword.",
     "Keywords": "Prophecy",
-    "BBCode": "[card]Wisdom of Ancients[/card]",
     "Played in": "287/14266 of  Eligible  decks (2 %)",
     "code": "rU"
   },
@@ -23034,7 +21872,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon a random 2 cost creature. Empower: +1 cost creature.",
     "Keywords": "Empower",
-    "BBCode": "[card]Wish[/card]",
     "Played in": "59/12916 of  Eligible  decks (0 %)",
     "code": "sP"
   },
@@ -23054,7 +21891,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you summon a creature that costs 2 or less, summon a copy of that creature in the other lane.",
     "Keywords": "",
-    "BBCode": "[card]Wispmother[/card]",
     "Played in": "484/14271 of  Eligible  decks (3 %)",
     "code": "rV"
   },
@@ -23074,7 +21910,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "All actions cost 2 more.",
     "Keywords": "",
-    "BBCode": "[card]Withered Hand Cultist[/card]",
     "Played in": "1911/12757 of  Eligible  decks (15 %)",
     "code": "rW"
   },
@@ -23092,7 +21927,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Uses: 3. Activate: Summon an Uncaged Wolf.",
     "Keywords": "",
-    "BBCode": "[card]Wolf Cage[/card]",
     "Played in": "152/12907 of  Eligible  decks (1 %)",
     "code": "rX"
   },
@@ -23112,7 +21946,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Breakthrough. Summon: Give Wood Orc Headhunter Charge if you have another friendly Orc.",
     "Keywords": "Breakthrough,Charge",
-    "BBCode": "[card]Wood Orc Headhunter[/card]",
     "Played in": "801/12757 of  Eligible  decks (6 %)",
     "code": "rY"
   },
@@ -23132,7 +21965,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "When you summon a Dragon, gain 4 health.",
     "Keywords": "",
-    "BBCode": "[card]Woodland Lookout[/card]",
     "Played in": "788/13695 of  Eligible  decks (6 %)",
     "code": "rZ"
   },
@@ -23152,7 +21984,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Guard. Summon: Upgrade a Shout in your hand.",
     "Keywords": "Guard",
-    "BBCode": "[card]Word Wall[/card]",
     "Played in": "1656/30861 of  Eligible  decks (5 %)",
     "code": "sa"
   },
@@ -23170,7 +22001,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Ongoing. When you summon a creature that costs 7 or more, double its power and health.",
     "Keywords": "",
-    "BBCode": "[card]World-Eater's Eyrie[/card]",
     "Played in": "209/12757 of  Eligible  decks (2 %)",
     "code": "sb"
   },
@@ -23190,7 +22020,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Summon a support of your choice from your deck with cost less than Worldly Wanderer's power.",
     "Keywords": "",
-    "BBCode": "[card]Worldly Wanderer[/card]",
     "Played in": "74/12907 of  Eligible  decks (1 %)",
     "code": "yX"
   },
@@ -23211,7 +22040,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "Summon: Deal 2 damage to an enemy creature. Slay: Summon a 2/2 Worm Thrall with Guard.",
     "Keywords": "Slay,Guard",
-    "BBCode": "[card]Worm King's Agent[/card]",
     "Played in": "281/4886 of  Eligible  decks (6 %)",
     "code": "sc"
   },
@@ -23232,7 +22060,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Summon: Your opponent's cards cost 1 more next turn.",
     "Keywords": "",
-    "BBCode": "[card]Wrath of Sithis[/card]",
     "Played in": "426/13644 of  Eligible  decks (3 %)",
     "code": "sd"
   },
@@ -23250,7 +22077,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Choose an enemy creature. At the start of your turn, destroy it and put a Completed Contract into your hand.",
     "Keywords": "",
-    "BBCode": "[card]Writ of Execution[/card]",
     "Played in": "89/12907 of  Eligible  decks (1 %)",
     "code": "se"
   },
@@ -23270,7 +22096,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: Give a creature +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Wrothgar Artisan[/card]",
     "Played in": "334/13644 of  Eligible  decks (2 %)",
     "code": "sf"
   },
@@ -23288,7 +22113,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "The first time you summon a creature each turn, equip it with a random item.",
     "Keywords": "",
-    "BBCode": "[card]Wrothgar Forge[/card]",
     "Played in": "621/12757 of  Eligible  decks (5 %)",
     "code": "sg"
   },
@@ -23308,7 +22132,6 @@ module.exports = { cards: [
     "Soul Trap": "100",
     "Text": "When you summon another Orc, Wrothgar Kingpin gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Wrothgar Kingpin[/card]",
     "Played in": "209/13644 of  Eligible  decks (2 %)",
     "code": "sh"
   },
@@ -23328,7 +22151,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Summon: You may sacrifice another creature to give Xavara Atronach its power and health.",
     "Keywords": "",
-    "BBCode": "[card]Xavara Atronach[/card]",
     "Played in": "76/13644 of  Eligible  decks (1 %)",
     "code": "si"
   },
@@ -23348,7 +22170,6 @@ module.exports = { cards: [
     "Soul Trap": "5",
     "Text": "Charge, Guard",
     "Keywords": "Charge,Guard",
-    "BBCode": "[card]Xivilai Warlord[/card]",
     "Played in": "52/12757 of  Eligible  decks (0 %)",
     "code": "xv"
   },
@@ -23368,7 +22189,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Guard. Summon: Set the health of each enemy creature in this lane to 1.",
     "Keywords": "Guard",
-    "BBCode": "[card]Xivkyn Banelord[/card]",
     "Played in": "128/13644 of  Eligible  decks (1 %)",
     "code": "uC"
   },
@@ -23388,7 +22208,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Draw a Dwemer from your discard pile and give it +2/+2.",
     "Keywords": "",
-    "BBCode": "[card]Yagrum Bagarn[/card]",
     "Played in": "334/30861 of  Eligible  decks (1 %)",
     "code": "sj"
   },
@@ -23420,7 +22239,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Guard. Summon: +1/+1 for each enemy creature in this lane.",
     "Keywords": "Guard",
-    "BBCode": "[card]Yew Shield[/card]",
     "Played in": "248/13644 of  Eligible  decks (2 %)",
     "code": "sk"
   },
@@ -23456,7 +22274,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "When Young Dragonborn Slays a Dragon, put a random Shout into your hand. After you play a Shout, Young Dragonborn gains +1/+1.",
     "Keywords": "",
-    "BBCode": "[card]Young Dragonborn[/card]",
     "Played in": "246/30861 of  Eligible  decks (1 %)",
     "code": "sl"
   },
@@ -23476,7 +22293,6 @@ module.exports = { cards: [
     "Soul Trap": "20",
     "Text": "Breakthrough",
     "Keywords": "Breakthrough",
-    "BBCode": "[card]Young Mammoth[/card]",
     "Played in": "3048/13644 of  Eligible  decks (22 %)",
     "code": "sm"
   },
@@ -23496,7 +22312,6 @@ module.exports = { cards: [
     "Soul Trap": "400",
     "Text": "Summon: Choose another creature. When the chosen creature dies, summon it as a 1/1.",
     "Keywords": "",
-    "BBCode": "[card]Zumog Phoom[/card]",
     "Played in": "196/13644 of  Eligible  decks (1 %)",
     "code": "vZ"
   }

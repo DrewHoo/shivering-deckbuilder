@@ -264,7 +264,7 @@ function mapAttributesToClass (attributes) {
     case 'agility,endurance,intelligence':
       return 'telvanni'
     case 'agility,endurance,strength':
-      return 'pact'
+      return 'ebonheart'
     case 'agility,endurance,willpower':
       return 'empire'
     case 'agility,intelligence,strength':

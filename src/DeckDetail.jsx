@@ -12,7 +12,7 @@ import { getCardsFromDeckCode } from './deck-analyzer'
 import { CardDetailView } from './DeckList/CardDetailView'
 import { QuickStats } from './QuickStats'
 import { DeckCode } from './DeckCode'
-import { DeckBuilderRules } from './DeckBuilderRules'
+import { DeckBuilderRules } from './DeckBuilderRules/DeckBuilderRules'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -49,14 +49,12 @@ export default function DeckDetail ({
 
   return (
     <div className={classes.root}>
-      <Grid
-        container
-        spacing={3}
-        direction='row'
-        justify='center'
-      >
-        <Grid item xs={12} sm={6}>
+      <Grid container spacing={3} direction='row' justify='center'>
+        <Grid item xs={12}>
           <DeckCode deckCode={deckCode} setDeckCode={setDeckCode} />
+        </Grid>
+        <Grid item xs={12} sm={6}>
+          <DeckBuilderRules deckCode={deckCode} />
         </Grid>
         <Grid item xs={12} sm={6}>
           <SimpleCard title='Quick Stats'>
@@ -72,9 +70,6 @@ export default function DeckDetail ({
               handleClickOpen={handleClickOpen}
             />
           </SimpleCard>
-        </Grid>
-        <Grid item xs={12} sm={6}>
-          <DeckBuilderRules deckCode={deckCode} />
         </Grid>
         <Grid item xs={12} sm={6}>
           <SimpleCard title='Curve'>

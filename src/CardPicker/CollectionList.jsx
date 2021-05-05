@@ -45,7 +45,6 @@ class CollectionListCard extends React.Component {
         aria-owns={open ? popoverId : undefined}
         aria-haspopup='true'
         onMouseEnter={event => {
-          console.log(event)
           this.setState({ anchorEl: event.currentTarget })
         }}
         onMouseLeave={() => {

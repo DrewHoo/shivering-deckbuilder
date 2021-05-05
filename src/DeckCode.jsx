@@ -17,6 +17,7 @@ import ClearIcon from '@material-ui/icons/Clear'
 import FileCopyIcon from '@material-ui/icons/FileCopy'
 import { trackDeckCodeCopy, trackDeckCodePaste } from './tracker'
 import TextareaAutosize from '@material-ui/core/TextareaAutosize'
+import { mapAltArts } from './deck-analyzer'
 
 const useStyles = makeStyles({
   root: {
@@ -118,8 +119,8 @@ function PasteDeckCodeDialog ({ setDeckCode, closeDialog, isDialogOpen }) {
       <DialogActions>
         <Button
           onClick={() => {
-            setDeckCode(deckCode)
             trackDeckCodePaste(deckCode)
+            setDeckCode(mapAltArts(deckCode))
             closeDialog()
           }}
           color='primary'

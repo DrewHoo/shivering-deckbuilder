@@ -6105,7 +6105,7 @@ module.exports = { cards: [
     "Text": "Prophecy. Summon: You gain health equal to Dremora Channeler's power plus health.",
     "Keywords": "Prophecy",
     "Played in": "96/12907 of  Eligible  decks (1 %)",
-    "code": ""
+    "code": "xE"
   },
   {
     "Name": "Dremora Markynaz",

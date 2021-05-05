@@ -10,7 +10,7 @@ import { DeckListCard } from './DeckListCard'
 const useStyles = makeStyles(theme => ({
   cardColumns: { display: 'flex' },
   root: {
-    margin: '0 0.5rem',
+    margin: '0 0.5rem'
   }
 }))
 
@@ -74,13 +74,11 @@ export const DeckList = ({ cardList, handleClickOpen }) => {
       {columns.map((cards, i) => (
         <List className={classes.root} key={`decklist-column-${i}`} dense>
           {cards.map(([cardName, card], index) => (
-            <>
-              <DeckListCard
-                key={cardName}
-                card={card}
-                handleClickOpen={handleClickOpen}
-              />
-            </>
+            <DeckListCard
+              key={cardName}
+              card={card}
+              handleClickOpen={handleClickOpen}
+            />
           ))}
         </List>
       ))}

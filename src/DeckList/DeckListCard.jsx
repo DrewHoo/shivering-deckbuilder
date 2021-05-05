@@ -1,4 +1,5 @@
 import React from 'react'
+import _ from 'lodash'
 import clsx from 'clsx'
 import { makeStyles } from '@material-ui/core/styles'
 import { blue } from '@material-ui/core/colors'
@@ -7,6 +8,7 @@ import ListItemText from '@material-ui/core/ListItemText'
 import Typography from '@material-ui/core/Typography'
 import { Avatar, ListItemAvatar } from '@material-ui/core'
 import { AttributeToColorMap } from '../AttributePieGraph'
+import { CardPopover } from './CardPopover'
 
 const useStyles = makeStyles(theme => ({
   listItemText: {
@@ -192,9 +194,26 @@ const useStyles = makeStyles(theme => ({
 
 export function DeckListCard ({ card, handleClickOpen }) {
   const classes = useStyles()
+  const [anchorEl, setAnchorEl] = React.useState(null)
+  const ref = React.useRef(null)
+
+  const handlePopoverOpen = () => {
+    setAnchorEl(ref.current)
+  }
+
+  const handlePopoverClose = () => {
+    setAnchorEl(null)
+  }
+  const open = Boolean(anchorEl)
+  const popoverId = `decklist${_.snakeCase(card.Name)}`
 
   return (
     <ListItem
+      ref={ref}
+      aria-owns={open ? popoverId : undefined}
+      aria-haspopup='true'
+      onMouseEnter={handlePopoverOpen}
+      onMouseLeave={handlePopoverClose}
       className={clsx(
         classes.listItem,
         classes[mapAttributesToClass(card.Attributes)]
@@ -226,6 +245,12 @@ export function DeckListCard ({ card, handleClickOpen }) {
             </ListItemAvatar>
           </div>
         }
+      />
+      <CardPopover
+        card={card}
+        handlePopoverClose={handlePopoverClose}
+        anchorEl={anchorEl}
+        popoverId={popoverId}
       />
     </ListItem>
   )

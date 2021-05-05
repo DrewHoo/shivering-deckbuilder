@@ -1,29 +1,56 @@
 import React from 'react'
-import { makeStyles } from '@material-ui/core/styles'
+import _ from 'lodash'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemText from '@material-ui/core/ListItemText'
 import { FixedSizeList } from 'react-window'
+import Autosizer from 'react-virtualized-auto-sizer'
 import { trackCardAdded } from '../tracker'
-
-const useStyles = makeStyles(theme => ({
-  root: {
-    width: '100%',
-    height: 400,
-    maxWidth: 300,
-    backgroundColor: theme.palette.background.paper
-  }
-}))
+import { CardPopover } from '../DeckList/CardPopover'
 
 export function CollectionList ({ cards, addCard }) {
-  const classes = useStyles()
+  return (
+    <Autosizer>
+      {({ height, width }) => (
+        <FixedSizeList
+          overscanCount={0}
+          height={height}
+          width={width}
+          itemSize={46}
+          itemData={cards.map(card => ({ ...card, addCard }))}
+          itemCount={cards.length}
+        >
+          {CollectionListCard}
+        </FixedSizeList>
+      )}
+    </Autosizer>
+  )
+}
 
-  function renderRow (props) {
-    const { index, style } = props
-    const card = cards[index]
+class CollectionListCard extends React.Component {
+  constructor (props) {
+    super(props)
+    this.state = { anchorEl: null }
+  }
 
+  render () {
+    const { style, index, data } = this.props
+    const { addCard, ...card } = data[index]
+    const { anchorEl } = this.state
+    const open = Boolean(anchorEl)
+
+    const popoverId = _.snakeCase(card.Name)
     return (
       <ListItem
         button
+        aria-owns={open ? popoverId : undefined}
+        aria-haspopup='true'
+        onMouseEnter={event => {
+          console.log(event)
+          this.setState({ anchorEl: event.currentTarget })
+        }}
+        onMouseLeave={() => {
+          this.setState({ anchorEl: null })
+        }}
         style={style}
         key={card.Name}
         onClick={() => {
@@ -32,20 +59,13 @@ export function CollectionList ({ cards, addCard }) {
         }}
       >
         <ListItemText primary={card.Name} secondary={card['Magicka Cost']} />
+        <CardPopover
+          popoverId={popoverId}
+          card={card}
+          handlePopoverClose={() => this.setState({ anchorEl: null })}
+          anchorEl={anchorEl}
+        />
       </ListItem>
     )
   }
-
-  return (
-    <div className={classes.root}>
-      <FixedSizeList
-        height={400}
-        width={300}
-        itemSize={46}
-        itemCount={cards.length}
-      >
-        {renderRow}
-      </FixedSizeList>
-    </div>
-  )
 }

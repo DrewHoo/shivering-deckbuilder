@@ -2,12 +2,12 @@ import React from 'react'
 import Dialog from '@material-ui/core/Dialog'
 import DialogActions from '@material-ui/core/DialogActions'
 import DialogContent from '@material-ui/core/DialogContent'
-import DialogContentText from '@material-ui/core/DialogContentText'
 import DialogTitle from '@material-ui/core/DialogTitle'
 import AddIcon from '@material-ui/icons/Add'
 import RemoveIcon from '@material-ui/icons/Remove'
 import { IconButton } from '@material-ui/core'
 import { trackCardAdded, trackCardRemoved } from '../tracker'
+import { CardImage } from './CardImage'
 
 export function CardDetailView ({
   card,
@@ -24,7 +24,7 @@ export function CardDetailView ({
     >
       <DialogTitle id='form-dialog-title'>{card.Name}</DialogTitle>
       <DialogContent>
-        <DialogContentText>{card.Text}</DialogContentText>
+        {card.Name && <CardImage card={card} />}
       </DialogContent>
       <DialogActions>
         <IconButton

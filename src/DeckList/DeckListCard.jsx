@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography'
 import { Avatar, ListItemAvatar } from '@material-ui/core'
 import { AttributeToColorMap } from '../AttributePieGraph'
 import { CardPopover } from './CardPopover'
+import { useImage } from './CardImage'
 
 const useStyles = makeStyles(theme => ({
   listItemText: {
@@ -19,7 +20,11 @@ const useStyles = makeStyles(theme => ({
   listItem: {
     margin: '.5rem',
     cursor: 'pointer',
-    borderRadius: '0.25rem'
+    borderRadius: '0.25rem',
+    backgroundPosition: '50% 30%',
+    backgroundSize: '135%',
+    backgroundRepeat: 'no-repeat',
+    backgroundClip: 'border-box'
   },
   inline: {
     display: 'inline',
@@ -52,6 +57,7 @@ const useStyles = makeStyles(theme => ({
     fontSize: '1rem'
   },
   text: { color: 'white' },
+  cardTitle: { textShadow: '4px 4px 5px black', fontWeight: '600' },
 
   strength: { backgroundColor: AttributeToColorMap.strength },
   willpower: { backgroundColor: AttributeToColorMap.willpower },
@@ -206,6 +212,7 @@ export function DeckListCard ({ card, handleClickOpen }) {
   }
   const open = Boolean(anchorEl)
   const popoverId = `decklist${_.snakeCase(card.Name)}`
+  const imageSrc = useImage(card)
 
   return (
     <ListItem
@@ -214,10 +221,14 @@ export function DeckListCard ({ card, handleClickOpen }) {
       aria-haspopup='true'
       onMouseEnter={handlePopoverOpen}
       onMouseLeave={handlePopoverClose}
-      className={clsx(
-        classes.listItem,
-        classes[mapAttributesToClass(card.Attributes)]
-      )}
+      style={{
+        ...(imageSrc && {
+          backgroundImage: `${makeImageGradient(
+            mapAttributesToClass(card.Attributes)
+          )}, url(${imageSrc})`
+        })
+      }}
+      className={clsx(classes.listItem)}
       alignItems='center'
       onClick={() => handleClickOpen(card)}
     >
@@ -233,11 +244,10 @@ export function DeckListCard ({ card, handleClickOpen }) {
             <Typography
               component='div'
               variant='body1'
-              className={clsx(classes.inline)}
+              className={clsx(classes.inline, classes.cardTitle)}
             >
               {card.Name}
             </Typography>
-            {/* <Typography>{card.count}</Typography> */}
             <ListItemAvatar className={classes.countIndicatorAvatar}>
               <Avatar className={clsx(classes.grey, classes.small)}>
                 {card.count}
@@ -254,6 +264,154 @@ export function DeckListCard ({ card, handleClickOpen }) {
       />
     </ListItem>
   )
+}
+
+function makeImageGradient (house) {
+  switch (house) {
+    case 'strength':
+      return makeGradient(AttributeToColorMap.strength)
+    case 'willpower':
+      return makeGradient(AttributeToColorMap.willpower)
+    case 'intelligence':
+      return makeGradient(AttributeToColorMap.intelligence)
+    case 'agility':
+      return makeGradient(AttributeToColorMap.agility)
+    case 'endurance':
+      return makeGradient(AttributeToColorMap.endurance)
+    case 'neutral':
+      return makeGradient(AttributeToColorMap.neutral)
+
+    case 'battlemage':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence
+      )
+
+    case 'mage':
+      return makeGradient(
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.willpower
+      )
+
+    case 'monk':
+      return makeGradient(
+        AttributeToColorMap.agility,
+        AttributeToColorMap.willpower
+      )
+
+    case 'scout':
+      return makeGradient(
+        AttributeToColorMap.agility,
+        AttributeToColorMap.endurance
+      )
+
+    case 'crusader':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.willpower
+      )
+
+    case 'archer':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.agility
+      )
+
+    case 'warrior':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.endurance
+      )
+
+    case 'assassin':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence
+      )
+
+    case 'sorcerer':
+      return makeGradient(
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.endurance
+      )
+
+    case 'spellsword':
+      return makeGradient(
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.endurance
+      )
+
+    case 'guildsworn':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.willpower
+      )
+
+    case 'dagoth':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.agility
+      )
+
+    case 'covenant':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.endurance
+      )
+
+    case 'hlaalu':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.agility
+      )
+
+    case 'redoran':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.endurance
+      )
+
+    case 'ebonheart':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.agility,
+        AttributeToColorMap.endurance
+      )
+
+    case 'dominion':
+      return makeGradient(
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.agility
+      )
+
+    case 'telvanni':
+      return makeGradient(
+        AttributeToColorMap.strength,
+        AttributeToColorMap.intelligence
+      )
+
+    case 'tribunal':
+      return makeGradient(
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.endurance
+      )
+
+    case 'empire':
+      return makeGradient(
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.agility,
+        AttributeToColorMap.endurance
+      )
+    default:
+      return makeGradient(AttributeToColorMap.neutral)
+  }
 }
 
 function mapAttributesToClass (attributes) {
@@ -313,7 +471,10 @@ function mapAttributesToClass (attributes) {
 
 function makeGradient (color1, color2, color3) {
   if (color3) {
-    return `linear-gradient(to right, ${color1}, ${color1} 27%, ${color2} 33%, ${color2} 61%, ${color3}, ${color3} 67%)`
+    return `linear-gradient(to right, ${color1}, ${color1} 15%, ${color2} 30%, ${color3} 45%, transparent 50%)`
   }
-  return `linear-gradient(to right, ${color1}, ${color1} 45%, ${color2}, ${color2} 55%)`
+  if (color2) {
+    return `linear-gradient(to right, ${color1}, ${color1} 20%, ${color2}, ${color2} 30%, transparent 40%)`
+  }
+  return `linear-gradient(to right, ${color1}, ${color1} 20%, transparent 40%)`
 }

@@ -2,6 +2,7 @@ import mixpanel from 'mixpanel-browser'
 
 const MixpanelEventNames = {
   DeckCodePasted: 'Deck Code Pasted',
+  CollectionCodePasted: 'Collection Code Pasted',
   CardAdded: 'Card Added',
   DeckCodeCopied: 'Deck Code Copied',
   DeckBuilderFilterAdded: 'Deck Builder Filter Added',
@@ -15,6 +16,10 @@ const MixpanelPropertyNames = {
 
 export function trackDeckCodePaste (deckCode) {
   mixpanel.track(MixpanelEventNames.DeckCodePasted, { deckCode })
+}
+
+export function trackCollectionCodePaste (collectionCode) {
+  mixpanel.track(MixpanelEventNames.CollectionCodePasted, { collectionCode })
 }
 
 export function trackCardAdded (

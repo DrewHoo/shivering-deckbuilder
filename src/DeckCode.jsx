@@ -17,7 +17,7 @@ import ClearIcon from '@material-ui/icons/Clear'
 import FileCopyIcon from '@material-ui/icons/FileCopy'
 import { trackDeckCodeCopy, trackDeckCodePaste } from './tracker'
 import TextareaAutosize from '@material-ui/core/TextareaAutosize'
-import { mapAltArts } from './deck-analyzer'
+import { mapAltArts } from './DeckCodeUtils/alt-art-map'
 
 const useStyles = makeStyles({
   root: {

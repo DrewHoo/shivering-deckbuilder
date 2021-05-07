@@ -4,12 +4,14 @@ import { CollectionFilters } from './CollectionFilters'
 import { cards } from '../collection'
 import { CollectionList } from './CollectionList'
 import { cardCostComparator } from '../DeckList/DeckList'
+import { filterByCollection } from '../DeckCodeUtils/deck-analyzer'
 
 export function CardPicker ({ addCard }) {
   const [attributeFilter, setAttributeFilter] = useState([])
   const [costFilter, setCostFilter] = useState([])
   const [filteredCards, setFilteredCards] = useState(cards)
   const [activeSearchFilter, setActiveSearchFilter] = useState('')
+  const [userCollection, setUserCollection] = useState('')
 
   useEffect(() => {
     let filteredList = cards.sort(pickerCardComparator)
@@ -33,20 +35,24 @@ export function CardPicker ({ addCard }) {
           Name.toLowerCase().includes(activeSearchFilter.toLowerCase())
       )
     }
+    if (userCollection) {
+      filteredList = filterByCollection(filteredList, userCollection)
+    }
     setFilteredCards(filteredList)
-  }, [attributeFilter, costFilter, activeSearchFilter])
+  }, [attributeFilter, costFilter, activeSearchFilter, userCollection])
 
   return (
     <>
       {/* <Toolbar> */}
-        <CollectionFilters
-          attributeFilter={attributeFilter}
-          setAttributeFilter={setAttributeFilter}
-          costFilter={costFilter}
-          setCostFilter={setCostFilter}
-          activeSearchFilter={activeSearchFilter}
-          setActiveSearchFilter={setActiveSearchFilter}
-        />
+      <CollectionFilters
+        setUserCollection={setUserCollection}
+        attributeFilter={attributeFilter}
+        setAttributeFilter={setAttributeFilter}
+        costFilter={costFilter}
+        setCostFilter={setCostFilter}
+        activeSearchFilter={activeSearchFilter}
+        setActiveSearchFilter={setActiveSearchFilter}
+      />
       {/* </Toolbar> */}
       {filteredCards && (
         <CollectionList cards={filteredCards} addCard={addCard} />

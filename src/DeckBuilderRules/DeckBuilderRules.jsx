@@ -16,7 +16,7 @@ import MenuIcon from '@material-ui/icons/Menu'
 import { IconButton } from '@material-ui/core'
 import TextField from '@material-ui/core/TextField'
 
-import { isDeckCodeValid } from '../deck-analyzer'
+import { isDeckCodeValid } from '../DeckCodeUtils/deck-validator'
 import { AllowedItemsPicker } from './AllowedItemsPicker'
 import { ExpansionSets, Rarities } from '../constants'
 

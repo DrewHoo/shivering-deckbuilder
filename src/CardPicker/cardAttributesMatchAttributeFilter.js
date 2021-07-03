@@ -9,7 +9,10 @@ export function cardAttributesMatchAttributeFilter (cardAttributes, filter) {
       case AttributeNames.Endurance:
       case AttributeNames.Agility:
       case AttributeNames.Neutral:
-        return cardAttributes.includes(filterAttribute.toLowerCase())
+        return (
+          cardAttributes.length === 1 &&
+          cardAttributes.includes(filterAttribute.toLowerCase())
+        )
       case 'Battlemage':
         return ['strength', 'intelligence'].every(attribute =>
           cardAttributes.includes(attribute)
@@ -91,7 +94,7 @@ export function cardAttributesMatchAttributeFilter (cardAttributes, filter) {
           cardAttributes.includes(attribute)
         )
       default:
-        return false;
+        return false
     }
   })
 }

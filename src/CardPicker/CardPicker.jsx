@@ -33,13 +33,14 @@ export function CardPicker ({ addCard }) {
       if (searchText.length) {
         searchTerms.push(searchText)
       }
-      filteredList = filteredList.filter(({ Text, Name, Race, Type }) =>
+      filteredList = filteredList.filter(({ Text, Name, Race, Type, Rarity }) =>
         searchTerms.some(
           searchTerm =>
             Text.toLowerCase().includes(searchTerm.toLowerCase()) ||
             Name.toLowerCase().includes(searchTerm.toLowerCase()) ||
             Race.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            Type.toLowerCase().includes(searchTerm.toLowerCase())
+            Type.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            Rarity.toLowerCase().includes(searchTerm.toLowerCase())
         )
       )
     }

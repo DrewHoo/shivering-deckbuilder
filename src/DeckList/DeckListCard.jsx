@@ -295,8 +295,8 @@ function makeImageGradient (house) {
 
     case 'monk':
       return makeGradient(
-        AttributeToColorMap.agility,
-        AttributeToColorMap.willpower
+        AttributeToColorMap.willpower,
+        AttributeToColorMap.agility
       )
 
     case 'scout':
@@ -325,8 +325,8 @@ function makeImageGradient (house) {
 
     case 'assassin':
       return makeGradient(
-        AttributeToColorMap.strength,
-        AttributeToColorMap.intelligence
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.agility
       )
 
     case 'sorcerer':
@@ -392,8 +392,9 @@ function makeImageGradient (house) {
 
     case 'telvanni':
       return makeGradient(
-        AttributeToColorMap.strength,
-        AttributeToColorMap.intelligence
+        AttributeToColorMap.intelligence,
+        AttributeToColorMap.agility,
+        AttributeToColorMap.endurance
       )
 
     case 'tribunal':

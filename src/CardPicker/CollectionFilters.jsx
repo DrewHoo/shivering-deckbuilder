@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
+import React, { useCallback, useState } from 'react'
 import _ from 'lodash'
 import { makeStyles } from '@material-ui/core/styles'
 import Button from '@material-ui/core/Button'
-import Chip from '@material-ui/core/Chip'
 import Dialog from '@material-ui/core/Dialog'
 import DialogActions from '@material-ui/core/DialogActions'
 import DialogContent from '@material-ui/core/DialogContent'
@@ -26,6 +25,7 @@ import {
 import { CollectionFilter } from '../components/CollectionFilter'
 import { trackCollectionCodePaste } from '../tracker'
 import { mapAltArts } from '../DeckCodeUtils/alt-art-map'
+import { FilterChips } from './FilterChips'
 
 const useStyles = makeStyles(theme => ({
   formControl: {
@@ -45,7 +45,29 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-const AttributeFilters = Object.values(AttributeNames)
+const AttributeFilters = [
+  ...Object.values(AttributeNames),
+  'Battlemage',
+  'Crusader',
+  'Archer',
+  'Warrior',
+  'Mage',
+  'Assassin',
+  'Sorcerer',
+  'Monk',
+  'Spellsword',
+  'Scout',
+  'Guildsworn',
+  'Dagoth',
+  'Daggerfall',
+  'Hlaalu',
+  'Redoran',
+  'Ebonheart',
+  'Dominion',
+  'Tribunal',
+  'Telvanni',
+  'Empire'
+]
 const CostFilters = [..._.range(0, 14), 20]
 
 export function CollectionFilters ({
@@ -54,8 +76,10 @@ export function CollectionFilters ({
   setAttributeFilter,
   costFilter,
   setCostFilter,
-  activeSearchFilter,
-  setActiveSearchFilter
+  searchFilter,
+  setSearchFilter, // this is a filter
+  setSearchText, // this is what a user is typing
+  searchText
 }) {
   const classes = useStyles()
 
@@ -89,6 +113,16 @@ export function CollectionFilters ({
     setCostFilter(event.target.value)
   }
 
+  const handleSearchTermFilterAdded = useCallback(
+    event => {
+      if (event.key === 'Enter') {
+        event.preventDefault()
+        setSearchFilter(_.uniq([...searchFilter, searchText]))
+      }
+    },
+    [searchText, searchFilter, setSearchFilter]
+  )
+
   return (
     <div>
       <FormGroup row>
@@ -99,7 +133,8 @@ export function CollectionFilters ({
             defaultValue=''
             helperText='Hit enter to add this as a filter'
             variant='outlined'
-            onChange={event => setActiveSearchFilter(event.target.value)}
+            onChange={event => setSearchText(event.target.value)}
+            onKeyPress={handleSearchTermFilterAdded}
           />
         </FormControl>
         <FormControlLabel
@@ -141,26 +176,21 @@ export function CollectionFilters ({
       <FormControl className={classes.formControl}>
         <Typography id='demo-mutiple-chip-label'>Active Filters</Typography>
         <div className={classes.chips}>
-          {[
-            ...attributeFilter.map(value => (
-              <Chip
-                key={value}
-                label={value}
-                className={classes.chip}
-                onDelete={() =>
-                  setAttributeFilter(_.without(attributeFilter, value))
-                }
-              />
-            )),
-            ...costFilter.map(value => (
-              <Chip
-                key={value}
-                label={value}
-                className={classes.chip}
-                onDelete={() => setCostFilter(_.without(costFilter, value))}
-              />
-            ))
-          ]}
+          <FilterChips
+            filter={attributeFilter}
+            setFilter={setAttributeFilter}
+            classes={classes.chip}
+          />
+          <FilterChips
+            filter={costFilter}
+            setFilter={setCostFilter}
+            classes={classes.chip}
+          />
+          <FilterChips
+            filter={searchFilter}
+            setFilter={setSearchFilter}
+            classes={classes.chip}
+          />
         </div>
       </FormControl>
       <Divider />

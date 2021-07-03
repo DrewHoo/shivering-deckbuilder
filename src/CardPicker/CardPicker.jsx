@@ -5,12 +5,14 @@ import { cards } from '../collection'
 import { CollectionList } from './CollectionList'
 import { cardCostComparator } from '../DeckList/DeckList'
 import { filterByCollection } from '../DeckCodeUtils/deck-analyzer'
+import { cardAttributesMatchAttributeFilter } from './cardAttributesMatchAttributeFilter'
 
 export function CardPicker ({ addCard }) {
   const [attributeFilter, setAttributeFilter] = useState([])
   const [costFilter, setCostFilter] = useState([])
   const [filteredCards, setFilteredCards] = useState(cards)
-  const [activeSearchFilter, setActiveSearchFilter] = useState('')
+  const [searchText, setSearchText] = useState('')
+  const [searchFilter, setSearchFilter] = useState([])
   const [userCollection, setUserCollection] = useState('')
 
   useEffect(() => {
@@ -18,28 +20,34 @@ export function CardPicker ({ addCard }) {
 
     if (attributeFilter.length) {
       filteredList = cards.filter(({ Attributes }) =>
-        attributeFilter.every(attribute =>
-          Attributes.includes(attribute.toLowerCase())
-        )
+        cardAttributesMatchAttributeFilter(Attributes, attributeFilter)
       )
     }
     if (costFilter.length) {
       filteredList = filteredList.filter(card =>
-        costFilter.every(cost => card['Magicka Cost'] === String(cost))
+        costFilter.some(cost => card['Magicka Cost'] === String(cost))
       )
     }
-    if (activeSearchFilter) {
-      filteredList = filteredList.filter(
-        ({ Text, Name }) =>
-          Text.toLowerCase().includes(activeSearchFilter.toLowerCase()) ||
-          Name.toLowerCase().includes(activeSearchFilter.toLowerCase())
+    if (searchText || searchFilter.length) {
+      const searchTerms = [...searchFilter]
+      if (searchText.length) {
+        searchTerms.push(searchText)
+      }
+      filteredList = filteredList.filter(({ Text, Name, Race, Type }) =>
+        searchTerms.some(
+          searchTerm =>
+            Text.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            Name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            Race.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            Type.toLowerCase().includes(searchTerm.toLowerCase())
+        )
       )
     }
     if (userCollection) {
       filteredList = filterByCollection(filteredList, userCollection)
     }
     setFilteredCards(filteredList)
-  }, [attributeFilter, costFilter, activeSearchFilter, userCollection])
+  }, [attributeFilter, costFilter, searchText, userCollection, searchFilter])
 
   return (
     <>
@@ -50,8 +58,10 @@ export function CardPicker ({ addCard }) {
         setAttributeFilter={setAttributeFilter}
         costFilter={costFilter}
         setCostFilter={setCostFilter}
-        activeSearchFilter={activeSearchFilter}
-        setActiveSearchFilter={setActiveSearchFilter}
+        searchFilter={searchFilter}
+        setSearchFilter={setSearchFilter}
+        setSearchText={setSearchText}
+        searchText={searchText}
       />
       {/* </Toolbar> */}
       {filteredCards && (
@@ -70,7 +80,7 @@ const AttributeOrdering = {
   neutral: 6
 }
 
-function pickerCardComparator (a, b) {
+export function pickerCardComparator (a, b) {
   if (a.Attributes[0] === 'neutral' || b.Attributes[0] === 'neutral') {
     if (a.Attributes[0] === 'neutral' && b.Attributes[0] === 'neutral') {
       return cardCostComparator(a, b)

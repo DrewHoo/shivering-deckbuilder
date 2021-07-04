@@ -137,7 +137,7 @@ export function CollectionFilters ({
             onKeyPress={handleSearchTermFilterAdded}
           />
         </FormControl>
-        <FormControlLabel
+        {/* <FormControlLabel
           className={classes.formControl}
           control={
             <IconButton onClick={() => setDialogOpen(true)}>
@@ -154,7 +154,7 @@ export function CollectionFilters ({
             </IconButton>
           }
           label='Clear Collection'
-        />
+        /> */}
       </FormGroup>
       <Divider />
       <FormControl className={classes.formControl}>

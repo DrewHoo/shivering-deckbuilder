@@ -1427,7 +1427,7 @@ module.exports = { cards: [
     "Attributes": [
       "neutral"
     ],
-    "Race": "Imperfect",
+    "Race": "Automaton",
     "Magicka Cost": "8",
     "Attack": "8",
     "Health": "8",

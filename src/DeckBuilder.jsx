@@ -76,7 +76,7 @@ const useStyles = makeStyles(theme => ({
   },
   collectionViewContent: {
     flexGrow: 1,
-    padding: theme.spacing(3),
+    padding: theme.spacing(3)
   },
   contentShift: {
     transition: theme.transitions.create('margin', {
@@ -136,15 +136,17 @@ export default function DeckBuilder () {
         })}
       >
         <Toolbar className={clsx(classes.toolBar)}>
-          <IconButton
-            color='inherit'
-            aria-label='open drawer'
-            onClick={handleDrawerOpen}
-            edge='start'
-            className={clsx(classes.menuButton, open && classes.hide)}
-          >
-            <LibraryBooksIcon />
-          </IconButton>
+          {!collectionView && (
+            <IconButton
+              color='inherit'
+              aria-label='open drawer'
+              onClick={handleDrawerOpen}
+              edge='start'
+              className={clsx(classes.menuButton, open && classes.hide)}
+            >
+              <LibraryBooksIcon />
+            </IconButton>
+          )}
           <Typography variant='h6' noWrap>
             The Shivering Deck Builder
           </Typography>
@@ -202,9 +204,7 @@ export default function DeckBuilder () {
         </main>
       )}
       {collectionView && (
-        <main
-          className={clsx(classes.collectionViewContent)}
-        >
+        <main className={clsx(classes.collectionViewContent)}>
           <div className={classes.drawerHeader} />
           <CollectionView />
         </main>

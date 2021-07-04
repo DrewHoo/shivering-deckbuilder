@@ -84,7 +84,7 @@ export function Filters ({ setFilteredCards, cards }) {
       filteredList = filteredList.filter(card =>
         raceFilter.some(
           race =>
-            card.Race === String(race) || MetaRaces[race].includes(card.Race)
+            card.Race === String(race) || MetaRaces[race]?.includes(card.Race)
         )
       )
     }

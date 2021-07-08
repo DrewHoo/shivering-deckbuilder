@@ -28,8 +28,7 @@ const useStyles = makeStyles(theme => ({
 export function FilterPicker ({
   addFilter,
   setSearchTextFilter,
-  searchTextFilter,
-  chartType
+  searchTextFilter
 }) {
   const theme = useTheme()
   const classes = useStyles(theme)

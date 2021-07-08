@@ -58,7 +58,7 @@ function transformQueryToData ({
             return parseInt(dimensionValue, 10)
           default:
             console.error(
-              `error: ${DimensionToVariableTypeMap[dimension]} is not a valid variable type`
+              `error: ${DimensionToVariableTypeMap[dimension]} is not a valid variable type for dimension '${dimension}'`
             )
             return []
         }
@@ -66,7 +66,7 @@ function transformQueryToData ({
       .map(([dimensionValue, cardsOfDimension]) => ({
         name: dimensionValue,
         items: cardsOfDimension,
-        ...(segment !== 'None'
+        ...(segment
           ? segmentItems({ items: cardsOfDimension, segment })
           : { [dimension]: cardsOfDimension.length })
       }))

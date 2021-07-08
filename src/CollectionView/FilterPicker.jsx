@@ -39,58 +39,6 @@ export function FilterPicker ({
 
   const [operatorOptions, setOperatorOptions] = useState([])
   const [valueOptions, setValueOptions] = useState([])
-  const [propertyOptions, setPropertyOptions] = useState(Dimensions)
-
-  useEffect(() => {
-    switch (chartType) {
-      case 'Pie':
-        setPropertyOptions(
-          Dimensions.filter(dimension =>
-            ['Categorical', 'Ordinal'].includes(
-              DimensionToVariableTypeMap[dimension]
-            )
-          )
-        )
-        break
-      case 'Bar':
-        setPropertyOptions(
-          Dimensions.filter(dimension =>
-            ['Categorical', 'Numerical', 'Ordinal'].includes(
-              DimensionToVariableTypeMap[dimension]
-            )
-          )
-        )
-        break
-      default:
-    }
-  }, [chartType, setPropertyOptions])
-
-  useEffect(() => {
-    switch (chartType) {
-      case 'Pie':
-        if (
-          property &&
-          !['Categorical', 'Ordinal'].includes(
-            DimensionToVariableTypeMap[property]
-          )
-        ) {
-          setProperty('Race')
-        }
-
-        break
-      case 'Bar':
-        if (
-          property &&
-          !['Categorical', 'Numerical', 'Ordinal'].includes(
-            DimensionToVariableTypeMap[property]
-          )
-        ) {
-          setProperty('Magicka Cost')
-        }
-        break
-      default:
-    }
-  }, [chartType, setProperty, property])
 
   const handleSearchTermFilterAdded = useCallback(
     event => {
@@ -153,7 +101,7 @@ export function FilterPicker ({
             id='viz-filter'
             selectName='Filter'
             onChange={setProperty}
-            menuOptions={propertyOptions}
+            menuOptions={Dimensions}
             value={property}
           />
         </Grid>

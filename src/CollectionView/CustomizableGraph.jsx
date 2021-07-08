@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import FormGroup from '@material-ui/core/FormGroup'
 import Divider from '@material-ui/core/Divider'
 import Grid from '@material-ui/core/Grid'
@@ -6,7 +6,12 @@ import Grid from '@material-ui/core/Grid'
 import { VizDisplayer } from '../VizBuilder/VizBuilder'
 import { LabeledSelect } from '../components/LabeledSelect'
 import { Filters } from './Filters'
-import { ChartTypeOptions, Dimensions, Segments } from './constants'
+import {
+  ChartTypeOptions,
+  Dimensions,
+  DimensionToVariableTypeMap,
+  Segments
+} from './constants'
 import SimpleCard from '../Card'
 import { makeStyles } from '@material-ui/core'
 
@@ -21,9 +26,63 @@ export function CustomizableGraph () {
   const classes = useStyles()
   const [filters, setFilters] = useState([])
   const [dimension, setDimension] = useState('Magicka Cost')
-  const [segment, setSegment] = useState('None')
+  const [segment, setSegment] = useState('')
   const [chartType, setChartType] = useState('Bar')
   const [searchTextFilter, setSearchTextFilter] = useState(null)
+  const [dimensionOptions, setDimensionOptions] = useState([])
+
+  useEffect(() => {
+    switch (chartType) {
+      case 'Pie':
+        setDimensionOptions(
+          Dimensions.filter(dimensionOption =>
+            ['Categorical', 'Ordinal'].includes(
+              DimensionToVariableTypeMap[dimensionOption]
+            )
+          )
+        )
+        break
+      case 'Bar':
+        setDimensionOptions(
+          Dimensions.filter(dimensionOption =>
+            ['Categorical', 'Numerical', 'Ordinal'].includes(
+              DimensionToVariableTypeMap[dimensionOption]
+            )
+          )
+        )
+        break
+      default:
+        console.error(`error: invalid chart type '${chartType}'`)
+    }
+  }, [chartType, setDimensionOptions])
+
+  useEffect(() => {
+    switch (chartType) {
+      case 'Pie':
+        if (
+          dimension &&
+          !['Categorical', 'Ordinal'].includes(
+            DimensionToVariableTypeMap[dimension]
+          )
+        ) {
+          setDimension('')
+        }
+
+        break
+      case 'Bar':
+        if (
+          dimension &&
+          !['Categorical', 'Numerical', 'Ordinal'].includes(
+            DimensionToVariableTypeMap[dimension]
+          )
+        ) {
+          setDimension('')
+        }
+        break
+      default:
+        console.error(`error: invalid chart type '${chartType}'`)
+    }
+  }, [chartType, setDimension, dimension])
 
   return (
     <SimpleCard className={classes.simpleCard} title={'Customizable Graph'}>
@@ -44,7 +103,7 @@ export function CustomizableGraph () {
               selectName='Dimension'
               value={dimension}
               onChange={setDimension}
-              menuOptions={Dimensions}
+              menuOptions={dimensionOptions}
             />
             {chartType === 'Bar' && (
               <LabeledSelect

@@ -60,7 +60,6 @@ export function Filters ({
         addFilter={addFilter}
         searchTextFilter={searchTextFilter}
         setSearchTextFilter={setSearchTextFilter}
-        chartType={chartType}
       />
       <FormControl className={classes.formControl}>
         <div className={classes.chips}>

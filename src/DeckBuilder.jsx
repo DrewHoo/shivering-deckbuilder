@@ -108,7 +108,7 @@ export default function DeckBuilder () {
     setDeckCode(removeCardFromDeck(queryParams.deckCode, card))
   }
 
-  const [collectionView, setCollectionView] = useState(false)
+  const [collectionView, setCollectionView] = useState(true)
   const updateCollectionView = useCallback(
     () => setCollectionView(!collectionView),
     [collectionView, setCollectionView]

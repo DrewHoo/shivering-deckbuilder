@@ -26,12 +26,12 @@ const useStyles = makeStyles({
   }
 })
 
-export default function SimpleCard ({ children, title }) {
+export default function SimpleCard ({ children, title, action }) {
   const classes = useStyles()
 
   return (
     <Card className={classes.root}>
-      <CardHeader title={title}/>
+      <CardHeader title={title} action={action} />
       <CardContent className={classes.cardContent}>{children}</CardContent>
     </Card>
   )

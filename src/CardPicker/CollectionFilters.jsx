@@ -8,16 +8,12 @@ import DialogContent from '@material-ui/core/DialogContent'
 import DialogContentText from '@material-ui/core/DialogContentText'
 import DialogTitle from '@material-ui/core/DialogTitle'
 import FormControl from '@material-ui/core/FormControl'
-import IconButton from '@material-ui/core/IconButton'
-import PlaylistAddIcon from '@material-ui/icons/PlaylistAdd'
-import ClearIcon from '@material-ui/icons/Clear'
 import TextareaAutosize from '@material-ui/core/TextareaAutosize'
 
 import { AttributeNames } from '../constants'
 import { trackFilterAdded, trackFilterRemoved } from '../tracker'
 import {
   Divider,
-  FormControlLabel,
   FormGroup,
   TextField,
   Typography
@@ -45,7 +41,7 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-const AttributeFilters = [
+export const AttributeFilters = [
   ...Object.values(AttributeNames),
   'Battlemage',
   'Crusader',

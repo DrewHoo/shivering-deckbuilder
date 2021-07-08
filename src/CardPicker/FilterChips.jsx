@@ -1,14 +1,13 @@
-import _ from 'lodash'
 import React from 'react'
 import Chip from '@material-ui/core/Chip'
 
-export const FilterChips = ({ setFilter, filter, classes }) => {
-  return filter.map(value => (
+export const FilterChips = ({ removeFilter, filter, classes }) => {
+  return filter.map(({ property, value, operator }) => (
     <Chip
-      key={value}
-      label={value}
+      key={`${property}${operator}${value}`}
+      label={`${property} ${operator} ${value}`}
       className={classes}
-      onDelete={() => setFilter(_.without(filter, value))}
+      onDelete={() => removeFilter({ property, value, operator })}
     />
   ))
 }

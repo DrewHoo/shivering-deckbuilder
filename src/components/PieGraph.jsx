@@ -1,5 +1,6 @@
+import { makeStyles } from '@material-ui/styles'
 import React from 'react'
-import { PieChart, Pie, Cell, ResponsiveContainer } from 'recharts'
+import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts'
 import './PieGraph.css'
 
 const COLORS = [
@@ -14,7 +15,10 @@ const COLORS = [
   '#ff715bff'
 ]
 
+const useStyles = makeStyles(theme => ({ labelText: { fontSize: '1em' } }))
+
 export function PieGraph ({ data, nameKey, dataKey }) {
+  const classes = useStyles()
   const RADIAN = Math.PI / 180
   const renderCustomizedLabel = ({
     cx,
@@ -25,32 +29,31 @@ export function PieGraph ({ data, nameKey, dataKey }) {
     percent,
     index
   }) => {
-    const radius = outerRadius * 1.5
+    const radius = outerRadius * 0.67
     const x = cx + radius * Math.cos(-midAngle * RADIAN)
     const y = cy + radius * Math.sin(-midAngle * RADIAN)
     return (
       <text
-        className='PieGraph-labeltext'
+        className={classes.labelText}
         x={x}
         y={y}
-        fill='black'
+        fill='white'
         textAnchor={x > cx ? 'start' : 'end'}
         dominantBaseline='central'
       >
-        {data[index][nameKey]}: {`${(percent * 100).toFixed(0)}%`}
+        {`${(percent * 100).toFixed(0)}%`}
       </text>
     )
   }
   return (
-    <ResponsiveContainer width='100%' height={400} className='PieGraph'>
-      {/* <ResponsiveContainer className='PieGraph'> */}
-      <PieChart width={400} height={400}>
+    <ResponsiveContainer height={400} className='PieGraph'>
+      <PieChart>
         <Pie
           data={data}
           cx='50%'
           cy='50%'
-          labelLine={true}
-          outerRadius={80}
+          labelLine={false}
+          outerRadius={150}
           fill='#8884d8'
           nameKey={nameKey}
           dataKey={dataKey}
@@ -63,6 +66,7 @@ export function PieGraph ({ data, nameKey, dataKey }) {
             />
           ))}
         </Pie>
+        <Legend />
       </PieChart>
     </ResponsiveContainer>
   )

@@ -4,6 +4,7 @@ import mixpanel from 'mixpanel-browser'
 import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
+import { trackPageLoaded } from './tracker'
 
 ReactDOM.render(
   <React.StrictMode>
@@ -13,6 +14,7 @@ ReactDOM.render(
 )
 
 mixpanel.init('2240abc36ebb5a244952e2d2322c74dc')
+trackPageLoaded()
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

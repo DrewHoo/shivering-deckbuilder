@@ -17,18 +17,3 @@ export function useWidth() {
     }, null) || 'xs'
   );
 }
-
-// function MyComponent() {
-//   const width = useWidth();
-//   return <span>{`width: ${width}`}</span>;
-// }
-
-// const theme = createMuiTheme();
-
-// export default function UseWidth() {
-//   return (
-//     <ThemeProvider theme={theme}>
-//       <MyComponent />
-//     </ThemeProvider>
-//   );
-// }

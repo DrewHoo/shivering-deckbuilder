@@ -113,9 +113,8 @@ export default function DeckBuilder () {
     () => setCollectionView(!collectionView),
     [collectionView, setCollectionView]
   )
-
-  const classes = useStyles()
   const theme = useTheme()
+  const classes = useStyles(theme)
   const [open, setOpen] = React.useState(false)
 
   const handleDrawerOpen = () => {

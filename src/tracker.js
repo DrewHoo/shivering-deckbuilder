@@ -1,6 +1,7 @@
 import mixpanel from 'mixpanel-browser'
 
 const MixpanelEventNames = {
+  PageLoaded: 'Page Loaded',
   DeckCodePasted: 'Deck Code Pasted',
   CollectionCodePasted: 'Collection Code Pasted',
   CardAdded: 'Card Added',
@@ -12,6 +13,10 @@ const MixpanelEventNames = {
 const MixpanelPropertyNames = {
   DeckBuilderFilter: 'Deck Builder Filter',
   ActionMethod: 'Action Method'
+}
+
+export function trackPageLoaded () {
+  mixpanel.track(MixpanelEventNames.PageLoaded)
 }
 
 export function trackDeckCodePaste (deckCode) {

@@ -2209,7 +2209,7 @@ module.exports = { cards: [
     "Text": "Ongoing. When a friendly creature dies, give a random creature in your hand +1/+1.",
     "Keywords": "",
     "Played in": "78/13644 of  Eligible  decks (1 %)",
-    "code": "Am"
+    "code": "yk"
   },
   {
     "Name": "Black Worm Necromancer",

@@ -1,5 +1,8 @@
 import _ from 'lodash'
 
+/**
+ * { [alt art code]: <reg art code>}
+ */
 export const altArtCodeMap = {
   Aa: 'hw',
   Ab: 'wJ',
@@ -7,6 +10,7 @@ export const altArtCodeMap = {
   Af: 'eG',
   Ag: 'dI',
   Ak: 'eF',
+  Am: 'yk',
   An: 'pZ',
   ap: 'ao',
   aY: 'aX',

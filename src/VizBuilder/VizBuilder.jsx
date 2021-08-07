@@ -46,6 +46,11 @@ function transformQueryToData ({
           filter => filterQuery({ filter, item: card })
         )
       )
+      .flatMap(card =>
+        Array.isArray(card[dimension])
+          ? card[dimension].map(dim => ({ ...card, [dimension]: [dim] }))
+          : [card]
+      )
       .groupBy(card => card[dimension])
       .toPairs()
       .sortBy(([dimensionValue, cardsOfDimension]) => {
@@ -103,6 +108,11 @@ function filterQuery ({ item, filter: { property, operator, value, or } }) {
       return item[property].toLowerCase?.().includes(value.toLowerCase())
 
     case 'does not include':
+      if (Array.isArray(item[property])) {
+        return !item[property]
+          .map(attr => attr.toLowerCase())
+          .includes(value.toLowerCase())
+      }
       return !item[property].toLowerCase?.().includes(value.toLowerCase())
 
     case 'is greater than':

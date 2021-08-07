@@ -9,12 +9,16 @@ import DialogContentText from '@material-ui/core/DialogContentText'
 import DialogTitle from '@material-ui/core/DialogTitle'
 import FormControl from '@material-ui/core/FormControl'
 import TextareaAutosize from '@material-ui/core/TextareaAutosize'
+import PlaylistAddIcon from '@material-ui/icons/PlaylistAdd'
+import ClearIcon from '@material-ui/icons/Clear'
 
 import { AttributeNames } from '../constants'
 import { trackFilterAdded, trackFilterRemoved } from '../tracker'
 import {
   Divider,
+  FormControlLabel,
   FormGroup,
+  IconButton,
   TextField,
   Typography
 } from '@material-ui/core'
@@ -133,7 +137,7 @@ export function CollectionFilters ({
             onKeyPress={handleSearchTermFilterAdded}
           />
         </FormControl>
-        {/* <FormControlLabel
+        <FormControlLabel
           className={classes.formControl}
           control={
             <IconButton onClick={() => setDialogOpen(true)}>
@@ -150,7 +154,7 @@ export function CollectionFilters ({
             </IconButton>
           }
           label='Clear Collection'
-        /> */}
+        />
       </FormGroup>
       <Divider />
       <FormControl className={classes.formControl}>

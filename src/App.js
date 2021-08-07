@@ -5,9 +5,11 @@ import './App.css'
 import DeckBuilder from './DeckBuilder'
 import { createMuiTheme, MuiThemeProvider } from '@material-ui/core/styles'
 import { useMediaQuery } from '@material-ui/core'
+import { DataViz } from './CollectionView/DataViz'
 
 const routes = {
-  '/': () => <DeckBuilder />
+  '/': () => <DeckBuilder />,
+  '/dataviz': <DataViz />
 }
 
 function App () {

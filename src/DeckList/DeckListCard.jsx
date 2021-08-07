@@ -67,130 +67,130 @@ const useStyles = makeStyles(theme => ({
   neutral: { backgroundColor: AttributeToColorMap.neutral },
 
   battlemage: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence
     )
   },
   mage: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.intelligence,
       AttributeToColorMap.willpower
     )
   },
   monk: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.agility,
       AttributeToColorMap.willpower
     )
   },
   scout: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.agility,
       AttributeToColorMap.endurance
     )
   },
   crusader: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.willpower
     )
   },
   archer: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.agility
     )
   },
   warrior: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.endurance
     )
   },
   assassin: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence
     )
   },
   sorcerer: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.intelligence,
       AttributeToColorMap.endurance
     )
   },
   spellsword: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.willpower,
       AttributeToColorMap.endurance
     )
   },
 
   guildsworn: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence,
       AttributeToColorMap.willpower
     )
   },
   dagoth: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence,
       AttributeToColorMap.agility
     )
   },
   covenant: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence,
       AttributeToColorMap.endurance
     )
   },
   hlaalu: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.willpower,
       AttributeToColorMap.agility
     )
   },
   redoran: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.willpower,
       AttributeToColorMap.endurance
     )
   },
   ebonheart: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.agility,
       AttributeToColorMap.endurance
     )
   },
   dominion: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.intelligence,
       AttributeToColorMap.willpower,
       AttributeToColorMap.agility
     )
   },
   telvanni: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.strength,
       AttributeToColorMap.intelligence
     )
   },
   tribunal: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.intelligence,
       AttributeToColorMap.willpower,
       AttributeToColorMap.endurance
     )
   },
   empire: {
-    background: makeGradient(
+    background: makeTransparentGradient(
       AttributeToColorMap.willpower,
       AttributeToColorMap.agility,
       AttributeToColorMap.endurance
@@ -266,7 +266,10 @@ export function DeckListCard ({ card, handleClickOpen }) {
   )
 }
 
-function makeImageGradient (house) {
+export function makeImageGradient (
+  house,
+  makeGradient = makeTransparentGradient
+) {
   switch (house) {
     case 'strength':
       return makeGradient(AttributeToColorMap.strength)
@@ -470,7 +473,7 @@ function mapAttributesToClass (attributes) {
   }
 }
 
-function makeGradient (color1, color2, color3) {
+function makeTransparentGradient (color1, color2, color3) {
   if (color3) {
     return `linear-gradient(to right, ${color1}, ${color1} 15%, ${color2} 30%, ${color3} 45%, transparent 50%)`
   }
@@ -478,4 +481,14 @@ function makeGradient (color1, color2, color3) {
     return `linear-gradient(to right, ${color1}, ${color1} 20%, ${color2}, ${color2} 30%, transparent 40%)`
   }
   return `linear-gradient(to right, ${color1}, ${color1} 20%, transparent 40%)`
+}
+
+export function makeNonTransparentGradient (color1, color2, color3) {
+  if (color3) {
+    return `linear-gradient(to right, ${color1}, ${color1} 33%, ${color2} 67%, ${color3}%)`
+  }
+  if (color2) {
+    return `linear-gradient(to right, ${color1}, ${color1} 50%, ${color2})`
+  }
+  return color1
 }

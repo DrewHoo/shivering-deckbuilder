@@ -3,6 +3,7 @@ import { ExpansionSets } from '../constants'
 export const Dimensions = [
   'Name',
   'Text',
+  'Class',
   'Attributes',
   'Magicka Cost',
   'Attack',
@@ -10,12 +11,14 @@ export const Dimensions = [
   'Rarity',
   'Race',
   'Keywords',
+  'Mechanics',
   'Type',
   'Expansion Set'
 ]
 
 export const Segments = [
   'Attributes',
+  'Class',
   'Magicka Cost',
   'Attack',
   'Health',
@@ -27,8 +30,10 @@ export const Segments = [
 ]
 
 export const DimensionToVariableTypeMap = {
+  Class: 'Categorical',
   Name: 'String',
   Text: 'String',
+  Mechanics: 'Categorical',
   Attributes: 'Categorical',
   'Magicka Cost': 'Numerical',
   Attack: 'Numerical',

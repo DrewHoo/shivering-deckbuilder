@@ -6,9 +6,11 @@ import Grid from '@material-ui/core/Grid'
 import {
   AttributeNames,
   CardTypes,
+  Classes,
   DualColorClasses,
   ExpansionSets,
   KeywordNames,
+  Mechanics,
   Races,
   Rarities,
   TriColorHouses
@@ -184,6 +186,8 @@ function getOperatorOptions (filter) {
     case 'Keywords':
     case 'Type':
     case 'Expansion Set':
+    case 'Mechanics':
+    case 'Class':
       return CategoricalOperators
     case 'Magicka Cost':
     case 'Attack':
@@ -212,10 +216,14 @@ function getValueOptions (filter) {
       return Object.values(Races)
     case 'Keywords':
       return Object.values(KeywordNames)
+    case 'Class':
+      return Object.values(Classes)
     case 'Type':
       return Object.values(CardTypes)
     case 'Expansion Set':
       return Object.values(ExpansionSets)
+    case 'Mechanics':
+      return Object.values(Mechanics)
     case 'Magicka Cost':
       return [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20]
     case 'Attack':

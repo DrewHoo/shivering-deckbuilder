@@ -86,7 +86,13 @@ export function CustomizableGraph () {
 
   return (
     <SimpleCard className={classes.simpleCard} title={'Customizable Graph'}>
-      <Grid container spacing={1} direction='row' justify='center'>
+      <Grid
+        container
+        spacing={1}
+        direction='row'
+        justify='center'
+        alignContent='center'
+      >
         <Grid item xs={3} sm={4}>
           <FormGroup className={classes.formGroup}>
             <LabeledSelect

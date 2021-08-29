@@ -67,7 +67,7 @@ export function QuickStats ({ cardList }) {
       value: calculateOddsOfDrawingKCard(
         cardList.length,
         cardList.filter(({ Keywords }) =>
-          Keywords.split(',').includes(KeywordNames.Prophecy)
+          Keywords.includes(KeywordNames.Prophecy)
         ).length,
         5 // one card drawn for each rune
       )

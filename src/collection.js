@@ -1002,7 +1002,7 @@ module.exports = {
       Text: 'Prophecy. Summon a 1/1 Risen Dead with Guard in each lane.',
       'Played in': '56/13651 of  Eligible  decks (0 %)',
       code: 'wP',
-      Keywords: ['Prophecy', 'Guard'],
+      Keywords: ['Prophecy'],
       Mechanics: ['Lane', 'Summon'],
       Class: 'Endurance'
     },
@@ -4192,7 +4192,7 @@ module.exports = {
         'Other friendly creatures in this lane have Guard. At the end of your turn, summon a 1/1 Recruit in each lane.',
       'Played in': '249/356 of  Eligible  decks (70 %)',
       code: 'sI',
-      Keywords: ['Guard'],
+      Keywords: [],
       Mechanics: ['Creature', 'End of', 'Friendly', 'Lane', 'Summon'],
       Class: 'Empire'
     },
@@ -16114,7 +16114,7 @@ module.exports = {
         'Drain. Summon: Give all other friendly creatures in this lane Guard.',
       'Played in': '2375/4940 of  Eligible  decks (48 %)',
       code: 'mx',
-      Keywords: ['Drain', 'Guard'],
+      Keywords: ['Drain'],
       Mechanics: ['Creature', 'Friendly', 'Give', 'Lane', 'Summon'],
       Class: 'Assassin'
     },

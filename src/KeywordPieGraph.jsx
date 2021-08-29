@@ -9,7 +9,7 @@ export function KeywordPieGraph ({ cardList }) {
     cardList
       .map(({ Keywords, ...card }) => ({
         ...card,
-        Keywords: Keywords.split(',').filter(isKeyword)
+        Keywords: Keywords.filter(isKeyword)
       }))
       .flatMap(card =>
         // make a copy of the card for each keyword it has

@@ -38,7 +38,7 @@ export function CardPicker ({ addCard }) {
           searchTerm =>
             Text.toLowerCase().includes(searchTerm.toLowerCase()) ||
             Name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            Race.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            Race.join(' ').toLowerCase().includes(searchTerm.toLowerCase()) ||
             Type.toLowerCase().includes(searchTerm.toLowerCase()) ||
             Rarity.toLowerCase().includes(searchTerm.toLowerCase())
         )

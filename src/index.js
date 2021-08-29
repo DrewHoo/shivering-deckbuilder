@@ -16,6 +16,7 @@ ReactDOM.render(
 mixpanel.init('2240abc36ebb5a244952e2d2322c74dc')
 trackPageLoaded()
 
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

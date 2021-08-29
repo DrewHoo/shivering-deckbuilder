@@ -9,7 +9,7 @@ export function MechanicPieGraph ({ cardList }) {
     cardList
       .map(({ Keywords, ...card }) => ({
         ...card,
-        Keywords: Keywords.split(',').filter(word => word && !isKeyword(word))
+        Keywords: Keywords.filter(word => word && !isKeyword(word))
       }))
       .flatMap(card =>
         // make a copy of the card for each keyword it has

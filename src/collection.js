@@ -2727,7 +2727,7 @@ module.exports = { cards: [
     "Attributes": [
       "agility"
     ],
-    "Race": "",
+    "Race": "Goblin",
     "Magicka Cost": "2",
     "Attack": "2",
     "Health": "2",
@@ -11896,7 +11896,7 @@ module.exports = { cards: [
     ],
     "Race": "High Elf",
     "Magicka Cost": "5",
-    "Attack": "4",
+    "Attack": "5",
     "Health": "4",
     "Expansion Set": "Core Set",
     "Soul Summon": "50",

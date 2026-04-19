@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react'
-import { useQueryParams } from 'hookrouter'
+import { useSearchParams } from 'react-router-dom'
 import clsx from 'clsx'
 import { makeStyles } from '@material-ui/core/styles'
 import { useTheme } from '@material-ui/core/styles'
@@ -88,24 +88,29 @@ const useStyles = makeStyles(theme => ({
 }))
 
 export default function DeckBuilder () {
-  const [queryParams, setQueryParams] = useQueryParams()
+  const [searchParams, setSearchParams] = useSearchParams()
+  const deckCode = searchParams.get('deckCode')
   const setDeckCode = useCallback(
     dc => {
-      setQueryParams({ ...queryParams, deckCode: dc })
+      setSearchParams(prev => {
+        const next = new URLSearchParams(prev)
+        next.set('deckCode', dc)
+        return next
+      })
     },
-    [setQueryParams, queryParams]
+    [setSearchParams]
   )
   useEffect(() => {
-    if (!queryParams.deckCode) {
+    if (!deckCode) {
       setDeckCode('SPAAAAAA')
     }
-  }, [queryParams.deckCode, setDeckCode])
+  }, [deckCode, setDeckCode])
 
   const addCard = card => {
-    setDeckCode(addCardToDeck(queryParams.deckCode, card))
+    setDeckCode(addCardToDeck(deckCode, card))
   }
   const removeCard = card => {
-    setDeckCode(removeCardFromDeck(queryParams.deckCode, card))
+    setDeckCode(removeCardFromDeck(deckCode, card))
   }
 
   const [collectionView, setCollectionView] = useState(false)
@@ -192,10 +197,10 @@ export default function DeckBuilder () {
           })}
         >
           <div className={classes.drawerHeader} />
-          {queryParams.deckCode && (
+          {deckCode && (
             <DeckDetail
               setDeckCode={setDeckCode}
-              deckCode={queryParams.deckCode}
+              deckCode={deckCode}
               addCard={addCard}
               removeCard={removeCard}
             />

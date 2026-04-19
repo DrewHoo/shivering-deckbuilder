@@ -2,6 +2,7 @@
   "name": "shivering-deckbuilder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://drewhoo.github.io/shivering-deckbuilder",
   "dependencies": {
     "@babel/core": "^7.13.15",
     "@babel/preset-env": "^7.13.15",
